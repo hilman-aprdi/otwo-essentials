@@ -2,27 +2,28 @@ import { Suspense } from 'react'
 import ProductListingClient from '../../../components/ProductListingClient.jsx'
 import StructuredData from '../../../components/StructuredData.jsx'
 import { getProductsByCategory } from '../../../lib/data.js'
-import { ROUTES } from '../../../lib/routes.js'
-import { ASSETS, SITE_NAME } from '../../../lib/site.js'
+import { ROUTES, getCanonicalUrl } from '../../../lib/routes.js'
+import { ASSETS, SITE_NAME, getAbsoluteUrl } from '../../../lib/site.js'
 import { getCollectionSchema } from '../../../lib/schema.js'
 
 export const metadata = {
   title: 'Streetwear Bottoms',
   description: `Premium streetwear bottoms from ${SITE_NAME}, made for comfortable daily outfits.`,
   alternates: {
-    canonical: ROUTES.collectionCategory('bottom'),
+    canonical: getCanonicalUrl(ROUTES.collectionCategory('bottom')),
   },
   openGraph: {
     title: `Streetwear Bottoms | ${SITE_NAME}`,
     description: `Premium streetwear bottoms from ${SITE_NAME}, made for comfortable daily outfits.`,
-    url: ROUTES.collectionCategory('bottom'),
-    images: [{ url: ASSETS.bannerPayday, width: 1200, height: 630, alt: `${SITE_NAME} Bottom Collection` }],
+    siteName: SITE_NAME,
+    url: getCanonicalUrl(ROUTES.collectionCategory('bottom')),
+    images: [{ url: getAbsoluteUrl(ASSETS.bannerPayday), width: 1200, height: 630, alt: `${SITE_NAME} Bottom Collection` }],
   },
   twitter: {
     card: 'summary_large_image',
     title: `Streetwear Bottoms | ${SITE_NAME}`,
     description: `Premium streetwear bottoms from ${SITE_NAME}, made for comfortable daily outfits.`,
-    images: [ASSETS.bannerPayday],
+    images: [getAbsoluteUrl(ASSETS.bannerPayday)],
   },
 }
 

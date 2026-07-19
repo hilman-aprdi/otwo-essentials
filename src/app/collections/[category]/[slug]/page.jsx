@@ -2,8 +2,8 @@ import { notFound } from 'next/navigation'
 import ProductDetailClient from '../../../../components/ProductDetailClient.jsx'
 import StructuredData from '../../../../components/StructuredData.jsx'
 import { getAllProducts, getProductBySlug } from '../../../../lib/data.js'
-import { ROUTES } from '../../../../lib/routes.js'
-import { ASSETS, SITE_NAME } from '../../../../lib/site.js'
+import { ROUTES, getCanonicalUrl } from '../../../../lib/routes.js'
+import { ASSETS, SITE_NAME, getAbsoluteUrl } from '../../../../lib/site.js'
 import { getProductSchema } from '../../../../lib/schema.js'
 
 const getProductDescription = (product) => {
@@ -42,19 +42,21 @@ export async function generateMetadata({ params }) {
   const category = product.category?.toLowerCase() || 'top'
   const productPath = ROUTES.collectionProduct(category, product.slug)
   const description = getProductDescription(product)
-  const ogImage = getProductOgImage(product)
+  const canonicalUrl = getCanonicalUrl(productPath)
+  const ogImage = getAbsoluteUrl(getProductOgImage(product))
 
   return {
     title: product.name,
     description,
     alternates: {
-      canonical: productPath,
+      canonical: canonicalUrl,
     },
     openGraph: {
       type: 'website',
+      siteName: SITE_NAME,
       title: `${product.name} | ${SITE_NAME}`,
       description,
-      url: productPath,
+      url: canonicalUrl,
       images: [
         {
           url: ogImage,

@@ -1,4 +1,4 @@
-import { SITE_URL } from './site.js'
+import { getAbsoluteUrl } from './site.js'
 
 const COLLECTIONS_BASE = '/collections'
 
@@ -13,4 +13,4 @@ export const ROUTES = {
   search: '/search',
 }
 
-export const getCanonicalUrl = (path) => new URL(withTrailingSlash(path), SITE_URL).toString()
+export const getCanonicalUrl = (path) => getAbsoluteUrl(withTrailingSlash(path))

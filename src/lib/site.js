@@ -2,9 +2,11 @@ const ASSET_BASE = '/assets'
 
 export const SITE_NAME = 'o²essentials'
 export const SITE_TAGLINE = 'Breath Air, Wear O2'
-export const SITE_URL = process.env.NEXT_PUBLIC_SITE_URL || 'https://o2essentials.id'
+export const SITE_URL = process.env.NEXT_PUBLIC_SITE_URL || 'https://otwo-essentials.vercel.app'
 export const SITE_DESCRIPTION =
   'O2 Essentials is an Indonesian streetwear brand offering oversized essentials, premium everyday apparel, and graphic pieces made for daily wear.'
+
+export const getAbsoluteUrl = (path) => new URL(path, SITE_URL).toString()
 
 export const ASSETS = {
   heroBgJpg: `${ASSET_BASE}/hero_bg.jpg`,

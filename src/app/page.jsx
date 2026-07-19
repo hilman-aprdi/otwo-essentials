@@ -5,8 +5,8 @@ import Gallery from '../components/Gallery.jsx'
 import Hero from '../components/Hero.jsx'
 import ProductGrid from '../components/ProductGrid.jsx'
 import StructuredData from '../components/StructuredData.jsx'
-import { ROUTES } from '../lib/routes.js'
-import { ASSETS, SITE_DESCRIPTION, SITE_NAME } from '../lib/site.js'
+import { ROUTES, getCanonicalUrl } from '../lib/routes.js'
+import { ASSETS, SITE_DESCRIPTION, SITE_NAME, getAbsoluteUrl } from '../lib/site.js'
 import { getOrganizationSchema, getWebSiteSchema } from '../lib/schema.js'
 
 export const metadata = {
@@ -15,15 +15,15 @@ export const metadata = {
   },
   description: SITE_DESCRIPTION,
   alternates: {
-    canonical: ROUTES.home,
+    canonical: getCanonicalUrl(ROUTES.home),
   },
   openGraph: {
     title: 'O2 Essentials - Oversized Streetwear Indonesia',
     description: SITE_DESCRIPTION,
-    url: ROUTES.home,
+    url: getCanonicalUrl(ROUTES.home),
     images: [
       {
-        url: ASSETS.heroBgJpg,
+        url: getAbsoluteUrl(ASSETS.heroBgJpg),
         width: 1200,
         height: 630,
         alt: SITE_NAME,
@@ -34,7 +34,7 @@ export const metadata = {
     card: 'summary_large_image',
     title: 'O2 Essentials - Oversized Streetwear Indonesia',
     description: SITE_DESCRIPTION,
-    images: [ASSETS.heroBgJpg],
+    images: [getAbsoluteUrl(ASSETS.heroBgJpg)],
   },
 }
 

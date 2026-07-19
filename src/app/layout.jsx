@@ -1,7 +1,7 @@
 import './globals.css'
 import Navbar from '../components/Navbar.jsx'
 import Footer from '../components/Footer.jsx'
-import { ASSETS, SITE_DESCRIPTION, SITE_NAME, SITE_TAGLINE, SITE_URL } from '../lib/site.js'
+import { ASSETS, SITE_DESCRIPTION, SITE_NAME, SITE_TAGLINE, SITE_URL, getAbsoluteUrl } from '../lib/site.js'
 
 export const metadata = {
   metadataBase: new URL(SITE_URL),
@@ -16,18 +16,18 @@ export const metadata = {
     shortcut: '/assets/favico.ico',
   },
   alternates: {
-    canonical: '/',
+    canonical: getAbsoluteUrl('/'),
   },
   openGraph: {
     type: 'website',
     locale: 'id_ID',
-    url: '/',
+    url: getAbsoluteUrl('/'),
     siteName: SITE_NAME,
     title: 'O2 Essentials - Oversized Streetwear Indonesia',
     description: SITE_DESCRIPTION,
     images: [
       {
-        url: ASSETS.heroBgJpg,
+        url: getAbsoluteUrl(ASSETS.heroBgJpg),
         width: 1200,
         height: 630,
         alt: SITE_TAGLINE,
@@ -38,7 +38,7 @@ export const metadata = {
     card: 'summary_large_image',
     title: 'O2 Essentials - Oversized Streetwear Indonesia',
     description: SITE_DESCRIPTION,
-    images: [ASSETS.heroBgJpg],
+    images: [getAbsoluteUrl(ASSETS.heroBgJpg)],
   },
   robots: {
     index: true,
