@@ -1,0 +1,20 @@
+{
+  "banners": [
+    {
+      "id": 1,
+      "image": "/assets/banner/new_release.webp",
+      "title": "PAYDAY SALE",
+      "subtitle": "Up to 50% OFF",
+      "description": "Limited time offer on selected items",
+      "link": "/collections"
+    },
+    {
+      "id": 2,
+      "image": "/assets/banner/new_release_2.webp",
+      "title": "NEW COLLECTION",
+      "subtitle": "Fresh Styles Available",
+      "description": "Discover our latest premium oversized t-shirts",
+      "link": "/collections"
+    }
+  ]
+} 

@@ -1,0 +1,3170 @@
+[
+  {
+    "id": "1",
+    "slug": "akita-inu-oversized-tee",
+    "category": "Top",
+    "type": "T-Shirt",
+    "name": "Oversized T-Shirt – Akita Inu",
+    "designTheme": [
+      "Dog",
+      "Animal",
+      "Japan"
+    ],
+    "links": {
+      "shopee": "https://shopee.co.id/o2essentialsofficialstore",
+      "tokopedia": "https://www.tokopedia.com/o2essentialsid",
+      "tiktok": "https://vt.tiktok.com/ZSHurYoNt/?page=Mall"
+    },
+    "material": "Cotton Combed 20s",
+    "basePrice": 0,
+    "featured": false,
+    "description": "-",
+    "variants": [
+      {
+        "name": "Black",
+        "code": "black",
+        "price": null,
+        "frontImage": "/tshirts/black/b-akita_inu_front.webp",
+        "backImage": "/tshirts/black/b-akita_inu_back.webp",
+        "inStock": true
+      }
+    ]
+  },
+  {
+    "id": "2",
+    "slug": "angelus-oversized-tee",
+    "category": "Top",
+    "type": "T-Shirt",
+    "name": "Oversized T-Shirt – Angelus",
+    "designTheme": [
+      "Angel",
+      "Gothic"
+    ],
+    "links": {
+      "shopee": "https://shopee.co.id/o2essentialsofficialstore",
+      "tokopedia": "https://www.tokopedia.com/o2essentialsid",
+      "tiktok": "https://vt.tiktok.com/ZSHurYoNt/?page=Mall"
+    },
+    "material": "Cotton Combed 20s",
+    "basePrice": 0,
+    "featured": false,
+    "description": "-",
+    "variants": [
+      {
+        "name": "Black",
+        "code": "black",
+        "price": null,
+        "frontImage": "/tshirts/black/b-angelus_front.webp",
+        "backImage": "/tshirts/black/b-angelus_back.webp",
+        "inStock": true
+      },
+      {
+        "name": "White",
+        "code": "white",
+        "price": null,
+        "frontImage": "/tshirts/white/w-angelus_front.webp",
+        "backImage": "/tshirts/white/w-angelus_back.webp",
+        "inStock": true
+      }
+    ],
+    "swapImage": true
+  },
+  {
+    "id": "3",
+    "slug": "angel-baby-oversized-tee",
+    "category": "Top",
+    "type": "T-Shirt",
+    "name": "Oversized T-Shirt – Angel Baby",
+    "designTheme": [
+      "Angel",
+      "Gothic"
+    ],
+    "links": {
+      "shopee": "https://shopee.co.id/o2essentialsofficialstore",
+      "tokopedia": "https://www.tokopedia.com/o2essentialsid",
+      "tiktok": "https://vt.tiktok.com/ZSHurYoNt/?page=Mall"
+    },
+    "material": "Cotton Combed 20s",
+    "basePrice": 0,
+    "featured": false,
+    "description": "-",
+    "variants": [
+      {
+        "name": "Black",
+        "code": "black",
+        "price": null,
+        "frontImage": "/tshirts/black/b-angel_baby_front.webp",
+        "backImage": "/tshirts/black/b-angel_baby_back.webp",
+        "inStock": true
+      },
+      {
+        "name": "White",
+        "code": "white",
+        "price": null,
+        "frontImage": "/tshirts/white/w-angel_baby_front.webp",
+        "backImage": "/tshirts/white/w-angel_baby_back.webp",
+        "inStock": true
+      }
+    ],
+    "swapImage": true
+  },
+  {
+    "id": "4",
+    "slug": "astro-do-better-oversized-tee",
+    "category": "Top",
+    "type": "T-Shirt",
+    "name": "Oversized T-Shirt – Astro Do Better",
+    "designTheme": [
+      "Astro",
+      "Space",
+      "Character"
+    ],
+    "links": {
+      "shopee": "https://shopee.co.id/o2essentialsofficialstore",
+      "tokopedia": "https://www.tokopedia.com/o2essentialsid",
+      "tiktok": "https://vt.tiktok.com/ZSHurYoNt/?page=Mall"
+    },
+    "material": "Cotton Combed 20s",
+    "basePrice": 0,
+    "featured": false,
+    "description": "-",
+    "variants": [
+      {
+        "name": "Black",
+        "code": "black",
+        "price": null,
+        "frontImage": "/tshirts/black/b-astro_do_better_front.webp",
+        "backImage": "/tshirts/black/b-astro_do_better_back.webp",
+        "inStock": true
+      }
+    ]
+  },
+  {
+    "id": "5",
+    "slug": "astro-frenchie-oversized-tee",
+    "category": "Top",
+    "type": "T-Shirt",
+    "name": "Oversized T-Shirt – Astro Frenchie",
+    "designTheme": [
+      "Astro",
+      "Space",
+      "Dog",
+      "Animal"
+    ],
+    "links": {
+      "shopee": "https://shopee.co.id/o2essentialsofficialstore",
+      "tokopedia": "https://www.tokopedia.com/o2essentialsid",
+      "tiktok": "https://vt.tiktok.com/ZSHurYoNt/?page=Mall"
+    },
+    "material": "Cotton Combed 20s",
+    "basePrice": 0,
+    "featured": false,
+    "description": "-",
+    "variants": [
+      {
+        "name": "Black",
+        "code": "black",
+        "price": null,
+        "frontImage": "/tshirts/black/b-astro_frenchie_front.webp",
+        "backImage": "/tshirts/black/b-astro_frenchie_back.webp",
+        "inStock": true
+      }
+    ]
+  },
+  {
+    "id": "6",
+    "slug": "astro-mars-oversized-tee",
+    "category": "Top",
+    "type": "T-Shirt",
+    "name": "Oversized T-Shirt – Astro Mars",
+    "designTheme": [
+      "Astro",
+      "Space",
+      "Character"
+    ],
+    "links": {
+      "shopee": "https://shopee.co.id/o2essentialsofficialstore",
+      "tokopedia": "https://www.tokopedia.com/o2essentialsid",
+      "tiktok": "https://vt.tiktok.com/ZSHurYoNt/?page=Mall"
+    },
+    "material": "Cotton Combed 20s",
+    "basePrice": 0,
+    "featured": false,
+    "description": "-",
+    "variants": [
+      {
+        "name": "Black",
+        "code": "black",
+        "price": null,
+        "frontImage": "/tshirts/black/b-astro_mars_front.webp",
+        "backImage": "/tshirts/black/b-astro_mars_back.webp",
+        "inStock": true
+      }
+    ]
+  },
+  {
+    "id": "7",
+    "slug": "astro-nebula-oversized-tee",
+    "category": "Top",
+    "type": "T-Shirt",
+    "name": "Oversized T-Shirt – Astro Nebula",
+    "designTheme": [
+      "Astro",
+      "Space",
+      "Character"
+    ],
+    "links": {
+      "shopee": "https://shopee.co.id/o2essentialsofficialstore",
+      "tokopedia": "https://www.tokopedia.com/o2essentialsid",
+      "tiktok": "https://vt.tiktok.com/ZSHurYoNt/?page=Mall"
+    },
+    "material": "Cotton Combed 20s",
+    "basePrice": 0,
+    "featured": false,
+    "description": "-",
+    "variants": [
+      {
+        "name": "Black",
+        "code": "black",
+        "price": null,
+        "frontImage": "/tshirts/black/b-astro_nebula_front.webp",
+        "backImage": "/tshirts/black/b-astro_nebula_back.webp",
+        "inStock": true
+      }
+    ]
+  },
+  {
+    "id": "8",
+    "slug": "bear-galaxy-oversized-tee",
+    "category": "Top",
+    "type": "T-Shirt",
+    "name": "Oversized T-Shirt – Bear Galaxy",
+    "designTheme": [
+      "Space",
+      "Bear"
+    ],
+    "links": {
+      "shopee": "https://shopee.co.id/o2essentialsofficialstore",
+      "tokopedia": "https://www.tokopedia.com/o2essentialsid",
+      "tiktok": "https://vt.tiktok.com/ZSHurYoNt/?page=Mall"
+    },
+    "material": "Cotton Combed 20s",
+    "basePrice": 0,
+    "featured": false,
+    "description": "-",
+    "variants": [
+      {
+        "name": "Black",
+        "code": "black",
+        "price": null,
+        "frontImage": "/tshirts/black/b-bear_galaxy_front.webp",
+        "backImage": "/tshirts/black/b-bear_galaxy_back.webp",
+        "inStock": true
+      }
+    ]
+  },
+  {
+    "id": "9",
+    "slug": "bear-rabbit-oversized-tee",
+    "category": "Top",
+    "type": "T-Shirt",
+    "name": "Oversized T-Shirt – Bear Rabbit",
+    "designTheme": [
+      "Bear",
+      "Character",
+      "Animal",
+      "Rabbit"
+    ],
+    "links": {
+      "shopee": "https://shopee.co.id/o2essentialsofficialstore",
+      "tokopedia": "https://www.tokopedia.com/o2essentialsid",
+      "tiktok": "https://vt.tiktok.com/ZSHurYoNt/?page=Mall"
+    },
+    "material": "Cotton Combed 20s",
+    "basePrice": 0,
+    "featured": false,
+    "description": "-",
+    "variants": [
+      {
+        "name": "Black",
+        "code": "black",
+        "price": null,
+        "frontImage": "/tshirts/black/b-bear_rabbit_front.webp",
+        "backImage": "/tshirts/black/b-bear_rabbit_back.webp",
+        "inStock": true
+      }
+    ],
+    "swapImage": true
+  },
+  {
+    "id": "10",
+    "slug": "bear-sketch-oversized-tee",
+    "category": "Top",
+    "type": "T-Shirt",
+    "name": "Oversized T-Shirt – Bear Sketch",
+    "designTheme": [
+      "Bear",
+      "Character",
+      "Animal"
+    ],
+    "links": {
+      "shopee": "https://shopee.co.id/o2essentialsofficialstore",
+      "tokopedia": "https://www.tokopedia.com/o2essentialsid",
+      "tiktok": "https://vt.tiktok.com/ZSHurYoNt/?page=Mall"
+    },
+    "material": "Cotton Combed 20s",
+    "basePrice": 0,
+    "featured": false,
+    "description": "-",
+    "variants": [
+      {
+        "name": "White",
+        "code": "white",
+        "price": null,
+        "frontImage": "/tshirts/white/w-bear_sketch_front.webp",
+        "backImage": "/tshirts/white/w-bear_sketch_back.webp",
+        "inStock": true
+      }
+    ]
+  },
+  {
+    "id": "11",
+    "slug": "be-yourself-oversized-tee",
+    "category": "Top",
+    "type": "T-Shirt",
+    "name": "Oversized T-Shirt – Be Yourself",
+    "designTheme": [
+      "Character"
+    ],
+    "links": {
+      "shopee": "https://shopee.co.id/o2essentialsofficialstore",
+      "tokopedia": "https://www.tokopedia.com/o2essentialsid",
+      "tiktok": "https://vt.tiktok.com/ZSHurYoNt/?page=Mall"
+    },
+    "material": "Cotton Combed 20s",
+    "basePrice": 0,
+    "featured": false,
+    "description": "-",
+    "variants": [
+      {
+        "name": "Black",
+        "code": "black",
+        "price": null,
+        "frontImage": "/tshirts/black/b-be_yourself_front.webp",
+        "backImage": "/tshirts/black/b-be_yourself_back.webp",
+        "inStock": true
+      }
+    ],
+    "swapImage": true
+  },
+  {
+    "id": "12",
+    "slug": "boxing-dog-oversized-tee",
+    "category": "Top",
+    "type": "T-Shirt",
+    "name": "Oversized T-Shirt – Boxing Dog",
+    "designTheme": [
+      "Dog",
+      "Animal"
+    ],
+    "links": {
+      "shopee": "https://shopee.co.id/o2essentialsofficialstore",
+      "tokopedia": "https://www.tokopedia.com/o2essentialsid",
+      "tiktok": "https://vt.tiktok.com/ZSHurYoNt/?page=Mall"
+    },
+    "material": "Cotton Combed 20s",
+    "basePrice": 0,
+    "featured": true,
+    "description": "-",
+    "variants": [
+      {
+        "name": "Black",
+        "code": "black",
+        "price": null,
+        "frontImage": "/tshirts/black/b-boxing_dog_front.webp",
+        "backImage": "/tshirts/black/b-boxing_dog_back.webp",
+        "inStock": true
+      },
+      {
+        "name": "White",
+        "code": "white",
+        "price": null,
+        "frontImage": "/tshirts/white/w-boxing_dog_front.webp",
+        "backImage": "/tshirts/white/w-boxing_dog_back.webp",
+        "inStock": true
+      },
+      {
+        "name": "Cream",
+        "code": "cream",
+        "price": null,
+        "frontImage": "/tshirts/cream/c-boxing_dog_back.webp",
+        "backImage": "/tshirts/cream/c-boxing_dog_back.webp",
+        "inStock": true
+      },
+      {
+        "name": "Maroon",
+        "code": "maroon",
+        "price": null,
+        "frontImage": "/tshirts/maroon/m-boxing_dog_front.webp",
+        "backImage": "/tshirts/maroon/m-boxing_dog_back.webp",
+        "inStock": true
+      }
+    ],
+    "swapImage": true
+  },
+  {
+    "id": "13",
+    "slug": "budapest-oversized-tee",
+    "category": "Top",
+    "type": "T-Shirt",
+    "name": "Oversized T-Shirt – Budapest",
+    "designTheme": [
+      "City",
+      "Streetwear"
+    ],
+    "links": {
+      "shopee": "https://shopee.co.id/o2essentialsofficialstore",
+      "tokopedia": "https://www.tokopedia.com/o2essentialsid",
+      "tiktok": "https://vt.tiktok.com/ZSHurYoNt/?page=Mall"
+    },
+    "material": "Cotton Combed 20s",
+    "basePrice": 0,
+    "featured": false,
+    "description": "-",
+    "variants": [
+      {
+        "name": "White",
+        "code": "white",
+        "price": null,
+        "frontImage": "/tshirts/white/w-budapest_front.webp",
+        "backImage": "/tshirts/white/w-budapest_back.webp",
+        "inStock": true
+      }
+    ]
+  },
+  {
+    "id": "14",
+    "slug": "celestial-oversized-tee",
+    "category": "Top",
+    "type": "T-Shirt",
+    "name": "Oversized T-Shirt – Celestial",
+    "designTheme": [
+      "Angel",
+      "Gothic"
+    ],
+    "links": {
+      "shopee": "https://shopee.co.id/o2essentialsofficialstore",
+      "tokopedia": "https://www.tokopedia.com/o2essentialsid",
+      "tiktok": "https://vt.tiktok.com/ZSHurYoNt/?page=Mall"
+    },
+    "material": "Cotton Combed 20s",
+    "basePrice": 0,
+    "featured": false,
+    "description": "-",
+    "variants": [
+      {
+        "name": "Cream",
+        "code": "cream",
+        "price": null,
+        "frontImage": "/tshirts/cream/c-celestial_front.webp",
+        "backImage": "/tshirts/cream/c-celestial_back.webp",
+        "inStock": true
+      },
+      {
+        "name": "White",
+        "code": "white",
+        "price": null,
+        "frontImage": "/tshirts/white/w-celestial_front.webp",
+        "backImage": "/tshirts/white/w-celestial_back.webp",
+        "inStock": true
+      }
+    ],
+    "swapImage": true
+  },
+  {
+    "id": "15",
+    "slug": "clown-doll-oversized-tee",
+    "category": "Top",
+    "type": "T-Shirt",
+    "name": "Oversized T-Shirt – Clown Doll",
+    "designTheme": [
+      "Character"
+    ],
+    "links": {
+      "shopee": "https://shopee.co.id/o2essentialsofficialstore",
+      "tokopedia": "https://www.tokopedia.com/o2essentialsid",
+      "tiktok": "https://vt.tiktok.com/ZSHurYoNt/?page=Mall"
+    },
+    "material": "Cotton Combed 20s",
+    "basePrice": 0,
+    "featured": false,
+    "description": "-",
+    "variants": [
+      {
+        "name": "Black",
+        "code": "black",
+        "price": null,
+        "frontImage": "/tshirts/black/b-clown_doll_front.webp",
+        "backImage": "/tshirts/black/b-clown_doll_back.webp",
+        "inStock": true
+      }
+    ]
+  },
+  {
+    "id": "16",
+    "slug": "chloe-morphie-oversized-tee",
+    "category": "Top",
+    "type": "T-Shirt",
+    "name": "Oversized T-Shirt – Chloe Morphie",
+    "designTheme": [
+      "Streetwear",
+      "Animal"
+    ],
+    "links": {
+      "shopee": "https://shopee.co.id/o2essentialsofficialstore",
+      "tokopedia": "https://www.tokopedia.com/o2essentialsid",
+      "tiktok": "https://vt.tiktok.com/ZSHurYoNt/?page=Mall"
+    },
+    "material": "Cotton Combed 20s",
+    "basePrice": 0,
+    "featured": false,
+    "description": "-",
+    "variants": [
+      {
+        "name": "White",
+        "code": "white",
+        "price": null,
+        "frontImage": "/tshirts/white/w-chloe_morphie_front.webp",
+        "backImage": "/tshirts/white/w-chloe_morphie_back.webp",
+        "inStock": true
+      }
+    ],
+    "swapImage": true
+  },
+  {
+    "id": "17",
+    "slug": "crazy-rich-oversized-tee",
+    "category": "Top",
+    "type": "T-Shirt",
+    "name": "Oversized T-Shirt – Crazy Rich",
+    "designTheme": [
+      "Money",
+      "Bear"
+    ],
+    "links": {
+      "shopee": "https://shopee.co.id/o2essentialsofficialstore",
+      "tokopedia": "https://www.tokopedia.com/o2essentialsid",
+      "tiktok": "https://vt.tiktok.com/ZSHurYoNt/?page=Mall"
+    },
+    "material": "Cotton Combed 20s",
+    "basePrice": 0,
+    "featured": false,
+    "description": "-",
+    "variants": [
+      {
+        "name": "Black",
+        "code": "black",
+        "price": null,
+        "frontImage": "/tshirts/black/b-crazy_rich_front.webp",
+        "backImage": "/tshirts/black/b-crazy_rich_back.webp",
+        "inStock": true
+      }
+    ]
+  },
+  {
+    "id": "18",
+    "slug": "dollar-toast-oversized-tee",
+    "category": "Top",
+    "type": "T-Shirt",
+    "name": "Oversized T-Shirt – Dollar Toast",
+    "designTheme": [
+      "Money",
+      "Streetwear"
+    ],
+    "links": {
+      "shopee": "https://shopee.co.id/o2essentialsofficialstore",
+      "tokopedia": "https://www.tokopedia.com/o2essentialsid",
+      "tiktok": "https://vt.tiktok.com/ZSHurYoNt/?page=Mall"
+    },
+    "material": "Cotton Combed 20s",
+    "basePrice": 0,
+    "featured": false,
+    "description": "-",
+    "variants": [
+      {
+        "name": "Black",
+        "code": "black",
+        "price": null,
+        "frontImage": "/tshirts/black/b-dollar_toast_front.webp",
+        "backImage": "/tshirts/black/b-dollar_toast_back.webp",
+        "inStock": true
+      }
+    ],
+    "swapImage": true
+  },
+  {
+    "id": "19",
+    "slug": "don't-look-back-oversized-tee",
+    "category": "Top",
+    "type": "T-Shirt",
+    "name": "Oversized T-Shirt – Don't Look Back",
+    "designTheme": [
+      "Streetwear"
+    ],
+    "links": {
+      "shopee": "https://shopee.co.id/o2essentialsofficialstore",
+      "tokopedia": "https://www.tokopedia.com/o2essentialsid",
+      "tiktok": "https://vt.tiktok.com/ZSHurYoNt/?page=Mall"
+    },
+    "material": "Cotton Combed 20s",
+    "basePrice": 0,
+    "featured": true,
+    "description": "-",
+    "variants": [
+      {
+        "name": "Black",
+        "code": "black",
+        "price": null,
+        "frontImage": "/tshirts/black/b-dont_look_back_front.webp",
+        "backImage": "/tshirts/black/b-dont_look_back_back.webp",
+        "inStock": true
+      }
+    ],
+    "swapImage": true
+  },
+  {
+    "id": "20",
+    "slug": "dream-bear-oversized-tee",
+    "category": "Top",
+    "type": "T-Shirt",
+    "name": "Oversized T-Shirt – Dream Bear",
+    "designTheme": [
+      "Bear",
+      "Character"
+    ],
+    "links": {
+      "shopee": "https://shopee.co.id/o2essentialsofficialstore",
+      "tokopedia": "https://www.tokopedia.com/o2essentialsid",
+      "tiktok": "https://vt.tiktok.com/ZSHurYoNt/?page=Mall"
+    },
+    "material": "Cotton Combed 20s",
+    "basePrice": 0,
+    "featured": false,
+    "description": "-",
+    "variants": [
+      {
+        "name": "Black",
+        "code": "black",
+        "price": null,
+        "frontImage": "/tshirts/black/b-dream_bear_front.webp",
+        "backImage": "/tshirts/black/b-dream_bear_back.webp",
+        "inStock": true
+      },
+      {
+        "name": "White",
+        "code": "white",
+        "price": null,
+        "frontImage": "/tshirts/white/w-dream_bear_front.webp",
+        "backImage": "/tshirts/white/w-dream_bear_back.webp",
+        "inStock": true
+      }
+    ],
+    "swapImage": true
+  },
+  {
+    "id": "21",
+    "slug": "earth-moon-oversized-tee",
+    "category": "Top",
+    "type": "T-Shirt",
+    "name": "Oversized T-Shirt – Earth Moon",
+    "designTheme": [
+      "Streetwear",
+      "Space"
+    ],
+    "links": {
+      "shopee": "https://shopee.co.id/o2essentialsofficialstore",
+      "tokopedia": "https://www.tokopedia.com/o2essentialsid",
+      "tiktok": "https://vt.tiktok.com/ZSHurYoNt/?page=Mall"
+    },
+    "material": "Cotton Combed 20s",
+    "basePrice": 0,
+    "featured": false,
+    "description": "-",
+    "variants": [
+      {
+        "name": "Black",
+        "code": "black",
+        "price": null,
+        "frontImage": "/tshirts/black/b-earth_moon_front.webp",
+        "backImage": "/tshirts/black/b-earth_moon_back.webp",
+        "inStock": true
+      }
+    ]
+  },
+  {
+    "id": "22",
+    "slug": "elegant-rabbit-oversized-tee",
+    "category": "Top",
+    "type": "T-Shirt",
+    "name": "Oversized T-Shirt – Elegant Rabbit",
+    "designTheme": [
+      "Animal",
+      "Character",
+      "Rabbit"
+    ],
+    "links": {
+      "shopee": "https://shopee.co.id/o2essentialsofficialstore",
+      "tokopedia": "https://www.tokopedia.com/o2essentialsid",
+      "tiktok": "https://vt.tiktok.com/ZSHurYoNt/?page=Mall"
+    },
+    "material": "Cotton Combed 20s",
+    "basePrice": 0,
+    "featured": false,
+    "description": "-",
+    "variants": [
+      {
+        "name": "Black",
+        "code": "black",
+        "price": null,
+        "frontImage": "/tshirts/black/b-elegant_rabbit_front.webp",
+        "backImage": "/tshirts/black/b-elegant_rabbit_back.webp",
+        "inStock": true
+      }
+    ]
+  },
+  {
+    "id": "23",
+    "slug": "eros-oversized-tee",
+    "category": "Top",
+    "type": "T-Shirt",
+    "name": "Oversized T-Shirt – Eros",
+    "designTheme": [
+      "Streetwear",
+      "Greek"
+    ],
+    "links": {
+      "shopee": "https://shopee.co.id/o2essentialsofficialstore",
+      "tokopedia": "https://www.tokopedia.com/o2essentialsid",
+      "tiktok": "https://vt.tiktok.com/ZSHurYoNt/?page=Mall"
+    },
+    "material": "Cotton Combed 20s",
+    "basePrice": 0,
+    "featured": false,
+    "description": "-",
+    "variants": [
+      {
+        "name": "Cream",
+        "code": "cream",
+        "price": null,
+        "frontImage": "/tshirts/cream/c-eros_front.webp",
+        "backImage": "/tshirts/cream/c-eros_back.webp",
+        "inStock": true
+      },
+      {
+        "name": "White",
+        "code": "white",
+        "price": null,
+        "frontImage": "/tshirts/white/w-eros_front.webp",
+        "backImage": "/tshirts/white/w-eros_back.webp",
+        "inStock": true
+      }
+    ],
+    "swapImage": true
+  },
+  {
+    "id": "24",
+    "slug": "enjin-CNY-edition-oversized-tee",
+    "category": "Top",
+    "type": "T-Shirt",
+    "name": "Oversized T-Shirt – Enjin CNY Edition",
+    "designTheme": [
+      "CNY"
+    ],
+    "links": {
+      "shopee": "https://shopee.co.id/o2essentialsofficialstore",
+      "tokopedia": "https://www.tokopedia.com/o2essentialsid",
+      "tiktok": "https://vt.tiktok.com/ZSHurYoNt/?page=Mall"
+    },
+    "material": "Cotton Combed 20s",
+    "basePrice": 0,
+    "featured": false,
+    "description": "-",
+    "variants": [
+      {
+        "name": "Cream",
+        "code": "cream",
+        "price": null,
+        "frontImage": "/tshirts/cream/c-enjin_CNY_edition_front.webp",
+        "backImage": "/tshirts/cream/c-enjin_CNY_edition_back.webp",
+        "inStock": true
+      }
+    ],
+    "swapImage": true
+  },
+  {
+    "id": "25",
+    "slug": "flower-essentials-oversized-tee",
+    "category": "Top",
+    "type": "T-Shirt",
+    "name": "Oversized T-Shirt – Flower Essentials",
+    "designTheme": [
+      "Streetwear"
+    ],
+    "links": {
+      "shopee": "https://shopee.co.id/o2essentialsofficialstore",
+      "tokopedia": "https://www.tokopedia.com/o2essentialsid",
+      "tiktok": "https://vt.tiktok.com/ZSHurYoNt/?page=Mall"
+    },
+    "material": "Cotton Combed 20s",
+    "basePrice": 0,
+    "featured": false,
+    "description": "-",
+    "variants": [
+      {
+        "name": "Black",
+        "code": "black",
+        "price": null,
+        "frontImage": "/tshirts/black/b-flower_essentials_front.webp",
+        "backImage": "/tshirts/black/b-flower_essentials_back.webp",
+        "inStock": true
+      },
+      {
+        "name": "White",
+        "code": "white",
+        "price": null,
+        "frontImage": "/tshirts/white/w-flower_essentials_front.webp",
+        "backImage": "/tshirts/white/w-flower_essentials_back.webp",
+        "inStock": true
+      }
+    ]
+  },
+  {
+    "id": "26",
+    "slug": "flying-rocket-oversized-tee",
+    "category": "Top",
+    "type": "T-Shirt",
+    "name": "Oversized T-Shirt – Flying Rocket",
+    "designTheme": [
+      "Space"
+    ],
+    "links": {
+      "shopee": "https://shopee.co.id/o2essentialsofficialstore",
+      "tokopedia": "https://www.tokopedia.com/o2essentialsid",
+      "tiktok": "https://vt.tiktok.com/ZSHurYoNt/?page=Mall"
+    },
+    "material": "Cotton Combed 20s",
+    "basePrice": 0,
+    "featured": false,
+    "description": "-",
+    "variants": [
+      {
+        "name": "Black",
+        "code": "black",
+        "price": null,
+        "frontImage": "/tshirts/black/b-flying_rocket_front.webp",
+        "backImage": "/tshirts/black/b-flying_rocket_back.webp",
+        "inStock": true
+      }
+    ],
+    "swapImage": true
+  },
+  {
+    "id": "27",
+    "slug": "frenchie-doll-oversized-tee",
+    "category": "Top",
+    "type": "T-Shirt",
+    "name": "Oversized T-Shirt – Frenchie Doll",
+    "designTheme": [
+      "Dog",
+      "Animal"
+    ],
+    "links": {
+      "shopee": "https://shopee.co.id/o2essentialsofficialstore",
+      "tokopedia": "https://www.tokopedia.com/o2essentialsid",
+      "tiktok": "https://vt.tiktok.com/ZSHurYoNt/?page=Mall"
+    },
+    "material": "Cotton Combed 20s",
+    "basePrice": 0,
+    "featured": false,
+    "description": "-",
+    "variants": [
+      {
+        "name": "Black",
+        "code": "black",
+        "price": null,
+        "frontImage": "/tshirts/black/b-frenchie_doll_front.webp",
+        "backImage": "/tshirts/black/b-frenchie_doll_back.webp",
+        "inStock": true
+      },
+      {
+        "name": "White",
+        "code": "white",
+        "price": null,
+        "frontImage": "/tshirts/white/w-frenchie_doll_front.webp",
+        "backImage": "/tshirts/white/w-frenchie_doll_back.webp",
+        "inStock": true
+      },
+      {
+        "name": "Cream",
+        "code": "cream",
+        "price": null,
+        "frontImage": "/tshirts/cream/c-frenchie_doll_front.webp",
+        "backImage": "/tshirts/cream/c-frenchie_doll_back.webp",
+        "inStock": true
+      }
+    ],
+    "swapImage": true
+  },
+  {
+    "id": "28",
+    "slug": "frenchie-oversized-tee",
+    "category": "Top",
+    "type": "T-Shirt",
+    "name": "Oversized T-Shirt – Frenchie",
+    "designTheme": [
+      "Dog",
+      "Animal"
+    ],
+    "links": {
+      "shopee": "https://shopee.co.id/o2essentialsofficialstore",
+      "tokopedia": "https://www.tokopedia.com/o2essentialsid",
+      "tiktok": "https://vt.tiktok.com/ZSHurYoNt/?page=Mall"
+    },
+    "material": "Cotton Combed 20s",
+    "basePrice": 0,
+    "featured": false,
+    "description": "-",
+    "variants": [
+      {
+        "name": "Black",
+        "code": "black",
+        "price": null,
+        "frontImage": "/tshirts/black/b-frenchie_front.webp",
+        "backImage": "/tshirts/black/b-frenchie_back.webp",
+        "inStock": true
+      },
+      {
+        "name": "White",
+        "code": "white",
+        "price": null,
+        "frontImage": "/tshirts/white/w-frenchie_front.webp",
+        "backImage": "/tshirts/white/w-frenchie_front.webp",
+        "inStock": true
+      }
+    ]
+  },
+  {
+    "id": "29",
+    "slug": "frenchie-world-oversized-tee",
+    "category": "Top",
+    "type": "T-Shirt",
+    "name": "Oversized T-Shirt – Frenchie World",
+    "designTheme": [
+      "Dog",
+      "Animal"
+    ],
+    "links": {
+      "shopee": "https://shopee.co.id/o2essentialsofficialstore",
+      "tokopedia": "https://www.tokopedia.com/o2essentialsid",
+      "tiktok": "https://vt.tiktok.com/ZSHurYoNt/?page=Mall"
+    },
+    "material": "Cotton Combed 20s",
+    "basePrice": 0,
+    "featured": false,
+    "description": "-",
+    "variants": [
+      {
+        "name": "Black",
+        "code": "black",
+        "price": null,
+        "frontImage": "/tshirts/black/b-frenchie_world_front.webp",
+        "backImage": "/tshirts/black/b-frenchie_world_back.webp",
+        "inStock": true
+      },
+      {
+        "name": "White",
+        "code": "white",
+        "price": null,
+        "frontImage": "/tshirts/white/w-frenchie_world_front.webp",
+        "backImage": "/tshirts/white/w-frenchie_world_back.webp",
+        "inStock": true
+      }
+    ]
+  },
+  {
+    "id": "30",
+    "slug": "guardian-angel-oversized-tee",
+    "category": "Top",
+    "type": "T-Shirt",
+    "name": "Oversized T-Shirt – Guardian Angel",
+    "designTheme": [
+      "Angel",
+      "Gothic"
+    ],
+    "links": {
+      "shopee": "https://shopee.co.id/o2essentialsofficialstore",
+      "tokopedia": "https://www.tokopedia.com/o2essentialsid",
+      "tiktok": "https://vt.tiktok.com/ZSHurYoNt/?page=Mall"
+    },
+    "material": "Cotton Combed 20s",
+    "basePrice": 0,
+    "featured": false,
+    "description": "-",
+    "variants": [
+      {
+        "name": "Black",
+        "code": "black",
+        "price": null,
+        "frontImage": "/tshirts/black/b-guardian_angel_front.webp",
+        "backImage": "/tshirts/black/b-guardian_angel_back.webp",
+        "inStock": true
+      },
+      {
+        "name": "White",
+        "code": "white",
+        "price": null,
+        "frontImage": "/tshirts/white/w-guardian_angel_back.webp",
+        "backImage": "/tshirts/white/w-guardian_angel_back.webp",
+        "inStock": true
+      }
+    ],
+    "swapImage": true
+  },
+  {
+    "id": "31",
+    "slug": "gummy-bear-oversized-tee",
+    "category": "Top",
+    "type": "T-Shirt",
+    "name": "Oversized T-Shirt – Gummy Bear",
+    "designTheme": [
+      "Bear",
+      "Character"
+    ],
+    "links": {
+      "shopee": "https://shopee.co.id/o2essentialsofficialstore",
+      "tokopedia": "https://www.tokopedia.com/o2essentialsid",
+      "tiktok": "https://vt.tiktok.com/ZSHurYoNt/?page=Mall"
+    },
+    "material": "Cotton Combed 20s",
+    "basePrice": 0,
+    "featured": false,
+    "description": "-",
+    "variants": [
+      {
+        "name": "Black",
+        "code": "black",
+        "price": null,
+        "frontImage": "/tshirts/black/b-gummy_bear_front.webp",
+        "backImage": "/tshirts/black/b-gummy_bear_back.webp",
+        "inStock": true
+      }
+    ]
+  },
+  {
+    "id": "32",
+    "slug": "horizon-whale-oversized-tee",
+    "category": "Top",
+    "type": "T-Shirt",
+    "name": "Oversized T-Shirt – Horizon Whale",
+    "designTheme": [
+      "Streetwear",
+      "Animal"
+    ],
+    "links": {
+      "shopee": "https://shopee.co.id/o2essentialsofficialstore",
+      "tokopedia": "https://www.tokopedia.com/o2essentialsid",
+      "tiktok": "https://vt.tiktok.com/ZSHurYoNt/?page=Mall"
+    },
+    "material": "Cotton Combed 20s",
+    "basePrice": 0,
+    "featured": false,
+    "description": "-",
+    "variants": [
+      {
+        "name": "White",
+        "code": "white",
+        "price": null,
+        "frontImage": "/tshirts/white/w-horizon_whale_front.webp",
+        "backImage": "/tshirts/white/w-horizon_whale_back.webp",
+        "inStock": true
+      }
+    ],
+    "swapImage": true
+  },
+  {
+    "id": "33",
+    "slug": "hungry-bird-oversized-tee",
+    "category": "Top",
+    "type": "T-Shirt",
+    "name": "Oversized T-Shirt – Hungry Bird",
+    "designTheme": [
+      "Animal"
+    ],
+    "links": {
+      "shopee": "https://shopee.co.id/o2essentialsofficialstore",
+      "tokopedia": "https://www.tokopedia.com/o2essentialsid",
+      "tiktok": "https://vt.tiktok.com/ZSHurYoNt/?page=Mall"
+    },
+    "material": "Cotton Combed 20s",
+    "basePrice": 0,
+    "featured": false,
+    "description": "-",
+    "variants": [
+      {
+        "name": "Black",
+        "code": "black",
+        "price": null,
+        "frontImage": "/tshirts/black/b-hungry_bird_front.webp",
+        "backImage": "/tshirts/black/b-hungry_bird_back.webp",
+        "inStock": true
+      },
+      {
+        "name": "White",
+        "code": "white",
+        "price": null,
+        "frontImage": "/tshirts/white/w-hungry_bird_front.webp",
+        "backImage": "/tshirts/white/w-hungry_bird_back.webp",
+        "inStock": true
+      }
+    ]
+  },
+  {
+    "id": "34",
+    "slug": "hype-origin-oversized-tee",
+    "category": "Top",
+    "type": "T-Shirt",
+    "name": "Oversized T-Shirt – Hype Origin",
+    "designTheme": [
+      "Streetwear"
+    ],
+    "links": {
+      "shopee": "https://shopee.co.id/o2essentialsofficialstore",
+      "tokopedia": "https://www.tokopedia.com/o2essentialsid",
+      "tiktok": "https://vt.tiktok.com/ZSHurYoNt/?page=Mall"
+    },
+    "material": "Cotton Combed 20s",
+    "basePrice": 0,
+    "featured": true,
+    "description": "-",
+    "variants": [
+      {
+        "name": "Black",
+        "code": "black",
+        "price": null,
+        "frontImage": "/tshirts/black/b-hype_origin_front.webp",
+        "backImage": "/tshirts/black/b-hype_origin_back.webp",
+        "inStock": true
+      },
+      {
+        "name": "White",
+        "code": "white",
+        "price": null,
+        "frontImage": "/tshirts/white/w-hype_origin_front.webp",
+        "backImage": "/tshirts/white/w-hype_origin_back.webp",
+        "inStock": true
+      }
+    ],
+    "swapImage": true
+  },
+  {
+    "id": "35",
+    "slug": "kaiju-oversized-tee",
+    "category": "Top",
+    "type": "T-Shirt",
+    "name": "Oversized T-Shirt – Kaiju",
+    "designTheme": [
+      "Japan",
+      "Mythcal"
+    ],
+    "links": {
+      "shopee": "https://shopee.co.id/o2essentialsofficialstore",
+      "tokopedia": "https://www.tokopedia.com/o2essentialsid",
+      "tiktok": "https://vt.tiktok.com/ZSHurYoNt/?page=Mall"
+    },
+    "material": "Cotton Combed 20s",
+    "basePrice": 0,
+    "featured": false,
+    "description": "-",
+    "variants": [
+      {
+        "name": "Black",
+        "code": "black",
+        "price": null,
+        "frontImage": "/tshirts/black/b-kaiju_front.webp",
+        "backImage": "/tshirts/black/b-kaiju_back.webp",
+        "inStock": true
+      }
+    ],
+    "swapImage": true
+  },
+  {
+    "id": "36",
+    "slug": "lion-x-oversized-tee",
+    "category": "Top",
+    "type": "T-Shirt",
+    "name": "Oversized T-Shirt – Lion X",
+    "designTheme": [
+      "Animal",
+      "Character"
+    ],
+    "links": {
+      "shopee": "https://shopee.co.id/o2essentialsofficialstore",
+      "tokopedia": "https://www.tokopedia.com/o2essentialsid",
+      "tiktok": "https://vt.tiktok.com/ZSHurYoNt/?page=Mall"
+    },
+    "material": "Cotton Combed 20s",
+    "basePrice": 0,
+    "featured": false,
+    "description": "-",
+    "variants": [
+      {
+        "name": "Black",
+        "code": "black",
+        "price": null,
+        "frontImage": "/tshirts/black/b-lion_x_front.webp",
+        "backImage": "/tshirts/black/b-lion_x_back.webp",
+        "inStock": true
+      }
+    ],
+    "swapImage": true
+  },
+  {
+    "id": "37",
+    "slug": "medusa-oversized-tee",
+    "category": "Top",
+    "type": "T-Shirt",
+    "name": "Oversized T-Shirt – Medusa",
+    "designTheme": [
+      "Mythcal"
+    ],
+    "links": {
+      "shopee": "https://shopee.co.id/o2essentialsofficialstore",
+      "tokopedia": "https://www.tokopedia.com/o2essentialsid",
+      "tiktok": "https://vt.tiktok.com/ZSHurYoNt/?page=Mall"
+    },
+    "material": "Cotton Combed 20s",
+    "basePrice": 0,
+    "featured": false,
+    "description": "-",
+    "variants": [
+      {
+        "name": "Black",
+        "code": "black",
+        "price": null,
+        "frontImage": "/tshirts/black/b-medusa_front.webp",
+        "backImage": "/tshirts/black/b-medusa_back.webp",
+        "inStock": true
+      }
+    ]
+  },
+  {
+    "id": "38",
+    "slug": "money-bag-oversized-tee",
+    "category": "Top",
+    "type": "T-Shirt",
+    "name": "Oversized T-Shirt – Money Bag",
+    "designTheme": [
+      "Money"
+    ],
+    "links": {
+      "shopee": "https://shopee.co.id/o2essentialsofficialstore",
+      "tokopedia": "https://www.tokopedia.com/o2essentialsid",
+      "tiktok": "https://vt.tiktok.com/ZSHurYoNt/?page=Mall"
+    },
+    "material": "Cotton Combed 20s",
+    "basePrice": 0,
+    "featured": false,
+    "description": "-",
+    "variants": [
+      {
+        "name": "Black",
+        "code": "black",
+        "price": null,
+        "frontImage": "/tshirts/black/b-money_bag_front.webp",
+        "backImage": "/tshirts/black/b-money_bag_back.webp",
+        "inStock": true
+      }
+    ],
+    "swapImage": true
+  },
+  {
+    "id": "39",
+    "slug": "monster-oversized-tee",
+    "category": "Top",
+    "type": "T-Shirt",
+    "name": "Oversized T-Shirt – Monster",
+    "designTheme": [
+      "Character",
+      "Mythcal"
+    ],
+    "links": {
+      "shopee": "https://shopee.co.id/o2essentialsofficialstore",
+      "tokopedia": "https://www.tokopedia.com/o2essentialsid",
+      "tiktok": "https://vt.tiktok.com/ZSHurYoNt/?page=Mall"
+    },
+    "material": "Cotton Combed 20s",
+    "basePrice": 0,
+    "featured": false,
+    "description": "-",
+    "variants": [
+      {
+        "name": "Black",
+        "code": "black",
+        "price": null,
+        "frontImage": "/tshirts/black/b-monster_front.webp",
+        "backImage": "/tshirts/black/b-monster_back.webp",
+        "inStock": true
+      },
+      {
+        "name": "White",
+        "code": "white",
+        "price": null,
+        "frontImage": "/tshirts/white/w-monster_front.webp",
+        "backImage": "/tshirts/white/w-monster_back.webp",
+        "inStock": true
+      }
+    ]
+  },
+  {
+    "id": "40",
+    "slug": "monster-cookies-oversized-tee",
+    "category": "Top",
+    "type": "T-Shirt",
+    "name": "Oversized T-Shirt – Monster Cookies",
+    "designTheme": [
+      "Character",
+      "Mythcal"
+    ],
+    "links": {
+      "shopee": "https://shopee.co.id/o2essentialsofficialstore",
+      "tokopedia": "https://www.tokopedia.com/o2essentialsid",
+      "tiktok": "https://vt.tiktok.com/ZSHurYoNt/?page=Mall"
+    },
+    "material": "Cotton Combed 20s",
+    "basePrice": 0,
+    "featured": true,
+    "description": "-",
+    "variants": [
+      {
+        "name": "Black",
+        "code": "black",
+        "price": null,
+        "frontImage": "/tshirts/black/b-monster_cookies_front.webp",
+        "backImage": "/tshirts/black/b-monster_cookies_back.webp",
+        "inStock": true
+      },
+      {
+        "name": "White",
+        "code": "white",
+        "price": null,
+        "frontImage": "/tshirts/white/w-monster_cookies_front.webp",
+        "backImage": "/tshirts/white/w-monster_cookies_back.webp",
+        "inStock": true
+      },
+      {
+        "name": "Cream",
+        "code": "cream",
+        "price": null,
+        "frontImage": "/tshirts/cream/c-monster_cookies_front.webp",
+        "backImage": "/tshirts/cream/c-monster_cookies_back.webp",
+        "inStock": true
+      },
+      {
+        "name": "Maroon",
+        "code": "maroon",
+        "price": null,
+        "frontImage": "/tshirts/maroon/m-monster_cookies_front.webp",
+        "backImage": "/tshirts/maroon/m-monster_cookies_back.webp",
+        "inStock": true
+      }
+    ]
+  },
+  {
+    "id": "41",
+    "slug": "monster-donuts-oversized-tee",
+    "category": "Top",
+    "type": "T-Shirt",
+    "name": "Oversized T-Shirt – Monster Donuts",
+    "designTheme": [
+      "Character",
+      "Mythcal"
+    ],
+    "links": {
+      "shopee": "https://shopee.co.id/o2essentialsofficialstore",
+      "tokopedia": "https://www.tokopedia.com/o2essentialsid",
+      "tiktok": "https://vt.tiktok.com/ZSHurYoNt/?page=Mall"
+    },
+    "material": "Cotton Combed 20s",
+    "basePrice": 0,
+    "featured": false,
+    "description": "-",
+    "variants": [
+      {
+        "name": "Black",
+        "code": "black",
+        "price": null,
+        "frontImage": "/tshirts/black/b-monster_donuts_front.webp",
+        "backImage": "/tshirts/black/b-monster_donuts_back.webp",
+        "inStock": true
+      },
+      {
+        "name": "White",
+        "code": "white",
+        "price": null,
+        "frontImage": "/tshirts/white/w-monster_donuts_front.webp",
+        "backImage": "/tshirts/white/w-monster_donuts_back.webp",
+        "inStock": true
+      }
+    ]
+  },
+  {
+    "id": "42",
+    "slug": "moon-doogienauts-oversized-tee",
+    "category": "Top",
+    "type": "T-Shirt",
+    "name": "Oversized T-Shirt – Moon Doogienauts",
+    "designTheme": [
+      "Space",
+      "Astro"
+    ],
+    "links": {
+      "shopee": "https://shopee.co.id/o2essentialsofficialstore",
+      "tokopedia": "https://www.tokopedia.com/o2essentialsid",
+      "tiktok": "https://vt.tiktok.com/ZSHurYoNt/?page=Mall"
+    },
+    "material": "Cotton Combed 20s",
+    "basePrice": 0,
+    "featured": false,
+    "description": "-",
+    "variants": [
+      {
+        "name": "Black",
+        "code": "black",
+        "price": null,
+        "frontImage": "/tshirts/black/b-moon_doogienauts_front.webp",
+        "backImage": "/tshirts/black/b-moon_doogienauts_back.webp",
+        "inStock": true
+      }
+    ]
+  },
+  {
+    "id": "43",
+    "slug": "moon-scape-oversized-tee",
+    "category": "Top",
+    "type": "T-Shirt",
+    "name": "Oversized T-Shirt – Moon Scape",
+    "designTheme": [
+      "Space",
+      "Astro"
+    ],
+    "links": {
+      "shopee": "https://shopee.co.id/o2essentialsofficialstore",
+      "tokopedia": "https://www.tokopedia.com/o2essentialsid",
+      "tiktok": "https://vt.tiktok.com/ZSHurYoNt/?page=Mall"
+    },
+    "material": "Cotton Combed 20s",
+    "basePrice": 0,
+    "featured": false,
+    "description": "-",
+    "variants": [
+      {
+        "name": "Black",
+        "code": "black",
+        "price": null,
+        "frontImage": "/tshirts/black/b-moon_scape_front.webp",
+        "backImage": "/tshirts/black/b-moon_scape_back.webp",
+        "inStock": true
+      },
+      {
+        "name": "White",
+        "code": "white",
+        "price": null,
+        "frontImage": "/tshirts/white/w-moon_scape_front.webp",
+        "backImage": "/tshirts/white/w-moon_scape_back.webp",
+        "inStock": true
+      }
+    ],
+    "swapImage": true
+  },
+  {
+    "id": "44",
+    "slug": "moucher-oversized-tee",
+    "category": "Top",
+    "type": "T-Shirt",
+    "name": "Oversized T-Shirt – Moucher",
+    "designTheme": [
+      "Mythcal",
+      "Character"
+    ],
+    "links": {
+      "shopee": "https://shopee.co.id/o2essentialsofficialstore",
+      "tokopedia": "https://www.tokopedia.com/o2essentialsid",
+      "tiktok": "https://vt.tiktok.com/ZSHurYoNt/?page=Mall"
+    },
+    "material": "Cotton Combed 20s",
+    "basePrice": 0,
+    "featured": false,
+    "description": "-",
+    "variants": [
+      {
+        "name": "Black",
+        "code": "black",
+        "price": null,
+        "frontImage": "/tshirts/black/b-moucher_front.webp",
+        "backImage": "/tshirts/black/b-moucher_back.webp",
+        "inStock": true
+      },
+      {
+        "name": "White",
+        "code": "white",
+        "price": null,
+        "frontImage": "/tshirts/white/w-moucher_front.webp",
+        "backImage": "/tshirts/white/w-moucher_front.webp",
+        "inStock": true
+      }
+    ]
+  },
+  {
+    "id": "45",
+    "slug": "new-era-serpents-oversized-tee",
+    "category": "Top",
+    "type": "T-Shirt",
+    "name": "Oversized T-Shirt – New Era Serpents",
+    "designTheme": [
+      "CNY",
+      "Snake",
+      "Animal"
+    ],
+    "links": {
+      "shopee": "https://shopee.co.id/o2essentialsofficialstore",
+      "tokopedia": "https://www.tokopedia.com/o2essentialsid",
+      "tiktok": "https://vt.tiktok.com/ZSHurYoNt/?page=Mall"
+    },
+    "material": "Cotton Combed 20s",
+    "basePrice": 0,
+    "featured": false,
+    "description": "-",
+    "variants": [
+      {
+        "name": "Black",
+        "code": "black",
+        "price": null,
+        "frontImage": "/tshirts/black/b-new_era_serpents_front.webp",
+        "backImage": "/tshirts/black/b-new_era_serpents_back.webp",
+        "inStock": true
+      }
+    ],
+    "swapImage": true
+  },
+  {
+    "id": "46",
+    "slug": "o2-and-friends-oversized-tee",
+    "category": "Top",
+    "type": "T-Shirt",
+    "name": "Oversized T-Shirt – O2 And Friends",
+    "designTheme": [
+      "Character"
+    ],
+    "links": {
+      "shopee": "https://shopee.co.id/o2essentialsofficialstore",
+      "tokopedia": "https://www.tokopedia.com/o2essentialsid",
+      "tiktok": "https://vt.tiktok.com/ZSHurYoNt/?page=Mall"
+    },
+    "material": "Cotton Combed 20s",
+    "basePrice": 0,
+    "featured": false,
+    "description": "-",
+    "variants": [
+      {
+        "name": "White",
+        "code": "white",
+        "price": null,
+        "frontImage": "/tshirts/white/w-o2_and_friends_front.webp",
+        "backImage": "/tshirts/white/w-o2_and_friends_back.webp",
+        "inStock": true
+      }
+    ],
+    "swapImage": true
+  },
+  {
+    "id": "47",
+    "slug": "oblivion-oversized-tee",
+    "category": "Top",
+    "type": "T-Shirt",
+    "name": "Oversized T-Shirt – Oblivion",
+    "designTheme": [
+      "Space"
+    ],
+    "links": {
+      "shopee": "https://shopee.co.id/o2essentialsofficialstore",
+      "tokopedia": "https://www.tokopedia.com/o2essentialsid",
+      "tiktok": "https://vt.tiktok.com/ZSHurYoNt/?page=Mall"
+    },
+    "material": "Cotton Combed 20s",
+    "basePrice": 0,
+    "featured": false,
+    "description": "-",
+    "variants": [
+      {
+        "name": "Black",
+        "code": "black",
+        "price": null,
+        "frontImage": "/tshirts/black/b-oblivion_front.webp",
+        "backImage": "/tshirts/black/b-oblivion_back.webp",
+        "inStock": true
+      }
+    ]
+  },
+  {
+    "id": "48",
+    "slug": "outer-space-oversized-tee",
+    "category": "Top",
+    "type": "T-Shirt",
+    "name": "Oversized T-Shirt – Outer Space",
+    "designTheme": [
+      "Space",
+      "Character"
+    ],
+    "links": {
+      "shopee": "https://shopee.co.id/o2essentialsofficialstore",
+      "tokopedia": "https://www.tokopedia.com/o2essentialsid",
+      "tiktok": "https://vt.tiktok.com/ZSHurYoNt/?page=Mall"
+    },
+    "material": "Cotton Combed 20s",
+    "basePrice": 0,
+    "featured": false,
+    "description": "-",
+    "variants": [
+      {
+        "name": "Black",
+        "code": "black",
+        "price": null,
+        "frontImage": "/tshirts/black/b-outer_space_front.webp",
+        "backImage": "/tshirts/black/b-outer_space_back.webp",
+        "inStock": true
+      },
+      {
+        "name": "White",
+        "code": "white",
+        "price": null,
+        "frontImage": "/tshirts/white/w-outer_space_front.webp",
+        "backImage": "/tshirts/white/w-outer_space_back.webp",
+        "inStock": true
+      }
+    ],
+    "swapImage": true
+  },
+  {
+    "id": "49",
+    "slug": "outer-world-oversized-tee",
+    "category": "Top",
+    "type": "T-Shirt",
+    "name": "Oversized T-Shirt – Outer World",
+    "designTheme": [
+      "Space",
+      "Character"
+    ],
+    "links": {
+      "shopee": "https://shopee.co.id/o2essentialsofficialstore",
+      "tokopedia": "https://www.tokopedia.com/o2essentialsid",
+      "tiktok": "https://vt.tiktok.com/ZSHurYoNt/?page=Mall"
+    },
+    "material": "Cotton Combed 20s",
+    "basePrice": 0,
+    "featured": false,
+    "description": "-",
+    "variants": [
+      {
+        "name": "Black",
+        "code": "black",
+        "price": null,
+        "frontImage": "/tshirts/black/b-outer_world_front.webp",
+        "backImage": "/tshirts/black/b-outer_world_back.webp",
+        "inStock": true
+      }
+    ]
+  },
+  {
+    "id": "50",
+    "slug": "paradise-devine-oversized-tee",
+    "category": "Top",
+    "type": "T-Shirt",
+    "name": "Oversized T-Shirt – Paradise Devine",
+    "designTheme": [
+      "Animal"
+    ],
+    "links": {
+      "shopee": "https://shopee.co.id/o2essentialsofficialstore",
+      "tokopedia": "https://www.tokopedia.com/o2essentialsid",
+      "tiktok": "https://vt.tiktok.com/ZSHurYoNt/?page=Mall"
+    },
+    "material": "Cotton Combed 20s",
+    "basePrice": 0,
+    "featured": false,
+    "description": "-",
+    "variants": [
+      {
+        "name": "White",
+        "code": "white",
+        "price": null,
+        "frontImage": "/tshirts/white/w-paradise_devine_front.webp",
+        "backImage": "/tshirts/white/w-paradise_devine_back.webp",
+        "inStock": true
+      }
+    ],
+    "swapImage": true
+  },
+  {
+    "id": "51",
+    "slug": "peace-dove-oversized-tee",
+    "category": "Top",
+    "type": "T-Shirt",
+    "name": "Oversized T-Shirt – Peace Dove",
+    "designTheme": [
+      "Animal"
+    ],
+    "links": {
+      "shopee": "https://shopee.co.id/o2essentialsofficialstore",
+      "tokopedia": "https://www.tokopedia.com/o2essentialsid",
+      "tiktok": "https://vt.tiktok.com/ZSHurYoNt/?page=Mall"
+    },
+    "material": "Cotton Combed 20s",
+    "basePrice": 0,
+    "featured": false,
+    "description": "-",
+    "variants": [
+      {
+        "name": "Black",
+        "code": "black",
+        "price": null,
+        "frontImage": "/tshirts/black/b-peace_dove_front.webp",
+        "backImage": "/tshirts/black/b-peace_dove_back.webp",
+        "inStock": true
+      },
+      {
+        "name": "White",
+        "code": "white",
+        "price": null,
+        "frontImage": "/tshirts/white/w-peace_dove_front.webp",
+        "backImage": "/tshirts/white/w-peace_dove_back.webp",
+        "inStock": true
+      }
+    ],
+    "swapImage": true
+  },
+  {
+    "id": "52",
+    "slug": "pop-snake-oversized-tee",
+    "category": "Top",
+    "type": "T-Shirt",
+    "name": "Oversized T-Shirt – Pop Snake",
+    "designTheme": [
+      "CNY",
+      "CNY"
+    ],
+    "links": {
+      "shopee": "https://shopee.co.id/o2essentialsofficialstore",
+      "tokopedia": "https://www.tokopedia.com/o2essentialsid",
+      "tiktok": "https://vt.tiktok.com/ZSHurYoNt/?page=Mall"
+    },
+    "material": "Cotton Combed 20s",
+    "basePrice": 0,
+    "featured": false,
+    "description": "-",
+    "variants": [
+      {
+        "name": "Black",
+        "code": "black",
+        "price": null,
+        "frontImage": "/tshirts/black/b-pop_snake_front.webp",
+        "backImage": "/tshirts/black/b-pop_snake_back.webp",
+        "inStock": true
+      },
+      {
+        "name": "White",
+        "code": "white",
+        "price": null,
+        "frontImage": "/tshirts/white/w-pop_snake_front.webp",
+        "backImage": "/tshirts/white/w-pop_snake_back.webp",
+        "inStock": true
+      }
+    ],
+    "swapImage": true
+  },
+  {
+    "id": "53",
+    "slug": "pug-me-oversized-tee",
+    "category": "Top",
+    "type": "T-Shirt",
+    "name": "Oversized T-Shirt – Pug Me",
+    "designTheme": [
+      "Dog",
+      "Animal"
+    ],
+    "links": {
+      "shopee": "https://shopee.co.id/o2essentialsofficialstore",
+      "tokopedia": "https://www.tokopedia.com/o2essentialsid",
+      "tiktok": "https://vt.tiktok.com/ZSHurYoNt/?page=Mall"
+    },
+    "material": "Cotton Combed 20s",
+    "basePrice": 0,
+    "featured": false,
+    "description": "-",
+    "variants": [
+      {
+        "name": "Black",
+        "code": "black",
+        "price": null,
+        "frontImage": "/tshirts/black/b-pug_me_front.webp",
+        "backImage": "/tshirts/black/b-pug_me_back.webp",
+        "inStock": true
+      },
+      {
+        "name": "White",
+        "code": "white",
+        "price": null,
+        "frontImage": "/tshirts/white/w-pug_me_front.webp",
+        "backImage": "/tshirts/white/w-pug_me_front.webp",
+        "inStock": true
+      }
+    ]
+  },
+  {
+    "id": "54",
+    "slug": "puppies-club-oversized-tee",
+    "category": "Top",
+    "type": "T-Shirt",
+    "name": "Oversized T-Shirt – Puppies Club",
+    "designTheme": [
+      "Dog",
+      "Animal"
+    ],
+    "links": {
+      "shopee": "https://shopee.co.id/o2essentialsofficialstore",
+      "tokopedia": "https://www.tokopedia.com/o2essentialsid",
+      "tiktok": "https://vt.tiktok.com/ZSHurYoNt/?page=Mall"
+    },
+    "material": "Cotton Combed 20s",
+    "basePrice": 0,
+    "featured": false,
+    "description": "-",
+    "variants": [
+      {
+        "name": "White",
+        "code": "white",
+        "price": null,
+        "frontImage": "/tshirts/white/w-puppies_club_front.webp",
+        "backImage": "/tshirts/white/w-puppies_club_back.webp",
+        "inStock": true
+      }
+    ],
+    "swapImage": true
+  },
+  {
+    "id": "55",
+    "slug": "pumpkins-oversized-tee",
+    "category": "Top",
+    "type": "T-Shirt",
+    "name": "Oversized T-Shirt – Pumpkins",
+    "designTheme": [
+      "Mythcal",
+      "Character"
+    ],
+    "links": {
+      "shopee": "https://shopee.co.id/o2essentialsofficialstore",
+      "tokopedia": "https://www.tokopedia.com/o2essentialsid",
+      "tiktok": "https://vt.tiktok.com/ZSHurYoNt/?page=Mall"
+    },
+    "material": "Cotton Combed 20s",
+    "basePrice": 0,
+    "featured": false,
+    "description": "-",
+    "variants": [
+      {
+        "name": "Black",
+        "code": "black",
+        "price": null,
+        "frontImage": "/tshirts/black/b-pumpkins_front.webp",
+        "backImage": "/tshirts/black/b-pumpkins_back.webp",
+        "inStock": true
+      }
+    ]
+  },
+  {
+    "id": "56",
+    "slug": "rabbit-moon-oversized-tee",
+    "category": "Top",
+    "type": "T-Shirt",
+    "name": "Oversized T-Shirt – Rabbit Moon",
+    "designTheme": [
+      "Rabbit",
+      "Space"
+    ],
+    "links": {
+      "shopee": "https://shopee.co.id/o2essentialsofficialstore",
+      "tokopedia": "https://www.tokopedia.com/o2essentialsid",
+      "tiktok": "https://vt.tiktok.com/ZSHurYoNt/?page=Mall"
+    },
+    "material": "Cotton Combed 20s",
+    "basePrice": 0,
+    "featured": false,
+    "description": "-",
+    "variants": [
+      {
+        "name": "Black",
+        "code": "black",
+        "price": null,
+        "frontImage": "/tshirts/black/b-rabbit_moon_front.webp",
+        "backImage": "/tshirts/black/b-rabbit_moon_back.webp",
+        "inStock": true
+      }
+    ]
+  },
+  {
+    "id": "57",
+    "slug": "red-royal-CNY-edition-oversized-tee",
+    "category": "Top",
+    "type": "T-Shirt",
+    "name": "Oversized T-Shirt – Red Royal CNY Edition",
+    "designTheme": [
+      "CNY"
+    ],
+    "links": {
+      "shopee": "https://shopee.co.id/o2essentialsofficialstore",
+      "tokopedia": "https://www.tokopedia.com/o2essentialsid",
+      "tiktok": "https://vt.tiktok.com/ZSHurYoNt/?page=Mall"
+    },
+    "material": "Cotton Combed 20s",
+    "basePrice": 0,
+    "featured": false,
+    "description": "-",
+    "variants": [
+      {
+        "name": "Maroon",
+        "code": "maroon",
+        "price": null,
+        "frontImage": "/tshirts/maroon/m-red_royal_CNY_edition_front.webp",
+        "backImage": "/tshirts/maroon/m-red_royal_CNY_edition_back.webp",
+        "inStock": true
+      }
+    ],
+    "swapImage": true
+  },
+  {
+    "id": "58",
+    "slug": "smile-bluesky-oversized-tee",
+    "category": "Top",
+    "type": "T-Shirt",
+    "name": "Oversized T-Shirt – Smile Bluesky",
+    "designTheme": [
+      "Smile"
+    ],
+    "links": {
+      "shopee": "https://shopee.co.id/o2essentialsofficialstore",
+      "tokopedia": "https://www.tokopedia.com/o2essentialsid",
+      "tiktok": "https://vt.tiktok.com/ZSHurYoNt/?page=Mall"
+    },
+    "material": "Cotton Combed 20s",
+    "basePrice": 0,
+    "featured": false,
+    "description": "-",
+    "variants": [
+      {
+        "name": "Black",
+        "code": "black",
+        "price": null,
+        "frontImage": "/tshirts/black/b-smile_bluesky_front.webp",
+        "backImage": "/tshirts/black/b-smile_bluesky_back.webp",
+        "inStock": true
+      }
+    ],
+    "swapImage": true
+  },
+  {
+    "id": "59",
+    "slug": "smile-dream-oversized-tee",
+    "category": "Top",
+    "type": "T-Shirt",
+    "name": "Oversized T-Shirt – Smile Dream",
+    "designTheme": [
+      "Smile"
+    ],
+    "links": {
+      "shopee": "https://shopee.co.id/o2essentialsofficialstore",
+      "tokopedia": "https://www.tokopedia.com/o2essentialsid",
+      "tiktok": "https://vt.tiktok.com/ZSHurYoNt/?page=Mall"
+    },
+    "material": "Cotton Combed 20s",
+    "basePrice": 0,
+    "featured": false,
+    "description": "-",
+    "variants": [
+      {
+        "name": "Black",
+        "code": "black",
+        "price": null,
+        "frontImage": "/tshirts/black/b-smile_dream_front.webp",
+        "backImage": "/tshirts/black/b-smile_dream_back.webp",
+        "inStock": true
+      }
+    ],
+    "swapImage": true
+  },
+  {
+    "id": "60",
+    "slug": "smile-flower-oversized-tee",
+    "category": "Top",
+    "type": "T-Shirt",
+    "name": "Oversized T-Shirt – Smile Flower",
+    "designTheme": [
+      "Smile"
+    ],
+    "links": {
+      "shopee": "https://shopee.co.id/o2essentialsofficialstore",
+      "tokopedia": "https://www.tokopedia.com/o2essentialsid",
+      "tiktok": "https://vt.tiktok.com/ZSHurYoNt/?page=Mall"
+    },
+    "material": "Cotton Combed 20s",
+    "basePrice": 0,
+    "featured": false,
+    "description": "-",
+    "variants": [
+      {
+        "name": "Black",
+        "code": "black",
+        "price": null,
+        "frontImage": "/tshirts/black/b-smile_flower_front.webp",
+        "backImage": "/tshirts/black/b-smile_flower_back.webp",
+        "inStock": true
+      }
+    ],
+    "swapImage": true
+  },
+  {
+    "id": "61",
+    "slug": "smile-graffiti-oversized-tee",
+    "category": "Top",
+    "type": "T-Shirt",
+    "name": "Oversized T-Shirt – Smile Graffiti",
+    "designTheme": [
+      "Smile"
+    ],
+    "links": {
+      "shopee": "https://shopee.co.id/o2essentialsofficialstore",
+      "tokopedia": "https://www.tokopedia.com/o2essentialsid",
+      "tiktok": "https://vt.tiktok.com/ZSHurYoNt/?page=Mall"
+    },
+    "material": "Cotton Combed 20s",
+    "basePrice": 0,
+    "featured": false,
+    "description": "-",
+    "variants": [
+      {
+        "name": "Black",
+        "code": "black",
+        "price": null,
+        "frontImage": "/tshirts/black/b-smile_graffiti_front.webp",
+        "backImage": "/tshirts/black/b-smile_graffiti_back.webp",
+        "inStock": true
+      }
+    ],
+    "swapImage": true
+  },
+  {
+    "id": "62",
+    "slug": "smile-planet-oversized-tee",
+    "category": "Top",
+    "type": "T-Shirt",
+    "name": "Oversized T-Shirt – Smile Planet",
+    "designTheme": [
+      "Smile"
+    ],
+    "links": {
+      "shopee": "https://shopee.co.id/o2essentialsofficialstore",
+      "tokopedia": "https://www.tokopedia.com/o2essentialsid",
+      "tiktok": "https://vt.tiktok.com/ZSHurYoNt/?page=Mall"
+    },
+    "material": "Cotton Combed 20s",
+    "basePrice": 0,
+    "featured": false,
+    "description": "-",
+    "variants": [
+      {
+        "name": "Black",
+        "code": "black",
+        "price": null,
+        "frontImage": "/tshirts/black/b-smile_planet_front.webp",
+        "backImage": "/tshirts/black/b-smile_planet_back.webp",
+        "inStock": true
+      }
+    ],
+    "swapImage": true
+  },
+  {
+    "id": "63",
+    "slug": "snake-oversized-tee",
+    "category": "Top",
+    "type": "T-Shirt",
+    "name": "Oversized T-Shirt – Snake",
+    "designTheme": [],
+    "links": {
+      "shopee": "https://shopee.co.id/o2essentialsofficialstore",
+      "tokopedia": "https://www.tokopedia.com/o2essentialsid",
+      "tiktok": "https://vt.tiktok.com/ZSHurYoNt/?page=Mall"
+    },
+    "material": "Cotton Combed 20s",
+    "basePrice": 0,
+    "featured": false,
+    "description": "-",
+    "variants": [
+      {
+        "name": "Black",
+        "code": "black",
+        "price": null,
+        "frontImage": "/tshirts/black/b-snake_front.webp",
+        "backImage": "/tshirts/black/b-snake_back.webp",
+        "inStock": true
+      }
+    ],
+    "swapImage": true
+  },
+  {
+    "id": "64",
+    "slug": "snake-hand-oversized-tee",
+    "category": "Top",
+    "type": "T-Shirt",
+    "name": "Oversized T-Shirt – Snake Hand",
+    "designTheme": [
+      "Snake",
+      "Gothic"
+    ],
+    "links": {
+      "shopee": "https://shopee.co.id/o2essentialsofficialstore",
+      "tokopedia": "https://www.tokopedia.com/o2essentialsid",
+      "tiktok": "https://vt.tiktok.com/ZSHurYoNt/?page=Mall"
+    },
+    "material": "Cotton Combed 20s",
+    "basePrice": 0,
+    "featured": false,
+    "description": "-",
+    "variants": [
+      {
+        "name": "Black",
+        "code": "black",
+        "price": null,
+        "frontImage": "/tshirts/black/b-snake_hand_front.webp",
+        "backImage": "/tshirts/black/b-snake_hand_back.webp",
+        "inStock": true
+      },
+      {
+        "name": "White",
+        "code": "white",
+        "price": null,
+        "frontImage": "/tshirts/white/w-snake_hand_front.webp",
+        "backImage": "/tshirts/white/w-snake_hand_back.webp",
+        "inStock": true
+      }
+    ],
+    "swapImage": true
+  },
+  {
+    "id": "65",
+    "slug": "spacedog-oversized-tee",
+    "category": "Top",
+    "type": "T-Shirt",
+    "name": "Oversized T-Shirt – Spacedog",
+    "designTheme": [
+      "Dog",
+      "Space"
+    ],
+    "links": {
+      "shopee": "https://shopee.co.id/o2essentialsofficialstore",
+      "tokopedia": "https://www.tokopedia.com/o2essentialsid",
+      "tiktok": "https://vt.tiktok.com/ZSHurYoNt/?page=Mall"
+    },
+    "material": "Cotton Combed 20s",
+    "basePrice": 0,
+    "featured": false,
+    "description": "-",
+    "variants": [
+      {
+        "name": "Black",
+        "code": "black",
+        "price": null,
+        "frontImage": "/tshirts/black/b-spacedog_front.webp",
+        "backImage": "/tshirts/black/b-spacedog_back.webp",
+        "inStock": true
+      }
+    ],
+    "swapImage": true
+  },
+  {
+    "id": "66",
+    "slug": "spaceman-oversized-tee",
+    "category": "Top",
+    "type": "T-Shirt",
+    "name": "Oversized T-Shirt – Spaceman",
+    "designTheme": [
+      "Space"
+    ],
+    "links": {
+      "shopee": "https://shopee.co.id/o2essentialsofficialstore",
+      "tokopedia": "https://www.tokopedia.com/o2essentialsid",
+      "tiktok": "https://vt.tiktok.com/ZSHurYoNt/?page=Mall"
+    },
+    "material": "Cotton Combed 20s",
+    "basePrice": 0,
+    "featured": false,
+    "description": "-",
+    "variants": [
+      {
+        "name": "Black",
+        "code": "black",
+        "price": null,
+        "frontImage": "/tshirts/black/b-spaceman_front.webp",
+        "backImage": "/tshirts/black/b-spaceman_back.webp",
+        "inStock": true
+      }
+    ]
+  },
+  {
+    "id": "67",
+    "slug": "space-bear-oversized-tee",
+    "category": "Top",
+    "type": "T-Shirt",
+    "name": "Oversized T-Shirt – Space Bear",
+    "designTheme": [
+      "Bear",
+      "Space"
+    ],
+    "links": {
+      "shopee": "https://shopee.co.id/o2essentialsofficialstore",
+      "tokopedia": "https://www.tokopedia.com/o2essentialsid",
+      "tiktok": "https://vt.tiktok.com/ZSHurYoNt/?page=Mall"
+    },
+    "material": "Cotton Combed 20s",
+    "basePrice": 0,
+    "featured": false,
+    "description": "-",
+    "variants": [
+      {
+        "name": "Black",
+        "code": "black",
+        "price": null,
+        "frontImage": "/tshirts/black/b-space_bear_front.webp",
+        "backImage": "/tshirts/black/b-space_bear_back.webp",
+        "inStock": true
+      }
+    ]
+  },
+  {
+    "id": "68",
+    "slug": "spectrum-001-special-edition-oversized-tee",
+    "category": "Top",
+    "type": "T-Shirt",
+    "name": "Oversized T-Shirt – Spectrum 001 Special Edition",
+    "designTheme": [
+      "Gothic",
+      "Angel"
+    ],
+    "links": {
+      "shopee": "https://shopee.co.id/o2essentialsofficialstore",
+      "tokopedia": "https://www.tokopedia.com/o2essentialsid",
+      "tiktok": "https://vt.tiktok.com/ZSHurYoNt/?page=Mall"
+    },
+    "material": "Cotton Combed 20s",
+    "basePrice": 0,
+    "featured": false,
+    "description": "-",
+    "variants": [
+      {
+        "name": "Black",
+        "code": "black",
+        "price": null,
+        "frontImage": "/tshirts/black/b-spectrum_001_special_edition_front.webp",
+        "backImage": "/tshirts/black/b-spectrum_001_special_edition_back.webp",
+        "inStock": true
+      },
+      {
+        "name": "White",
+        "code": "white",
+        "price": null,
+        "frontImage": "/tshirts/white/w-spectrum_001_front.webp",
+        "backImage": "/tshirts/white/w-spectrum_001_back.webp",
+        "inStock": true
+      },
+      {
+        "name": "Maroon",
+        "code": "maroon",
+        "price": null,
+        "frontImage": "/tshirts/maroon/m-spectrum_001_front.webp",
+        "backImage": "/tshirts/maroon/m-spectrum_001_back.webp",
+        "inStock": true
+      },
+      {
+        "name": "Mustard",
+        "code": "mustard",
+        "price": null,
+        "frontImage": "/tshirts/yellow/y-spectrum_001_front.webp",
+        "backImage": "/tshirts/yellow/y-spectrum_001_back.webp",
+        "inStock": true
+      }
+    ],
+    "swapImage": true
+  },
+  {
+    "id": "69",
+    "slug": "spectrum-002-special-edition-oversized-tee",
+    "category": "Top",
+    "type": "T-Shirt",
+    "name": "Oversized T-Shirt – Spectrum 002 Special Edition",
+    "designTheme": [
+      "Gothic",
+      "Angel"
+    ],
+    "links": {
+      "shopee": "https://shopee.co.id/o2essentialsofficialstore",
+      "tokopedia": "https://www.tokopedia.com/o2essentialsid",
+      "tiktok": "https://vt.tiktok.com/ZSHurYoNt/?page=Mall"
+    },
+    "material": "Cotton Combed 20s",
+    "basePrice": 0,
+    "featured": false,
+    "description": "-",
+    "variants": [
+      {
+        "name": "Black",
+        "code": "black",
+        "price": null,
+        "frontImage": "/tshirts/black/b-spectrum_002_special_edition_front.webp",
+        "backImage": "/tshirts/black/b-spectrum_002_special_edition_back.webp",
+        "inStock": true
+      },
+      {
+        "name": "White",
+        "code": "white",
+        "price": null,
+        "frontImage": "/tshirts/white/w-spectrum_002_front.webp",
+        "backImage": "/tshirts/white/w-spectrum_002_back.webp",
+        "inStock": true
+      },
+      {
+        "name": "Maroon",
+        "code": "maroon",
+        "price": null,
+        "frontImage": "/tshirts/maroon/m-spectrum_002_front.webp",
+        "backImage": "/tshirts/maroon/m-spectrum_002_back.webp",
+        "inStock": true
+      },
+      {
+        "name": "Yellow",
+        "code": "yellow",
+        "price": null,
+        "frontImage": "/tshirts/yellow/y-spectrum_002_front.webp",
+        "backImage": "/tshirts/yellow/y-spectrum_002_back.webp",
+        "inStock": true
+      }
+    ],
+    "swapImage": true
+  },
+  {
+    "id": "70",
+    "slug": "spectrum-003-special-edition-oversized-tee",
+    "category": "Top",
+    "type": "T-Shirt",
+    "name": "Oversized T-Shirt – Spectrum 003 Special Edition",
+    "designTheme": [
+      "Gothic",
+      "Angel"
+    ],
+    "links": {
+      "shopee": "https://shopee.co.id/o2essentialsofficialstore",
+      "tokopedia": "https://www.tokopedia.com/o2essentialsid",
+      "tiktok": "https://vt.tiktok.com/ZSHurYoNt/?page=Mall"
+    },
+    "material": "Cotton Combed 20s",
+    "basePrice": 0,
+    "featured": false,
+    "description": "-",
+    "variants": [
+      {
+        "name": "Black",
+        "code": "black",
+        "price": null,
+        "frontImage": "/tshirts/black/b-spectrum_003_special_edition_front.webp",
+        "backImage": "/tshirts/black/b-spectrum_003_special_edition_back.webp",
+        "inStock": true
+      },
+      {
+        "name": "White",
+        "code": "white",
+        "price": null,
+        "frontImage": "/tshirts/white/w-spectrum_003_front.webp",
+        "backImage": "/tshirts/white/w-spectrum_003_back.webp",
+        "inStock": true
+      },
+      {
+        "name": "Maroon",
+        "code": "maroon",
+        "price": null,
+        "frontImage": "/tshirts/maroon/m-spectrum_003_back.webp",
+        "backImage": "/tshirts/maroon/m-spectrum_003_back.webp",
+        "inStock": true
+      },
+      {
+        "name": "Yellow",
+        "code": "yellow",
+        "price": null,
+        "frontImage": "/tshirts/yellow/y-spectrum_003_front.webp",
+        "backImage": "/tshirts/yellow/y-spectrum_003_back.webp",
+        "inStock": true
+      }
+    ],
+    "swapImage": true
+  },
+  {
+    "id": "71",
+    "slug": "st-michael-oversized-tee",
+    "category": "Top",
+    "type": "T-Shirt",
+    "name": "Oversized T-Shirt – St Michael",
+    "designTheme": [
+      "Streetwear",
+      "Mythcal"
+    ],
+    "links": {
+      "shopee": "https://shopee.co.id/o2essentialsofficialstore",
+      "tokopedia": "https://www.tokopedia.com/o2essentialsid",
+      "tiktok": "https://vt.tiktok.com/ZSHurYoNt/?page=Mall"
+    },
+    "material": "Cotton Combed 20s",
+    "basePrice": 0,
+    "featured": true,
+    "description": "-",
+    "variants": [
+      {
+        "name": "Black",
+        "code": "black",
+        "price": null,
+        "frontImage": "/tshirts/black/b-st_michael_front.webp",
+        "backImage": "/tshirts/black/b-st_michael_back.webp",
+        "inStock": true
+      }
+    ],
+    "swapImage": true
+  },
+  {
+    "id": "72",
+    "slug": "take-me-home-oversized-tee",
+    "category": "Top",
+    "type": "T-Shirt",
+    "name": "Oversized T-Shirt – Take Me Home",
+    "designTheme": [
+      "Space"
+    ],
+    "links": {
+      "shopee": "https://shopee.co.id/o2essentialsofficialstore",
+      "tokopedia": "https://www.tokopedia.com/o2essentialsid",
+      "tiktok": "https://vt.tiktok.com/ZSHurYoNt/?page=Mall"
+    },
+    "material": "Cotton Combed 20s",
+    "basePrice": 0,
+    "featured": false,
+    "description": "-",
+    "variants": [
+      {
+        "name": "Black",
+        "code": "black",
+        "price": null,
+        "frontImage": "/tshirts/black/b-take_me_home_front.webp",
+        "backImage": "/tshirts/black/b-take_me_home_back.webp",
+        "inStock": true
+      }
+    ]
+  },
+  {
+    "id": "73",
+    "slug": "tired-rabbit-oversized-tee",
+    "category": "Top",
+    "type": "T-Shirt",
+    "name": "Oversized T-Shirt – Tired Rabbit",
+    "designTheme": [
+      "Rabbit",
+      "Character"
+    ],
+    "links": {
+      "shopee": "https://shopee.co.id/o2essentialsofficialstore",
+      "tokopedia": "https://www.tokopedia.com/o2essentialsid",
+      "tiktok": "https://vt.tiktok.com/ZSHurYoNt/?page=Mall"
+    },
+    "material": "Cotton Combed 20s",
+    "basePrice": 0,
+    "featured": false,
+    "description": "-",
+    "variants": [
+      {
+        "name": "Black",
+        "code": "black",
+        "price": null,
+        "frontImage": "/tshirts/black/b-tired_rabbit_front.webp",
+        "backImage": "/tshirts/black/b-tired_rabbit_back.webp",
+        "inStock": true
+      }
+    ]
+  },
+  {
+    "id": "74",
+    "slug": "unstopoodle-oversized-tee",
+    "category": "Top",
+    "type": "T-Shirt",
+    "name": "Oversized T-Shirt – Unstopoodle",
+    "designTheme": [
+      "Dog",
+      "Animal"
+    ],
+    "links": {
+      "shopee": "https://shopee.co.id/o2essentialsofficialstore",
+      "tokopedia": "https://www.tokopedia.com/o2essentialsid",
+      "tiktok": "https://vt.tiktok.com/ZSHurYoNt/?page=Mall"
+    },
+    "material": "Cotton Combed 20s",
+    "basePrice": 0,
+    "featured": false,
+    "description": "-",
+    "variants": [
+      {
+        "name": "Black",
+        "code": "black",
+        "price": null,
+        "frontImage": "/tshirts/black/b-unstopoodle_front.webp",
+        "backImage": "/tshirts/black/b-unstopoodle_back.webp",
+        "inStock": true
+      },
+      {
+        "name": "White",
+        "code": "white",
+        "price": null,
+        "frontImage": "/tshirts/white/w-unstopoodle_front.webp",
+        "backImage": "/tshirts/white/w-unstopoodle_front.webp",
+        "inStock": true
+      }
+    ]
+  },
+  {
+    "id": "75",
+    "slug": "undefeated-oversized-tee",
+    "category": "Top",
+    "type": "T-Shirt",
+    "name": "Oversized T-Shirt – Undefeated",
+    "designTheme": [
+      "Streetwear",
+      "Animal"
+    ],
+    "links": {
+      "shopee": "https://shopee.co.id/o2essentialsofficialstore",
+      "tokopedia": "https://www.tokopedia.com/o2essentialsid",
+      "tiktok": "https://vt.tiktok.com/ZSHurYoNt/?page=Mall"
+    },
+    "material": "Cotton Combed 20s",
+    "basePrice": 0,
+    "featured": true,
+    "description": "-",
+    "variants": [
+      {
+        "name": "Black",
+        "code": "black",
+        "price": null,
+        "frontImage": "/tshirts/black/b-undefeated_front.webp",
+        "backImage": "/tshirts/black/b-undefeated_back.webp",
+        "inStock": true
+      }
+    ],
+    "swapImage": true
+  },
+  {
+    "id": "76",
+    "slug": "unknown-oversized-tee",
+    "category": "Top",
+    "type": "T-Shirt",
+    "name": "Oversized T-Shirt – Unknown",
+    "designTheme": [
+      "Streetwear"
+    ],
+    "links": {
+      "shopee": "https://shopee.co.id/o2essentialsofficialstore",
+      "tokopedia": "https://www.tokopedia.com/o2essentialsid",
+      "tiktok": "https://vt.tiktok.com/ZSHurYoNt/?page=Mall"
+    },
+    "material": "Cotton Combed 20s",
+    "basePrice": 0,
+    "featured": true,
+    "description": "-",
+    "variants": [
+      {
+        "name": "Black",
+        "code": "black",
+        "price": null,
+        "frontImage": "/tshirts/black/b-unknown_front.webp",
+        "backImage": "/tshirts/black/b-unknown_back.webp",
+        "inStock": true
+      },
+      {
+        "name": "White",
+        "code": "white",
+        "price": null,
+        "frontImage": "/tshirts/white/w-unknown_front.webp",
+        "backImage": "/tshirts/white/w-unknown_back.webp",
+        "inStock": true
+      }
+    ],
+    "swapImage": true
+  },
+  {
+    "id": "77",
+    "slug": "venice-oversized-tee",
+    "category": "Top",
+    "type": "T-Shirt",
+    "name": "Oversized T-Shirt – Venice",
+    "designTheme": [
+      "City",
+      "Streetwear"
+    ],
+    "links": {
+      "shopee": "https://shopee.co.id/o2essentialsofficialstore",
+      "tokopedia": "https://www.tokopedia.com/o2essentialsid",
+      "tiktok": "https://vt.tiktok.com/ZSHurYoNt/?page=Mall"
+    },
+    "material": "Cotton Combed 20s",
+    "basePrice": 0,
+    "featured": false,
+    "description": "-",
+    "variants": [
+      {
+        "name": "Cream",
+        "code": "cream",
+        "price": null,
+        "frontImage": "/tshirts/cream/c-venice_front.webp",
+        "backImage": "/tshirts/cream/c-venice_back.webp",
+        "inStock": true
+      },
+      {
+        "name": "White",
+        "code": "white",
+        "price": null,
+        "frontImage": "/tshirts/white/w-venice_front.webp",
+        "backImage": "/tshirts/white/w-venice_back.webp",
+        "inStock": true
+      }
+    ],
+    "swapImage": true
+  },
+  {
+    "id": "78",
+    "slug": "venomous-oversized-tee",
+    "category": "Top",
+    "type": "T-Shirt",
+    "name": "Oversized T-Shirt – Venomous",
+    "designTheme": [
+      "CNY",
+      "Animal"
+    ],
+    "links": {
+      "shopee": "https://shopee.co.id/o2essentialsofficialstore",
+      "tokopedia": "https://www.tokopedia.com/o2essentialsid",
+      "tiktok": "https://vt.tiktok.com/ZSHurYoNt/?page=Mall"
+    },
+    "material": "Cotton Combed 20s",
+    "basePrice": 0,
+    "featured": false,
+    "description": "-",
+    "variants": [
+      {
+        "name": "Black",
+        "code": "black",
+        "price": null,
+        "frontImage": "/tshirts/black/b-venomous_front.webp",
+        "backImage": "/tshirts/black/b-venomous_back.webp",
+        "inStock": true
+      }
+    ]
+  },
+  {
+    "id": "79",
+    "slug": "wicked-ghost-oversized-tee",
+    "category": "Top",
+    "type": "T-Shirt",
+    "name": "Oversized T-Shirt – Wicked Ghost",
+    "designTheme": [
+      "Mythcal",
+      "Character"
+    ],
+    "links": {
+      "shopee": "https://shopee.co.id/o2essentialsofficialstore",
+      "tokopedia": "https://www.tokopedia.com/o2essentialsid",
+      "tiktok": "https://vt.tiktok.com/ZSHurYoNt/?page=Mall"
+    },
+    "material": "Cotton Combed 20s",
+    "basePrice": 0,
+    "featured": false,
+    "description": "-",
+    "variants": [
+      {
+        "name": "Black",
+        "code": "black",
+        "price": null,
+        "frontImage": "/tshirts/black/b-wicked_ghost_front.webp",
+        "backImage": "/tshirts/black/b-wicked_ghost_back.webp",
+        "inStock": true
+      }
+    ],
+    "swapImage": true
+  },
+  {
+    "id": "80",
+    "slug": "zombie-bear-oversized-tee",
+    "category": "Top",
+    "type": "T-Shirt",
+    "name": "Oversized T-Shirt – Zombie Bear",
+    "designTheme": [
+      "Bear",
+      "Character"
+    ],
+    "links": {
+      "shopee": "https://shopee.co.id/o2essentialsofficialstore",
+      "tokopedia": "https://www.tokopedia.com/o2essentialsid",
+      "tiktok": "https://vt.tiktok.com/ZSHurYoNt/?page=Mall"
+    },
+    "material": "Cotton Combed 20s",
+    "basePrice": 0,
+    "featured": false,
+    "description": "-",
+    "variants": [
+      {
+        "name": "Black",
+        "code": "black",
+        "price": null,
+        "frontImage": "/tshirts/black/b-zombie_bear_front.webp",
+        "backImage": "/tshirts/black/b-zombie_bear_back.webp",
+        "inStock": true
+      }
+    ]
+  },
+  {
+    "id": "81",
+    "slug": "baby-terry-flow-shorts",
+    "category": "Bottom",
+    "type": "Short Pants",
+    "name": "Flow Shorts – Short Pants Unisex Baby Terry Premium",
+    "designTheme": [
+      "Basic"
+    ],
+    "links": {
+      "shopee": "https://shopee.co.id/o2essentialsofficialstore",
+      "tokopedia": "https://www.tokopedia.com/o2essentialsid",
+      "tiktok": "https://vt.tiktok.com/ZSHurYoNt/?page=Mall"
+    },
+    "material": "Baby Terry",
+    "basePrice": 0,
+    "featured": true,
+    "description": "-",
+    "variants": [
+      {
+        "name": "Grey",
+        "code": "grey",
+        "price": null,
+        "frontImage": "/tshirts/cream/grey_flow_shorts.webp",
+        "backImage": "/tshirts/cream/grey_flow_shorts2.webp",
+        "inStock": true
+      },
+      {
+        "name": "Black",
+        "code": "black",
+        "price": null,
+        "frontImage": "/tshirts/black/black_flow_shorts.webp",
+        "backImage": "/tshirts/black/black_flow_shorts2.webp",
+        "inStock": true
+      },
+      {
+        "name": "Cream",
+        "code": "cream",
+        "price": null,
+        "frontImage": "/tshirts/cream/cream_flow_shorts.webp",
+        "backImage": "/tshirts/cream/cream_flow_shorts2.webp",
+        "inStock": true
+      }
+    ]
+  },
+  {
+    "id": "82",
+    "slug": "block-shorts",
+    "category": "Bottom",
+    "type": "Short Pants",
+    "name": "Block Shorts – Short Pants Unisex Premium Twill",
+    "designTheme": [
+      "Basic"
+    ],
+    "links": {
+      "shopee": "https://shopee.co.id/o2essentialsofficialstore",
+      "tokopedia": "https://www.tokopedia.com/o2essentialsid",
+      "tiktok": "https://vt.tiktok.com/ZSHurYoNt/?page=Mall"
+    },
+    "material": "Premium Twill",
+    "basePrice": 0,
+    "featured": false,
+    "description": "-",
+    "variants": [
+      {
+        "name": "Brown",
+        "code": "Brown",
+        "price": null,
+        "frontImage": "/tshirts/cream/brown_block_shorts.webp",
+        "backImage": "/tshirts/cream/brown_block_shorts2.webp",
+        "inStock": true
+      },
+      {
+        "name": "Black",
+        "code": "black",
+        "price": null,
+        "frontImage": "/tshirts/black/black_block_shorts.webp",
+        "backImage": "",
+        "inStock": true
+      },
+      {
+        "name": "Dark Olive",
+        "code": "DarkOlive",
+        "price": null,
+        "frontImage": "/tshirts/green/green_block_shorts.webp",
+        "backImage": "/tshirts/green/green_block_shorts2.webp",
+        "inStock": true
+      }
+    ]
+  },
+  {
+    "id": "83",
+    "slug": "muscle-shirt-oversized",
+    "category": "Top",
+    "type": "Singlet",
+    "name": "Muscle Shirt – Oversized Cotton Combed Men's Singlet",
+    "designTheme": [
+      "Basic"
+    ],
+    "links": {
+      "shopee": "https://shopee.co.id/o2essentialsofficialstore",
+      "tokopedia": "https://www.tokopedia.com/o2essentialsid",
+      "tiktok": "https://vt.tiktok.com/ZSHurYoNt/?page=Mall"
+    },
+    "material": "Cotton Combed",
+    "basePrice": 0,
+    "featured": false,
+    "description": "-",
+    "variants": [
+      {
+        "name": "Beigie",
+        "code": "beigie",
+        "price": null,
+        "frontImage": "/tshirts/cream/cream_singlet.webp",
+        "backImage": "/tshirts/black/black_singlet2.webp",
+        "inStock": true
+      },
+      {
+        "name": "Black",
+        "code": "black",
+        "price": null,
+        "frontImage": "/tshirts/black/black_singlet.webp",
+        "backImage": "/tshirts/black/black_singlet_back.webp",
+        "inStock": true
+      }
+    ]
+  },
+  {
+    "id": "84",
+    "slug": "godbless-terrieshirt-oversized",
+    "category": "Top",
+    "type": "T-Shirt",
+    "name": "Terrieshirt – GODBLESS, Oversized Unisex baby terry T-shirt",
+    "designTheme": [
+      "Basic"
+    ],
+    "links": {
+      "shopee": "https://shopee.co.id/o2essentialsofficialstore",
+      "tokopedia": "https://www.tokopedia.com/o2essentialsid",
+      "tiktok": "https://vt.tiktok.com/ZSHurYoNt/?page=Mall"
+    },
+    "material": "Baby Terry",
+    "basePrice": 0,
+    "featured": false,
+    "description": "-",
+    "variants": [
+      {
+        "name": "Maroon",
+        "code": "maroon",
+        "price": null,
+        "frontImage": "/tshirts/maroon/red_godbless_front.webp",
+        "backImage": "/tshirts/maroon/red_godbless_back.webp",
+        "inStock": true
+      }
+    ]
+  },
+  {
+    "id": "85",
+    "slug": "basic-crewneck-sweater-casual",
+    "category": "Top",
+    "type": "Crewneck",
+    "name": "Basic Sweater Crewneck Casual - Sweater Cotton Premium Unisex",
+    "designTheme": [
+      "Basic"
+    ],
+    "links": {
+      "shopee": "https://shopee.co.id/o2essentialsofficialstore",
+      "tokopedia": "https://www.tokopedia.com/o2essentialsid",
+      "tiktok": "https://vt.tiktok.com/ZSHurYoNt/?page=Mall"
+    },
+    "material": "Chief Value Cotton",
+    "basePrice": 0,
+    "featured": false,
+    "description": "-",
+    "variants": [
+      {
+        "name": "Black",
+        "code": "black",
+        "price": null,
+        "frontImage": "/tshirts/black/black_sweater_front.webp",
+        "backImage": "/tshirts/black/black_sweater2.webp",
+        "inStock": true
+      },
+      {
+        "name": "Sage",
+        "code": "sage",
+        "price": null,
+        "frontImage": "/tshirts/black/sage_sweater_front.webp",
+        "backImage": "/tshirts/black/sage_sweater2.webp",
+        "inStock": true
+      },
+      {
+        "name": "Blue",
+        "code": "blue",
+        "price": null,
+        "frontImage": "/tshirts/black/blue_sweater_front.webp",
+        "backImage": "/tshirts/black/blue_sweater2.webp",
+        "inStock": true
+      }
+    ]
+  },
+  {
+    "id": "86",
+    "slug": "blitz-graphic-crewneck-sweater",
+    "category": "Top",
+    "type": "Crewneck",
+    "name": "Graphic Sweater Crewneck Casual - BLITZ Sweater",
+    "designTheme": [
+      "Character",
+      "Basic"
+    ],
+    "links": {
+      "shopee": "https://shopee.co.id/o2essentialsofficialstore",
+      "tokopedia": "https://www.tokopedia.com/o2essentialsid",
+      "tiktok": "https://vt.tiktok.com/ZSHurYoNt/?page=Mall"
+    },
+    "material": "Chief Value Cotton",
+    "basePrice": 0,
+    "featured": false,
+    "description": "-",
+    "variants": [
+      {
+        "name": "White",
+        "code": "white",
+        "price": null,
+        "frontImage": "/tshirts/white/white-blitz_sweater_front.webp",
+        "backImage": "/tshirts/white/white-blitz_sweater2.webp",
+        "inStock": true
+      }
+    ]
+  },
+  {
+    "id": "87",
+    "slug": "kingdom-oversized-tee",
+    "category": "Top",
+    "type": "T-Shirt",
+    "name": "Oversized T-Shirt – Kingdom",
+    "designTheme": [
+      "CNY",
+      "Mythcal",
+      "Streetwear"
+    ],
+    "links": {
+      "shopee": "https://shopee.co.id/o2essentialsofficialstore",
+      "tokopedia": "https://www.tokopedia.com/o2essentialsid",
+      "tiktok": "https://vt.tiktok.com/ZSHurYoNt/?page=Mall"
+    },
+    "material": "Cotton Combed 20s",
+    "basePrice": 0,
+    "featured": false,
+    "description": "-",
+    "variants": [
+      {
+        "name": "White",
+        "code": "white",
+        "price": null,
+        "frontImage": "/tshirts/white/w-kingdom_front.webp",
+        "backImage": "/tshirts/white/w-kingdom_back.webp",
+        "inStock": true
+      },
+      {
+        "name": "Cream",
+        "code": "cream",
+        "price": null,
+        "frontImage": "/tshirts/cream/c-kingdom_back.webp",
+        "backImage": "",
+        "inStock": true
+      },
+      {
+        "name": "Maroon",
+        "code": "maroon",
+        "price": null,
+        "frontImage": "/tshirts/maroon/m-kingdom_back.webp",
+        "backImage": "",
+        "inStock": true
+      }
+    ],
+    "swapImage": true
+  },
+  {
+    "id": "88",
+    "slug": "flow-shirt-coolbreeze-oversized-tee",
+    "category": "Top",
+    "type": "T-Shirt",
+    "name": "Flow Shirt – Oversize Unisex COOLBREEZE Premium Smooth",
+    "designTheme": [
+      "Basic"
+    ],
+    "links": {
+      "shopee": "https://shopee.co.id/o2essentialsofficialstore",
+      "tokopedia": "https://www.tokopedia.com/o2essentialsid",
+      "tiktok": "https://vt.tiktok.com/ZSHurYoNt/?page=Mall"
+    },
+    "material": "Cotton Combed 20s",
+    "basePrice": 0,
+    "featured": false,
+    "description": "-",
+    "variants": [
+      {
+        "name": "Cream",
+        "code": "soft_ivory",
+        "price": null,
+        "frontImage": "/tshirts/cream/cream-coolbreeze_front.webp",
+        "backImage": "/tshirts/cream/cream-coolbreeze2.webp",
+        "inStock": true
+      },
+      {
+        "name": "Grey",
+        "code": "concrete_grey",
+        "price": null,
+        "frontImage": "/tshirts/cream/grey_coolbreeze_front.webp",
+        "backImage": "",
+        "inStock": true
+      },
+      {
+        "name": "Black",
+        "code": "carbon_black",
+        "price": null,
+        "frontImage": "/tshirts/black/black_coolbreeze_front.webp",
+        "backImage": "/tshirts/black/black_coolbreeze2.webp",
+        "inStock": true
+      }
+    ]
+  },
+  {
+    "id": "89",
+    "slug": "dargon-oversized-tee",
+    "category": "Top",
+    "type": "Flow Shirt",
+    "name": "Oversized T-Shirt – Dragon",
+    "designTheme": [
+      "CNY",
+      "Mythcal",
+      "Streetwear"
+    ],
+    "links": {
+      "shopee": "https://shopee.co.id/o2essentialsofficialstore",
+      "tokopedia": "https://www.tokopedia.com/o2essentialsid",
+      "tiktok": "https://vt.tiktok.com/ZSHurYoNt/?page=Mall"
+    },
+    "material": "Cotton Combed 20s",
+    "basePrice": 0,
+    "featured": false,
+    "description": "-",
+    "variants": [
+      {
+        "name": "Black",
+        "code": "black",
+        "price": null,
+        "frontImage": "/tshirts/black/b-dragon2_front.webp",
+        "backImage": "/tshirts/black/b-dragon2_back.webp",
+        "inStock": true
+      }
+    ],
+    "swapImage": true
+  },
+  {
+    "id": "90",
+    "slug": "kitsune-oversized-tee",
+    "category": "Top",
+    "type": "T-Shirt",
+    "name": "Oversized T-Shirt – Kitsune",
+    "designTheme": [
+      "Mythcal"
+    ],
+    "links": {
+      "shopee": "https://shopee.co.id/o2essentialsofficialstore",
+      "tokopedia": "https://www.tokopedia.com/o2essentialsid",
+      "tiktok": "https://vt.tiktok.com/ZSHurYoNt/?page=Mall"
+    },
+    "material": "Cotton Combed 20s",
+    "basePrice": 0,
+    "featured": false,
+    "description": "-",
+    "variants": [
+      {
+        "name": "White",
+        "code": "white",
+        "price": null,
+        "frontImage": "/tshirts/white/w-kitsune_front.webp",
+        "backImage": "/tshirts/white/w-kitsune_back.webp",
+        "inStock": true
+      }
+    ],
+    "swapImage": true
+  },
+  {
+    "id": "90",
+    "slug": "oyu-oversized-tee",
+    "category": "Top",
+    "type": "T-Shirt",
+    "name": "Oversized T-Shirt – Oyu",
+    "designTheme": [
+      "Mythcal",
+      "Dog",
+      "Animal"
+    ],
+    "links": {
+      "shopee": "https://shopee.co.id/o2essentialsofficialstore",
+      "tokopedia": "https://www.tokopedia.com/o2essentialsid",
+      "tiktok": "https://vt.tiktok.com/ZSHurYoNt/?page=Mall"
+    },
+    "material": "Cotton Combed 20s",
+    "basePrice": 0,
+    "featured": false,
+    "description": "-",
+    "variants": [
+      {
+        "name": "White",
+        "code": "white",
+        "price": null,
+        "frontImage": "/tshirts/white/w-oyu_front.webp",
+        "backImage": "/tshirts/white/w-oyu_back.webp",
+        "inStock": true
+      }
+    ],
+    "swapImage": true
+  }
+]
