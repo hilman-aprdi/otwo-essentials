@@ -6,7 +6,8 @@ import Hero from '../components/Hero.jsx'
 import ProductGrid from '../components/ProductGrid.jsx'
 import StructuredData from '../components/StructuredData.jsx'
 import { ROUTES, getCanonicalUrl } from '../lib/routes.js'
-import { ASSETS, SITE_DESCRIPTION, SITE_NAME, getAbsoluteUrl } from '../lib/site.js'
+import { BRAND_OG_IMAGE, SITE_DESCRIPTION, SITE_NAME } from '../lib/site.js'
+import { getPublicAssetUrl } from '../lib/public-assets.js'
 import { getOrganizationSchema, getWebSiteSchema } from '../lib/schema.js'
 
 export const metadata = {
@@ -23,7 +24,7 @@ export const metadata = {
     url: getCanonicalUrl(ROUTES.home),
     images: [
       {
-        url: getAbsoluteUrl(ASSETS.heroBgJpg),
+        url: getPublicAssetUrl(BRAND_OG_IMAGE),
         width: 1200,
         height: 630,
         alt: SITE_NAME,
@@ -34,7 +35,7 @@ export const metadata = {
     card: 'summary_large_image',
     title: 'O2 Essentials - Oversized Streetwear Indonesia',
     description: SITE_DESCRIPTION,
-    images: [getAbsoluteUrl(ASSETS.heroBgJpg)],
+    images: [getPublicAssetUrl(BRAND_OG_IMAGE)],
   },
 }
 

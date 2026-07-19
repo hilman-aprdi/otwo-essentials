@@ -7,6 +7,7 @@ export const SITE_DESCRIPTION =
   'O2 Essentials is an Indonesian streetwear brand offering oversized essentials, premium everyday apparel, and graphic pieces made for daily wear.'
 
 export const getAbsoluteUrl = (path) => new URL(path, SITE_URL).toString()
+export const BRAND_OG_IMAGE = `${ASSET_BASE}/hero_bg.png`
 
 export const ASSETS = {
   heroBgJpg: `${ASSET_BASE}/hero_bg.jpg`,

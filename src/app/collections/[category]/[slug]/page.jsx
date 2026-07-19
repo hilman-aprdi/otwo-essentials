@@ -3,7 +3,8 @@ import ProductDetailClient from '../../../../components/ProductDetailClient.jsx'
 import StructuredData from '../../../../components/StructuredData.jsx'
 import { getAllProducts, getProductBySlug } from '../../../../lib/data.js'
 import { ROUTES, getCanonicalUrl } from '../../../../lib/routes.js'
-import { ASSETS, SITE_NAME, getAbsoluteUrl } from '../../../../lib/site.js'
+import { BRAND_OG_IMAGE, SITE_NAME } from '../../../../lib/site.js'
+import { getPublicAssetUrl, isPublicAssetPath } from '../../../../lib/public-assets.js'
 import { getProductSchema } from '../../../../lib/schema.js'
 
 const getProductDescription = (product) => {
@@ -13,9 +14,9 @@ const getProductDescription = (product) => {
 }
 
 const getProductOgImage = (product) => {
-  const variant = (product.variants || product.colors || []).find((color) => color.frontImage) || {}
+  const variant = (product.variants || product.colors || []).find((color) => isPublicAssetPath(color.frontImage)) || {}
 
-  return variant.frontImage || ASSETS.heroBgJpg
+  return variant.frontImage || BRAND_OG_IMAGE
 }
 
 export function generateStaticParams() {
@@ -43,7 +44,7 @@ export async function generateMetadata({ params }) {
   const productPath = ROUTES.collectionProduct(category, product.slug)
   const description = getProductDescription(product)
   const canonicalUrl = getCanonicalUrl(productPath)
-  const ogImage = getAbsoluteUrl(getProductOgImage(product))
+  const ogImage = getPublicAssetUrl(getProductOgImage(product))
 
   return {
     title: product.name,
@@ -95,7 +96,7 @@ export default async function ProductDetailPage({ params }) {
 
   return (
     <>
-      <StructuredData data={getProductSchema({ product, productPath, images: images.length ? images : [{ src: '/assets/hero_bg.jpg' }] })} />
+      <StructuredData data={getProductSchema({ product, productPath, images: images.length ? images : [{ src: BRAND_OG_IMAGE }] })} />
       <ProductDetailClient product={product} category={category} images={images} productPath={productPath} />
     </>
   )

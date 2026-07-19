@@ -1,7 +1,8 @@
 import './globals.css'
 import Navbar from '../components/Navbar.jsx'
 import Footer from '../components/Footer.jsx'
-import { ASSETS, SITE_DESCRIPTION, SITE_NAME, SITE_TAGLINE, SITE_URL, getAbsoluteUrl } from '../lib/site.js'
+import { BRAND_OG_IMAGE, SITE_DESCRIPTION, SITE_NAME, SITE_TAGLINE, SITE_URL, getAbsoluteUrl } from '../lib/site.js'
+import { getPublicAssetUrl } from '../lib/public-assets.js'
 
 export const metadata = {
   metadataBase: new URL(SITE_URL),
@@ -27,7 +28,7 @@ export const metadata = {
     description: SITE_DESCRIPTION,
     images: [
       {
-        url: getAbsoluteUrl(ASSETS.heroBgJpg),
+        url: getPublicAssetUrl(BRAND_OG_IMAGE),
         width: 1200,
         height: 630,
         alt: SITE_TAGLINE,
@@ -38,7 +39,7 @@ export const metadata = {
     card: 'summary_large_image',
     title: 'O2 Essentials - Oversized Streetwear Indonesia',
     description: SITE_DESCRIPTION,
-    images: [getAbsoluteUrl(ASSETS.heroBgJpg)],
+    images: [getPublicAssetUrl(BRAND_OG_IMAGE)],
   },
   robots: {
     index: true,

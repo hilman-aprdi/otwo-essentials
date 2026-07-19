@@ -1,4 +1,5 @@
-import { SITE_NAME, SITE_URL, ASSETS } from './site.js'
+import { BRAND_OG_IMAGE, SITE_NAME, SITE_URL } from './site.js'
+import { getPublicAssetUrl } from './public-assets.js'
 
 const cleanText = (value, fallback = '') => {
   if (!value || value === '-') return fallback
@@ -12,7 +13,7 @@ const getProductImages = (product, images = []) => {
     ? images
     : (product.variants || product.colors || []).flatMap((variant) => [variant.frontImage, variant.backImage].filter(Boolean).map((src) => ({ src })))
 
-  return visibleImages.length ? visibleImages.map((image) => absoluteUrl(image.src)) : [absoluteUrl(ASSETS.heroBgJpg)]
+  return visibleImages.length ? visibleImages.map((image) => getPublicAssetUrl(image.src)) : [getPublicAssetUrl(BRAND_OG_IMAGE)]
 }
 
 const getProductPrice = (product) => {
@@ -36,7 +37,7 @@ export const getOrganizationSchema = () => ({
   name: SITE_NAME,
   url: absoluteUrl('/'),
   logo: absoluteUrl('/assets/favico.ico'),
-  image: absoluteUrl(ASSETS.heroBgJpg),
+  image: getPublicAssetUrl(BRAND_OG_IMAGE),
   sameAs: [
     'https://www.instagram.com/o2essentials.id/',
     'https://www.tiktok.com/@o2essentials',
