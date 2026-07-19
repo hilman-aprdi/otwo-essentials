@@ -1,15 +1,49 @@
 import './globals.css'
 import Navbar from '../components/Navbar.jsx'
 import Footer from '../components/Footer.jsx'
-import { SITE_NAME, SITE_TAGLINE, SITE_URL } from '../lib/site.js'
+import { ASSETS, SITE_DESCRIPTION, SITE_NAME, SITE_TAGLINE, SITE_URL } from '../lib/site.js'
 
 export const metadata = {
   metadataBase: new URL(SITE_URL),
   title: {
-    default: SITE_NAME,
+    default: 'O2 Essentials - Oversized Streetwear Indonesia',
     template: `%s | ${SITE_NAME}`,
   },
-  description: SITE_TAGLINE,
+  description: SITE_DESCRIPTION,
+  applicationName: SITE_NAME,
+  icons: {
+    icon: '/assets/favico.ico',
+    shortcut: '/assets/favico.ico',
+  },
+  alternates: {
+    canonical: '/',
+  },
+  openGraph: {
+    type: 'website',
+    locale: 'id_ID',
+    url: '/',
+    siteName: SITE_NAME,
+    title: 'O2 Essentials - Oversized Streetwear Indonesia',
+    description: SITE_DESCRIPTION,
+    images: [
+      {
+        url: ASSETS.heroBgJpg,
+        width: 1200,
+        height: 630,
+        alt: SITE_TAGLINE,
+      },
+    ],
+  },
+  twitter: {
+    card: 'summary_large_image',
+    title: 'O2 Essentials - Oversized Streetwear Indonesia',
+    description: SITE_DESCRIPTION,
+    images: [ASSETS.heroBgJpg],
+  },
+  robots: {
+    index: true,
+    follow: true,
+  },
 }
 
 export default function RootLayout({ children }) {

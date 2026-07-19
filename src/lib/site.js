@@ -2,7 +2,9 @@ const ASSET_BASE = '/assets'
 
 export const SITE_NAME = 'o²essentials'
 export const SITE_TAGLINE = 'Breath Air, Wear O2'
-export const SITE_URL = 'https://o2essentials.id'
+export const SITE_URL = process.env.NEXT_PUBLIC_SITE_URL || 'https://o2essentials.id'
+export const SITE_DESCRIPTION =
+  'O2 Essentials is an Indonesian streetwear brand offering oversized essentials, premium everyday apparel, and graphic pieces made for daily wear.'
 
 export const ASSETS = {
   heroBgJpg: `${ASSET_BASE}/hero_bg.jpg`,

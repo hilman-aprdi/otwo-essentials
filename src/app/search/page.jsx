@@ -4,6 +4,9 @@ import SearchPageClient from '../../components/SearchPageClient.jsx'
 export const metadata = {
   title: 'Search Products',
   description: 'Search products in the collection.',
+  alternates: {
+    canonical: '/search',
+  },
   robots: {
     index: false,
     follow: true,

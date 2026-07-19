@@ -3,12 +3,27 @@ import ProductListingClient from '../../components/ProductListingClient.jsx'
 import StructuredData from '../../components/StructuredData.jsx'
 import { getAllProducts } from '../../lib/data.js'
 import { ROUTES } from '../../lib/routes.js'
-import { SITE_NAME } from '../../lib/site.js'
+import { ASSETS, SITE_NAME } from '../../lib/site.js'
 import { getCollectionSchema } from '../../lib/schema.js'
 
 export const metadata = {
-  title: 'Collections',
-  description: `Browse the full ${SITE_NAME} collection.`,
+  title: 'Oversized T-Shirts & Streetwear Collection',
+  description: `Browse the full ${SITE_NAME} collection: oversized t-shirts, tops, bottoms, and everyday streetwear essentials for Indonesia.`,
+  alternates: {
+    canonical: ROUTES.collections,
+  },
+  openGraph: {
+    title: `Oversized T-Shirts & Streetwear Collection | ${SITE_NAME}`,
+    description: `Browse the full ${SITE_NAME} collection: oversized t-shirts, tops, bottoms, and everyday streetwear essentials for Indonesia.`,
+    url: ROUTES.collections,
+    images: [{ url: ASSETS.bannerNewRelease, width: 1200, height: 630, alt: `${SITE_NAME} Collection` }],
+  },
+  twitter: {
+    card: 'summary_large_image',
+    title: `Oversized T-Shirts & Streetwear Collection | ${SITE_NAME}`,
+    description: `Browse the full ${SITE_NAME} collection: oversized t-shirts, tops, bottoms, and everyday streetwear essentials for Indonesia.`,
+    images: [ASSETS.bannerNewRelease],
+  },
 }
 
 export default function CollectionsPage() {
@@ -16,7 +31,7 @@ export default function CollectionsPage() {
 
   return (
     <>
-      <StructuredData data={getCollectionSchema({ name: `${SITE_NAME} Collection`, path: ROUTES.collections })} />
+      <StructuredData data={getCollectionSchema({ name: `${SITE_NAME} Collection`, path: ROUTES.collections, products })} />
       <Suspense fallback={<div className="min-h-screen" />}>
         <ProductListingClient
           title="Explore The Collection"

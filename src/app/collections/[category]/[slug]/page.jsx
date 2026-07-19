@@ -3,7 +3,20 @@ import ProductDetailClient from '../../../../components/ProductDetailClient.jsx'
 import StructuredData from '../../../../components/StructuredData.jsx'
 import { getAllProducts, getProductBySlug } from '../../../../lib/data.js'
 import { ROUTES } from '../../../../lib/routes.js'
+import { ASSETS, SITE_NAME } from '../../../../lib/site.js'
 import { getProductSchema } from '../../../../lib/schema.js'
+
+const getProductDescription = (product) => {
+  if (product.description && product.description !== '-') return product.description
+
+  return `${product.name} from ${SITE_NAME}. A premium ${product.category || 'fashion'} piece made for everyday streetwear in Indonesia.`
+}
+
+const getProductOgImage = (product) => {
+  const variant = (product.variants || product.colors || []).find((color) => color.frontImage) || {}
+
+  return variant.frontImage || ASSETS.heroBgJpg
+}
 
 export function generateStaticParams() {
   return getAllProducts().map((product) => ({
@@ -19,12 +32,44 @@ export async function generateMetadata({ params }) {
   if (!product) {
     return {
       title: 'Product Not Found',
+      robots: {
+        index: false,
+        follow: false,
+      },
     }
   }
 
+  const category = product.category?.toLowerCase() || 'top'
+  const productPath = ROUTES.collectionProduct(category, product.slug)
+  const description = getProductDescription(product)
+  const ogImage = getProductOgImage(product)
+
   return {
     title: product.name,
-    description: product.description || `Detail produk ${product.name}.`,
+    description,
+    alternates: {
+      canonical: productPath,
+    },
+    openGraph: {
+      type: 'website',
+      title: `${product.name} | ${SITE_NAME}`,
+      description,
+      url: productPath,
+      images: [
+        {
+          url: ogImage,
+          width: 1200,
+          height: 1200,
+          alt: product.name,
+        },
+      ],
+    },
+    twitter: {
+      card: 'summary_large_image',
+      title: `${product.name} | ${SITE_NAME}`,
+      description,
+      images: [ogImage],
+    },
   }
 }
 

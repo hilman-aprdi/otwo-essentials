@@ -1,5 +1,6 @@
 'use client'
 
+import Image from 'next/image'
 import { useEffect, useState } from 'react'
 import { ASSETS } from '../lib/site.js'
 import { getBanners } from '../lib/data.js'
@@ -30,15 +31,17 @@ const BannerTop = () => {
           <div className="relative overflow-hidden rounded-3xl border border-white/10 bg-neutral-950">
             <div className="flex transition-transform duration-500 ease-out" style={{ transform: `translateX(-${topSlide * 100}%)` }}>
               {topBanners.map((banner) => (
-                <img
+                <Image
                   key={banner.id}
                   src={banner.image}
-                  alt={banner.alt}
+                  alt={banner.alt || 'O2 Essentials campaign banner'}
                   width="1600"
                   height="900"
                   className="aspect-[16/9] min-w-full flex-shrink-0 select-none object-cover"
                   style={{ width: '100%' }}
                   draggable={false}
+                  loading="lazy"
+                  sizes="(min-width: 1280px) 1280px, calc(100vw - 2rem)"
                 />
               ))}
             </div>
@@ -76,7 +79,16 @@ const BannerTop = () => {
       <section className="bg-[#050505] px-4 pb-20 sm:px-6 lg:px-8">
         <div className="mx-auto max-w-7xl overflow-hidden rounded-3xl border border-white/10 bg-black">
           <a href="https://shopee.co.id/o2essentialsofficialstore" target="_blank" rel="noopener noreferrer" aria-label="Shop O2 Essentials on Shopee" className="block">
-            <img src={ASSETS.bannerPayday} alt="New Release" width="1600" height="900" className="block h-auto w-full select-none object-contain" draggable={false} />
+            <Image
+              src={ASSETS.bannerPayday}
+              alt="O2 Essentials payday campaign"
+              width="1600"
+              height="900"
+              className="block h-auto w-full select-none object-contain"
+              draggable={false}
+              loading="lazy"
+              sizes="(min-width: 1280px) 1280px, calc(100vw - 2rem)"
+            />
           </a>
         </div>
       </section>

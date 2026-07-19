@@ -31,10 +31,12 @@ const Navbar = () => {
     }
 
     const handleScroll = () => {
-      setIsScrolled(window.scrollY > 50)
+      const nextIsScrolled = window.scrollY > 50
+      setIsScrolled((currentIsScrolled) => (currentIsScrolled === nextIsScrolled ? currentIsScrolled : nextIsScrolled))
     }
 
-    window.addEventListener('scroll', handleScroll)
+    handleScroll()
+    window.addEventListener('scroll', handleScroll, { passive: true })
     return () => window.removeEventListener('scroll', handleScroll)
   }, [isHomePage])
 

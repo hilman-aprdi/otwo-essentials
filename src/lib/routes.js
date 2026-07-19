@@ -1,7 +1,9 @@
+import { SITE_URL } from './site.js'
+
 const COLLECTIONS_BASE = '/collections'
-const SITE_URL = 'https://o2essentials.id'
 
 const normalizeCategory = (category = '') => category.toLowerCase()
+const withTrailingSlash = (path) => (path === '/' ? '/' : `${path.replace(/\/+$/, '')}/`)
 
 export const ROUTES = {
   home: '/',
@@ -11,4 +13,4 @@ export const ROUTES = {
   search: '/search',
 }
 
-export const getCanonicalUrl = (path) => `${SITE_URL}${path}`
+export const getCanonicalUrl = (path) => new URL(withTrailingSlash(path), SITE_URL).toString()

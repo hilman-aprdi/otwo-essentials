@@ -1,6 +1,7 @@
 'use client'
 
 import { useEffect, useRef, useState } from 'react'
+import Image from 'next/image'
 import Link from 'next/link'
 import { ROUTES } from '../lib/routes.js'
 import { ASSETS, SITE_NAME } from '../lib/site.js'
@@ -151,14 +152,14 @@ const ProductDetailClient = ({ product, category, images, productPath }) => {
                   </button>
                 )}
                 {images[imgIdx] && (
-                  <img
+                  <Image
                     src={images[imgIdx].src}
                     alt={`${product.name} ${images[imgIdx].color} ${images[imgIdx].type}`}
-                    width="1200"
-                    height="1200"
+                    fill
+                    sizes="(min-width: 768px) 50vw, 100vw"
                     className="absolute inset-0 h-full w-full cursor-zoom-in object-contain"
                     onClick={() => setShowLightbox(true)}
-                    loading="eager"
+                    priority
                   />
                 )}
                 {images.length > 1 && (
@@ -182,7 +183,7 @@ const ProductDetailClient = ({ product, category, images, productPath }) => {
                       title={`${img.color} ${img.type}`}
                       style={{ background: 'none' }}
                     >
-                      <img
+                      <Image
                         src={img.src}
                         alt={`${product.name} ${img.color} ${img.type}`}
                         width="96"
@@ -190,6 +191,7 @@ const ProductDetailClient = ({ product, category, images, productPath }) => {
                         className={`h-full w-full object-cover ${idx === imgIdx ? '' : 'opacity-80'}`}
                         draggable={false}
                         loading="lazy"
+                        sizes="48px"
                       />
                     </button>
                   ))}
@@ -249,7 +251,7 @@ const ProductDetailClient = ({ product, category, images, productPath }) => {
                 )}
                 {tab === 'SIZE GUIDE' && (
                   <div className="flex flex-col items-center">
-                    <img src={ASSETS.sizeReference} alt="Size Reference" width="800" height="1000" className="w-full max-w-xs rounded shadow md:max-w-sm" loading="lazy" />
+                    <Image src={ASSETS.sizeReference} alt="Size Reference" width="800" height="1000" className="w-full max-w-xs rounded shadow md:max-w-sm" loading="lazy" sizes="(min-width: 768px) 384px, 320px" />
                   </div>
                 )}
               </div>
@@ -265,7 +267,7 @@ const ProductDetailClient = ({ product, category, images, productPath }) => {
                       onClick={() => handleColorClick(idx)}
                     >
                       <div className="mb-1 text-xs font-medium">{color.name}</div>
-                      {color.frontImage && <img src={color.frontImage} alt={`${color.name} front`} width="48" height="48" className="h-12 w-12 rounded object-cover" loading="lazy" />}
+                      {color.frontImage && <Image src={color.frontImage} alt={`${color.name} front`} width="48" height="48" className="h-12 w-12 rounded object-cover" loading="lazy" sizes="48px" />}
                     </div>
                   ))}
                 </div>

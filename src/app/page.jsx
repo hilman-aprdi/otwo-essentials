@@ -6,18 +6,42 @@ import Hero from '../components/Hero.jsx'
 import ProductGrid from '../components/ProductGrid.jsx'
 import StructuredData from '../components/StructuredData.jsx'
 import { ROUTES } from '../lib/routes.js'
-import { SITE_NAME } from '../lib/site.js'
-import { getOrganizationSchema } from '../lib/schema.js'
+import { ASSETS, SITE_DESCRIPTION, SITE_NAME } from '../lib/site.js'
+import { getOrganizationSchema, getWebSiteSchema } from '../lib/schema.js'
 
 export const metadata = {
-  title: `${SITE_NAME} - Premium Fashion Essentials`,
-  description: `Shop premium fashion essentials with unique designs and superior comfort. Explore the collection at ${SITE_NAME}.`,
+  title: {
+    absolute: 'O2 Essentials - Oversized Streetwear Indonesia',
+  },
+  description: SITE_DESCRIPTION,
+  alternates: {
+    canonical: ROUTES.home,
+  },
+  openGraph: {
+    title: 'O2 Essentials - Oversized Streetwear Indonesia',
+    description: SITE_DESCRIPTION,
+    url: ROUTES.home,
+    images: [
+      {
+        url: ASSETS.heroBgJpg,
+        width: 1200,
+        height: 630,
+        alt: SITE_NAME,
+      },
+    ],
+  },
+  twitter: {
+    card: 'summary_large_image',
+    title: 'O2 Essentials - Oversized Streetwear Indonesia',
+    description: SITE_DESCRIPTION,
+    images: [ASSETS.heroBgJpg],
+  },
 }
 
 const HomePage = () => {
   return (
     <>
-      <StructuredData data={getOrganizationSchema()} />
+      <StructuredData data={[getOrganizationSchema(), getWebSiteSchema()]} />
       <div className="min-h-screen">
         <Hero />
         <BannerTop />

@@ -1,13 +1,19 @@
+import Image from 'next/image'
 import Link from 'next/link'
 import { ROUTES } from '../lib/routes.js'
 import { ASSETS, SITE_NAME, SITE_TAGLINE } from '../lib/site.js'
 
 const Hero = () => {
   return (
-    <section
-      className="relative -mt-16 flex min-h-[100svh] w-full items-center justify-center overflow-hidden bg-cover bg-center bg-no-repeat"
-      style={{ backgroundImage: `url(${ASSETS.heroBgPng})` }}
-    >
+    <section className="relative -mt-16 flex min-h-[100svh] w-full items-center justify-center overflow-hidden">
+      <Image
+        src={ASSETS.heroBgPng}
+        alt=""
+        fill
+        priority
+        sizes="100vw"
+        className="object-cover object-center"
+      />
       <div className="absolute inset-0 bg-gradient-to-b from-black/70 via-black/35 to-black/75" />
       <div className="relative z-10 px-6 text-center text-white">
         <div className="logo-flip">
