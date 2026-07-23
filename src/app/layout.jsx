@@ -15,8 +15,13 @@ export const metadata = {
   creator: SITE_NAME,
   publisher: SITE_NAME,
   icons: {
-    icon: '/assets/favico.ico',
-    shortcut: '/assets/favico.ico',
+    icon: [
+      { url: '/favicon.ico', sizes: 'any', type: 'image/x-icon' },
+      { url: '/icon-192.png', sizes: '192x192', type: 'image/png' },
+      { url: '/icon-512.png', sizes: '512x512', type: 'image/png' },
+    ],
+    shortcut: '/favicon.ico',
+    apple: [{ url: '/apple-icon.png', sizes: '180x180', type: 'image/png' }],
   },
   alternates: {
     canonical: getAbsoluteUrl('/'),

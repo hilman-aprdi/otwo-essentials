@@ -6,10 +6,11 @@ import Hero from '../components/Hero.jsx'
 import ProductGrid from '../components/ProductGrid.jsx'
 import StructuredData from '../components/StructuredData.jsx'
 import { ROUTES, getCanonicalUrl } from '../lib/routes.js'
-import { SITE_DESCRIPTION, SITE_NAME } from '../lib/site.js'
+import { SITE_DESCRIPTION, SITE_NAME, getAbsoluteUrl } from '../lib/site.js'
 import { getOrganizationSchema, getWebSiteSchema } from '../lib/schema.js'
 
-const HOME_OG_IMAGE = '/banner/images.png'
+const HOME_OG_IMAGE = getAbsoluteUrl('/banner/images.png')
+const HOME_OG_IMAGE_ALT = 'O2 Essentials oversized streetwear collection'
 
 export const metadata = {
   title: {
@@ -26,9 +27,11 @@ export const metadata = {
     images: [
       {
         url: HOME_OG_IMAGE,
-        width: 1200,
-        height: 630,
-        alt: SITE_NAME,
+        secureUrl: HOME_OG_IMAGE,
+        type: 'image/png',
+        width: 447,
+        height: 447,
+        alt: HOME_OG_IMAGE_ALT,
       },
     ],
   },

@@ -22,7 +22,7 @@ export const getOrganizationSchema = () => ({
   '@type': 'Organization',
   name: SITE_NAME,
   url: absoluteUrl('/'),
-  logo: absoluteUrl('/assets/favico.ico'),
+  logo: absoluteUrl('/icon-512.png'),
   image: getPublicAssetUrl(BRAND_OG_IMAGE),
   sameAs: [
     'https://www.instagram.com/o2essentials.id/',
