@@ -12,6 +12,8 @@ export const metadata = {
   },
   description: SITE_DESCRIPTION,
   applicationName: SITE_NAME,
+  creator: SITE_NAME,
+  publisher: SITE_NAME,
   icons: {
     icon: '/assets/favico.ico',
     shortcut: '/assets/favico.ico',
@@ -44,6 +46,9 @@ export const metadata = {
   robots: {
     index: true,
     follow: true,
+  },
+  verification: {
+    google: 'rAX9eRjgxEfjxaZJyxE_ZX9bYupHul2wmpNmcNR4jg4',
   },
 }
 

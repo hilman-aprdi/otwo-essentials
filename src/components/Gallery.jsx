@@ -20,7 +20,7 @@ const Gallery = () => {
         <div className="flex aspect-square w-full items-center justify-center overflow-hidden bg-black">
           <Image
             src={galleryImages[0]}
-            alt="Gallery 3"
+            alt="O2 Essentials Dream Bear campaign look 1"
             width="1200"
             height="1200"
             className="h-full w-full object-cover object-center transition-transform duration-500 hover:scale-[1.03]"
@@ -31,7 +31,7 @@ const Gallery = () => {
         <div className="flex aspect-square w-full items-center justify-center overflow-hidden bg-black">
           <Image
             src={galleryImages[1]}
-            alt="Gallery 4"
+            alt="O2 Essentials Dream Bear campaign look 2"
             width="1200"
             height="1200"
             className="h-full w-full object-cover object-center transition-transform duration-500 hover:scale-[1.03]"

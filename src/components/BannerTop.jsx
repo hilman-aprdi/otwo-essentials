@@ -6,8 +6,8 @@ import { ASSETS } from '../lib/site.js'
 import { getBanners } from '../lib/data.js'
 
 const fallbackBanners = [
-  { id: 1, image: ASSETS.bannerNewRelease, alt: 'New Release' },
-  { id: 2, image: ASSETS.bannerNewRelease2, alt: 'New Release' },
+  { id: 1, image: ASSETS.bannerNewRelease, alt: 'O2 Essentials new release campaign banner' },
+  { id: 2, image: ASSETS.bannerNewRelease2, alt: 'O2 Essentials new release campaign banner' },
 ]
 
 const cmsBanners = getBanners()

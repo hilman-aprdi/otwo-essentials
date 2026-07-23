@@ -16,14 +16,12 @@
       "tiktok": "https://vt.tiktok.com/ZSHurYoNt/?page=Mall"
     },
     "material": "Cotton Combed 20s",
-    "basePrice": 0,
     "featured": false,
     "description": "-",
     "variants": [
       {
         "name": "Black",
         "code": "black",
-        "price": null,
         "frontImage": "/tshirts/black/b-akita_inu_front.webp",
         "backImage": "/tshirts/black/b-akita_inu_back.webp",
         "inStock": true
@@ -46,14 +44,12 @@
       "tiktok": "https://vt.tiktok.com/ZSHurYoNt/?page=Mall"
     },
     "material": "Cotton Combed 20s",
-    "basePrice": 0,
     "featured": false,
     "description": "-",
     "variants": [
       {
         "name": "Black",
         "code": "black",
-        "price": null,
         "frontImage": "/tshirts/black/b-angelus_front.webp",
         "backImage": "/tshirts/black/b-angelus_back.webp",
         "inStock": true
@@ -61,7 +57,6 @@
       {
         "name": "White",
         "code": "white",
-        "price": null,
         "frontImage": "/tshirts/white/w-angelus_front.webp",
         "backImage": "/tshirts/white/w-angelus_back.webp",
         "inStock": true
@@ -85,14 +80,12 @@
       "tiktok": "https://vt.tiktok.com/ZSHurYoNt/?page=Mall"
     },
     "material": "Cotton Combed 20s",
-    "basePrice": 0,
     "featured": false,
     "description": "-",
     "variants": [
       {
         "name": "Black",
         "code": "black",
-        "price": null,
         "frontImage": "/tshirts/black/b-angel_baby_front.webp",
         "backImage": "/tshirts/black/b-angel_baby_back.webp",
         "inStock": true
@@ -100,7 +93,6 @@
       {
         "name": "White",
         "code": "white",
-        "price": null,
         "frontImage": "/tshirts/white/w-angel_baby_front.webp",
         "backImage": "/tshirts/white/w-angel_baby_back.webp",
         "inStock": true
@@ -125,14 +117,12 @@
       "tiktok": "https://vt.tiktok.com/ZSHurYoNt/?page=Mall"
     },
     "material": "Cotton Combed 20s",
-    "basePrice": 0,
     "featured": false,
     "description": "-",
     "variants": [
       {
         "name": "Black",
         "code": "black",
-        "price": null,
         "frontImage": "/tshirts/black/b-astro_do_better_front.webp",
         "backImage": "/tshirts/black/b-astro_do_better_back.webp",
         "inStock": true
@@ -157,14 +147,12 @@
       "tiktok": "https://vt.tiktok.com/ZSHurYoNt/?page=Mall"
     },
     "material": "Cotton Combed 20s",
-    "basePrice": 0,
     "featured": false,
     "description": "-",
     "variants": [
       {
         "name": "Black",
         "code": "black",
-        "price": null,
         "frontImage": "/tshirts/black/b-astro_frenchie_front.webp",
         "backImage": "/tshirts/black/b-astro_frenchie_back.webp",
         "inStock": true
@@ -188,14 +176,12 @@
       "tiktok": "https://vt.tiktok.com/ZSHurYoNt/?page=Mall"
     },
     "material": "Cotton Combed 20s",
-    "basePrice": 0,
     "featured": false,
     "description": "-",
     "variants": [
       {
         "name": "Black",
         "code": "black",
-        "price": null,
         "frontImage": "/tshirts/black/b-astro_mars_front.webp",
         "backImage": "/tshirts/black/b-astro_mars_back.webp",
         "inStock": true
@@ -219,14 +205,12 @@
       "tiktok": "https://vt.tiktok.com/ZSHurYoNt/?page=Mall"
     },
     "material": "Cotton Combed 20s",
-    "basePrice": 0,
     "featured": false,
     "description": "-",
     "variants": [
       {
         "name": "Black",
         "code": "black",
-        "price": null,
         "frontImage": "/tshirts/black/b-astro_nebula_front.webp",
         "backImage": "/tshirts/black/b-astro_nebula_back.webp",
         "inStock": true
@@ -249,14 +233,12 @@
       "tiktok": "https://vt.tiktok.com/ZSHurYoNt/?page=Mall"
     },
     "material": "Cotton Combed 20s",
-    "basePrice": 0,
     "featured": false,
     "description": "-",
     "variants": [
       {
         "name": "Black",
         "code": "black",
-        "price": null,
         "frontImage": "/tshirts/black/b-bear_galaxy_front.webp",
         "backImage": "/tshirts/black/b-bear_galaxy_back.webp",
         "inStock": true
@@ -281,14 +263,12 @@
       "tiktok": "https://vt.tiktok.com/ZSHurYoNt/?page=Mall"
     },
     "material": "Cotton Combed 20s",
-    "basePrice": 0,
     "featured": false,
     "description": "-",
     "variants": [
       {
         "name": "Black",
         "code": "black",
-        "price": null,
         "frontImage": "/tshirts/black/b-bear_rabbit_front.webp",
         "backImage": "/tshirts/black/b-bear_rabbit_back.webp",
         "inStock": true
@@ -313,14 +293,12 @@
       "tiktok": "https://vt.tiktok.com/ZSHurYoNt/?page=Mall"
     },
     "material": "Cotton Combed 20s",
-    "basePrice": 0,
     "featured": false,
     "description": "-",
     "variants": [
       {
         "name": "White",
         "code": "white",
-        "price": null,
         "frontImage": "/tshirts/white/w-bear_sketch_front.webp",
         "backImage": "/tshirts/white/w-bear_sketch_back.webp",
         "inStock": true
@@ -342,14 +320,12 @@
       "tiktok": "https://vt.tiktok.com/ZSHurYoNt/?page=Mall"
     },
     "material": "Cotton Combed 20s",
-    "basePrice": 0,
     "featured": false,
     "description": "-",
     "variants": [
       {
         "name": "Black",
         "code": "black",
-        "price": null,
         "frontImage": "/tshirts/black/b-be_yourself_front.webp",
         "backImage": "/tshirts/black/b-be_yourself_back.webp",
         "inStock": true
@@ -373,14 +349,12 @@
       "tiktok": "https://vt.tiktok.com/ZSHurYoNt/?page=Mall"
     },
     "material": "Cotton Combed 20s",
-    "basePrice": 0,
     "featured": true,
     "description": "-",
     "variants": [
       {
         "name": "Black",
         "code": "black",
-        "price": null,
         "frontImage": "/tshirts/black/b-boxing_dog_front.webp",
         "backImage": "/tshirts/black/b-boxing_dog_back.webp",
         "inStock": true
@@ -388,7 +362,6 @@
       {
         "name": "White",
         "code": "white",
-        "price": null,
         "frontImage": "/tshirts/white/w-boxing_dog_front.webp",
         "backImage": "/tshirts/white/w-boxing_dog_back.webp",
         "inStock": true
@@ -396,7 +369,6 @@
       {
         "name": "Cream",
         "code": "cream",
-        "price": null,
         "frontImage": "/tshirts/cream/c-boxing_dog_back.webp",
         "backImage": "/tshirts/cream/c-boxing_dog_back.webp",
         "inStock": true
@@ -404,7 +376,6 @@
       {
         "name": "Maroon",
         "code": "maroon",
-        "price": null,
         "frontImage": "/tshirts/maroon/m-boxing_dog_front.webp",
         "backImage": "/tshirts/maroon/m-boxing_dog_back.webp",
         "inStock": true
@@ -428,14 +399,12 @@
       "tiktok": "https://vt.tiktok.com/ZSHurYoNt/?page=Mall"
     },
     "material": "Cotton Combed 20s",
-    "basePrice": 0,
     "featured": false,
     "description": "-",
     "variants": [
       {
         "name": "White",
         "code": "white",
-        "price": null,
         "frontImage": "/tshirts/white/w-budapest_front.webp",
         "backImage": "/tshirts/white/w-budapest_back.webp",
         "inStock": true
@@ -458,14 +427,12 @@
       "tiktok": "https://vt.tiktok.com/ZSHurYoNt/?page=Mall"
     },
     "material": "Cotton Combed 20s",
-    "basePrice": 0,
     "featured": false,
     "description": "-",
     "variants": [
       {
         "name": "Cream",
         "code": "cream",
-        "price": null,
         "frontImage": "/tshirts/cream/c-celestial_front.webp",
         "backImage": "/tshirts/cream/c-celestial_back.webp",
         "inStock": true
@@ -473,7 +440,6 @@
       {
         "name": "White",
         "code": "white",
-        "price": null,
         "frontImage": "/tshirts/white/w-celestial_front.webp",
         "backImage": "/tshirts/white/w-celestial_back.webp",
         "inStock": true
@@ -496,14 +462,12 @@
       "tiktok": "https://vt.tiktok.com/ZSHurYoNt/?page=Mall"
     },
     "material": "Cotton Combed 20s",
-    "basePrice": 0,
     "featured": false,
     "description": "-",
     "variants": [
       {
         "name": "Black",
         "code": "black",
-        "price": null,
         "frontImage": "/tshirts/black/b-clown_doll_front.webp",
         "backImage": "/tshirts/black/b-clown_doll_back.webp",
         "inStock": true
@@ -526,14 +490,12 @@
       "tiktok": "https://vt.tiktok.com/ZSHurYoNt/?page=Mall"
     },
     "material": "Cotton Combed 20s",
-    "basePrice": 0,
     "featured": false,
     "description": "-",
     "variants": [
       {
         "name": "White",
         "code": "white",
-        "price": null,
         "frontImage": "/tshirts/white/w-chloe_morphie_front.webp",
         "backImage": "/tshirts/white/w-chloe_morphie_back.webp",
         "inStock": true
@@ -557,14 +519,12 @@
       "tiktok": "https://vt.tiktok.com/ZSHurYoNt/?page=Mall"
     },
     "material": "Cotton Combed 20s",
-    "basePrice": 0,
     "featured": false,
     "description": "-",
     "variants": [
       {
         "name": "Black",
         "code": "black",
-        "price": null,
         "frontImage": "/tshirts/black/b-crazy_rich_front.webp",
         "backImage": "/tshirts/black/b-crazy_rich_back.webp",
         "inStock": true
@@ -587,14 +547,12 @@
       "tiktok": "https://vt.tiktok.com/ZSHurYoNt/?page=Mall"
     },
     "material": "Cotton Combed 20s",
-    "basePrice": 0,
     "featured": false,
     "description": "-",
     "variants": [
       {
         "name": "Black",
         "code": "black",
-        "price": null,
         "frontImage": "/tshirts/black/b-dollar_toast_front.webp",
         "backImage": "/tshirts/black/b-dollar_toast_back.webp",
         "inStock": true
@@ -617,14 +575,12 @@
       "tiktok": "https://vt.tiktok.com/ZSHurYoNt/?page=Mall"
     },
     "material": "Cotton Combed 20s",
-    "basePrice": 0,
     "featured": true,
     "description": "-",
     "variants": [
       {
         "name": "Black",
         "code": "black",
-        "price": null,
         "frontImage": "/tshirts/black/b-dont_look_back_front.webp",
         "backImage": "/tshirts/black/b-dont_look_back_back.webp",
         "inStock": true
@@ -648,14 +604,12 @@
       "tiktok": "https://vt.tiktok.com/ZSHurYoNt/?page=Mall"
     },
     "material": "Cotton Combed 20s",
-    "basePrice": 0,
     "featured": false,
     "description": "-",
     "variants": [
       {
         "name": "Black",
         "code": "black",
-        "price": null,
         "frontImage": "/tshirts/black/b-dream_bear_front.webp",
         "backImage": "/tshirts/black/b-dream_bear_back.webp",
         "inStock": true
@@ -663,7 +617,6 @@
       {
         "name": "White",
         "code": "white",
-        "price": null,
         "frontImage": "/tshirts/white/w-dream_bear_front.webp",
         "backImage": "/tshirts/white/w-dream_bear_back.webp",
         "inStock": true
@@ -687,14 +640,12 @@
       "tiktok": "https://vt.tiktok.com/ZSHurYoNt/?page=Mall"
     },
     "material": "Cotton Combed 20s",
-    "basePrice": 0,
     "featured": false,
     "description": "-",
     "variants": [
       {
         "name": "Black",
         "code": "black",
-        "price": null,
         "frontImage": "/tshirts/black/b-earth_moon_front.webp",
         "backImage": "/tshirts/black/b-earth_moon_back.webp",
         "inStock": true
@@ -718,14 +669,12 @@
       "tiktok": "https://vt.tiktok.com/ZSHurYoNt/?page=Mall"
     },
     "material": "Cotton Combed 20s",
-    "basePrice": 0,
     "featured": false,
     "description": "-",
     "variants": [
       {
         "name": "Black",
         "code": "black",
-        "price": null,
         "frontImage": "/tshirts/black/b-elegant_rabbit_front.webp",
         "backImage": "/tshirts/black/b-elegant_rabbit_back.webp",
         "inStock": true
@@ -748,14 +697,12 @@
       "tiktok": "https://vt.tiktok.com/ZSHurYoNt/?page=Mall"
     },
     "material": "Cotton Combed 20s",
-    "basePrice": 0,
     "featured": false,
     "description": "-",
     "variants": [
       {
         "name": "Cream",
         "code": "cream",
-        "price": null,
         "frontImage": "/tshirts/cream/c-eros_front.webp",
         "backImage": "/tshirts/cream/c-eros_back.webp",
         "inStock": true
@@ -763,7 +710,6 @@
       {
         "name": "White",
         "code": "white",
-        "price": null,
         "frontImage": "/tshirts/white/w-eros_front.webp",
         "backImage": "/tshirts/white/w-eros_back.webp",
         "inStock": true
@@ -786,14 +732,12 @@
       "tiktok": "https://vt.tiktok.com/ZSHurYoNt/?page=Mall"
     },
     "material": "Cotton Combed 20s",
-    "basePrice": 0,
     "featured": false,
     "description": "-",
     "variants": [
       {
         "name": "Cream",
         "code": "cream",
-        "price": null,
         "frontImage": "/tshirts/cream/c-enjin_CNY_edition_front.webp",
         "backImage": "/tshirts/cream/c-enjin_CNY_edition_back.webp",
         "inStock": true
@@ -816,14 +760,12 @@
       "tiktok": "https://vt.tiktok.com/ZSHurYoNt/?page=Mall"
     },
     "material": "Cotton Combed 20s",
-    "basePrice": 0,
     "featured": false,
     "description": "-",
     "variants": [
       {
         "name": "Black",
         "code": "black",
-        "price": null,
         "frontImage": "/tshirts/black/b-flower_essentials_front.webp",
         "backImage": "/tshirts/black/b-flower_essentials_back.webp",
         "inStock": true
@@ -831,7 +773,6 @@
       {
         "name": "White",
         "code": "white",
-        "price": null,
         "frontImage": "/tshirts/white/w-flower_essentials_front.webp",
         "backImage": "/tshirts/white/w-flower_essentials_back.webp",
         "inStock": true
@@ -853,14 +794,12 @@
       "tiktok": "https://vt.tiktok.com/ZSHurYoNt/?page=Mall"
     },
     "material": "Cotton Combed 20s",
-    "basePrice": 0,
     "featured": false,
     "description": "-",
     "variants": [
       {
         "name": "Black",
         "code": "black",
-        "price": null,
         "frontImage": "/tshirts/black/b-flying_rocket_front.webp",
         "backImage": "/tshirts/black/b-flying_rocket_back.webp",
         "inStock": true
@@ -884,14 +823,12 @@
       "tiktok": "https://vt.tiktok.com/ZSHurYoNt/?page=Mall"
     },
     "material": "Cotton Combed 20s",
-    "basePrice": 0,
     "featured": false,
     "description": "-",
     "variants": [
       {
         "name": "Black",
         "code": "black",
-        "price": null,
         "frontImage": "/tshirts/black/b-frenchie_doll_front.webp",
         "backImage": "/tshirts/black/b-frenchie_doll_back.webp",
         "inStock": true
@@ -899,7 +836,6 @@
       {
         "name": "White",
         "code": "white",
-        "price": null,
         "frontImage": "/tshirts/white/w-frenchie_doll_front.webp",
         "backImage": "/tshirts/white/w-frenchie_doll_back.webp",
         "inStock": true
@@ -907,7 +843,6 @@
       {
         "name": "Cream",
         "code": "cream",
-        "price": null,
         "frontImage": "/tshirts/cream/c-frenchie_doll_front.webp",
         "backImage": "/tshirts/cream/c-frenchie_doll_back.webp",
         "inStock": true
@@ -931,14 +866,12 @@
       "tiktok": "https://vt.tiktok.com/ZSHurYoNt/?page=Mall"
     },
     "material": "Cotton Combed 20s",
-    "basePrice": 0,
     "featured": false,
     "description": "-",
     "variants": [
       {
         "name": "Black",
         "code": "black",
-        "price": null,
         "frontImage": "/tshirts/black/b-frenchie_front.webp",
         "backImage": "/tshirts/black/b-frenchie_back.webp",
         "inStock": true
@@ -946,7 +879,6 @@
       {
         "name": "White",
         "code": "white",
-        "price": null,
         "frontImage": "/tshirts/white/w-frenchie_front.webp",
         "backImage": "/tshirts/white/w-frenchie_front.webp",
         "inStock": true
@@ -969,14 +901,12 @@
       "tiktok": "https://vt.tiktok.com/ZSHurYoNt/?page=Mall"
     },
     "material": "Cotton Combed 20s",
-    "basePrice": 0,
     "featured": false,
     "description": "-",
     "variants": [
       {
         "name": "Black",
         "code": "black",
-        "price": null,
         "frontImage": "/tshirts/black/b-frenchie_world_front.webp",
         "backImage": "/tshirts/black/b-frenchie_world_back.webp",
         "inStock": true
@@ -984,7 +914,6 @@
       {
         "name": "White",
         "code": "white",
-        "price": null,
         "frontImage": "/tshirts/white/w-frenchie_world_front.webp",
         "backImage": "/tshirts/white/w-frenchie_world_back.webp",
         "inStock": true
@@ -1007,14 +936,12 @@
       "tiktok": "https://vt.tiktok.com/ZSHurYoNt/?page=Mall"
     },
     "material": "Cotton Combed 20s",
-    "basePrice": 0,
     "featured": false,
     "description": "-",
     "variants": [
       {
         "name": "Black",
         "code": "black",
-        "price": null,
         "frontImage": "/tshirts/black/b-guardian_angel_front.webp",
         "backImage": "/tshirts/black/b-guardian_angel_back.webp",
         "inStock": true
@@ -1022,7 +949,6 @@
       {
         "name": "White",
         "code": "white",
-        "price": null,
         "frontImage": "/tshirts/white/w-guardian_angel_back.webp",
         "backImage": "/tshirts/white/w-guardian_angel_back.webp",
         "inStock": true
@@ -1046,14 +972,12 @@
       "tiktok": "https://vt.tiktok.com/ZSHurYoNt/?page=Mall"
     },
     "material": "Cotton Combed 20s",
-    "basePrice": 0,
     "featured": false,
     "description": "-",
     "variants": [
       {
         "name": "Black",
         "code": "black",
-        "price": null,
         "frontImage": "/tshirts/black/b-gummy_bear_front.webp",
         "backImage": "/tshirts/black/b-gummy_bear_back.webp",
         "inStock": true
@@ -1076,14 +1000,12 @@
       "tiktok": "https://vt.tiktok.com/ZSHurYoNt/?page=Mall"
     },
     "material": "Cotton Combed 20s",
-    "basePrice": 0,
     "featured": false,
     "description": "-",
     "variants": [
       {
         "name": "White",
         "code": "white",
-        "price": null,
         "frontImage": "/tshirts/white/w-horizon_whale_front.webp",
         "backImage": "/tshirts/white/w-horizon_whale_back.webp",
         "inStock": true
@@ -1106,14 +1028,12 @@
       "tiktok": "https://vt.tiktok.com/ZSHurYoNt/?page=Mall"
     },
     "material": "Cotton Combed 20s",
-    "basePrice": 0,
     "featured": false,
     "description": "-",
     "variants": [
       {
         "name": "Black",
         "code": "black",
-        "price": null,
         "frontImage": "/tshirts/black/b-hungry_bird_front.webp",
         "backImage": "/tshirts/black/b-hungry_bird_back.webp",
         "inStock": true
@@ -1121,7 +1041,6 @@
       {
         "name": "White",
         "code": "white",
-        "price": null,
         "frontImage": "/tshirts/white/w-hungry_bird_front.webp",
         "backImage": "/tshirts/white/w-hungry_bird_back.webp",
         "inStock": true
@@ -1143,14 +1062,12 @@
       "tiktok": "https://vt.tiktok.com/ZSHurYoNt/?page=Mall"
     },
     "material": "Cotton Combed 20s",
-    "basePrice": 0,
     "featured": true,
     "description": "-",
     "variants": [
       {
         "name": "Black",
         "code": "black",
-        "price": null,
         "frontImage": "/tshirts/black/b-hype_origin_front.webp",
         "backImage": "/tshirts/black/b-hype_origin_back.webp",
         "inStock": true
@@ -1158,7 +1075,6 @@
       {
         "name": "White",
         "code": "white",
-        "price": null,
         "frontImage": "/tshirts/white/w-hype_origin_front.webp",
         "backImage": "/tshirts/white/w-hype_origin_back.webp",
         "inStock": true
@@ -1182,14 +1098,12 @@
       "tiktok": "https://vt.tiktok.com/ZSHurYoNt/?page=Mall"
     },
     "material": "Cotton Combed 20s",
-    "basePrice": 0,
     "featured": false,
     "description": "-",
     "variants": [
       {
         "name": "Black",
         "code": "black",
-        "price": null,
         "frontImage": "/tshirts/black/b-kaiju_front.webp",
         "backImage": "/tshirts/black/b-kaiju_back.webp",
         "inStock": true
@@ -1213,14 +1127,12 @@
       "tiktok": "https://vt.tiktok.com/ZSHurYoNt/?page=Mall"
     },
     "material": "Cotton Combed 20s",
-    "basePrice": 0,
     "featured": false,
     "description": "-",
     "variants": [
       {
         "name": "Black",
         "code": "black",
-        "price": null,
         "frontImage": "/tshirts/black/b-lion_x_front.webp",
         "backImage": "/tshirts/black/b-lion_x_back.webp",
         "inStock": true
@@ -1243,14 +1155,12 @@
       "tiktok": "https://vt.tiktok.com/ZSHurYoNt/?page=Mall"
     },
     "material": "Cotton Combed 20s",
-    "basePrice": 0,
     "featured": false,
     "description": "-",
     "variants": [
       {
         "name": "Black",
         "code": "black",
-        "price": null,
         "frontImage": "/tshirts/black/b-medusa_front.webp",
         "backImage": "/tshirts/black/b-medusa_back.webp",
         "inStock": true
@@ -1272,14 +1182,12 @@
       "tiktok": "https://vt.tiktok.com/ZSHurYoNt/?page=Mall"
     },
     "material": "Cotton Combed 20s",
-    "basePrice": 0,
     "featured": false,
     "description": "-",
     "variants": [
       {
         "name": "Black",
         "code": "black",
-        "price": null,
         "frontImage": "/tshirts/black/b-money_bag_front.webp",
         "backImage": "/tshirts/black/b-money_bag_back.webp",
         "inStock": true
@@ -1303,14 +1211,12 @@
       "tiktok": "https://vt.tiktok.com/ZSHurYoNt/?page=Mall"
     },
     "material": "Cotton Combed 20s",
-    "basePrice": 0,
     "featured": false,
     "description": "-",
     "variants": [
       {
         "name": "Black",
         "code": "black",
-        "price": null,
         "frontImage": "/tshirts/black/b-monster_front.webp",
         "backImage": "/tshirts/black/b-monster_back.webp",
         "inStock": true
@@ -1318,7 +1224,6 @@
       {
         "name": "White",
         "code": "white",
-        "price": null,
         "frontImage": "/tshirts/white/w-monster_front.webp",
         "backImage": "/tshirts/white/w-monster_back.webp",
         "inStock": true
@@ -1341,14 +1246,12 @@
       "tiktok": "https://vt.tiktok.com/ZSHurYoNt/?page=Mall"
     },
     "material": "Cotton Combed 20s",
-    "basePrice": 0,
     "featured": true,
     "description": "-",
     "variants": [
       {
         "name": "Black",
         "code": "black",
-        "price": null,
         "frontImage": "/tshirts/black/b-monster_cookies_front.webp",
         "backImage": "/tshirts/black/b-monster_cookies_back.webp",
         "inStock": true
@@ -1356,7 +1259,6 @@
       {
         "name": "White",
         "code": "white",
-        "price": null,
         "frontImage": "/tshirts/white/w-monster_cookies_front.webp",
         "backImage": "/tshirts/white/w-monster_cookies_back.webp",
         "inStock": true
@@ -1364,7 +1266,6 @@
       {
         "name": "Cream",
         "code": "cream",
-        "price": null,
         "frontImage": "/tshirts/cream/c-monster_cookies_front.webp",
         "backImage": "/tshirts/cream/c-monster_cookies_back.webp",
         "inStock": true
@@ -1372,7 +1273,6 @@
       {
         "name": "Maroon",
         "code": "maroon",
-        "price": null,
         "frontImage": "/tshirts/maroon/m-monster_cookies_front.webp",
         "backImage": "/tshirts/maroon/m-monster_cookies_back.webp",
         "inStock": true
@@ -1395,14 +1295,12 @@
       "tiktok": "https://vt.tiktok.com/ZSHurYoNt/?page=Mall"
     },
     "material": "Cotton Combed 20s",
-    "basePrice": 0,
     "featured": false,
     "description": "-",
     "variants": [
       {
         "name": "Black",
         "code": "black",
-        "price": null,
         "frontImage": "/tshirts/black/b-monster_donuts_front.webp",
         "backImage": "/tshirts/black/b-monster_donuts_back.webp",
         "inStock": true
@@ -1410,7 +1308,6 @@
       {
         "name": "White",
         "code": "white",
-        "price": null,
         "frontImage": "/tshirts/white/w-monster_donuts_front.webp",
         "backImage": "/tshirts/white/w-monster_donuts_back.webp",
         "inStock": true
@@ -1433,14 +1330,12 @@
       "tiktok": "https://vt.tiktok.com/ZSHurYoNt/?page=Mall"
     },
     "material": "Cotton Combed 20s",
-    "basePrice": 0,
     "featured": false,
     "description": "-",
     "variants": [
       {
         "name": "Black",
         "code": "black",
-        "price": null,
         "frontImage": "/tshirts/black/b-moon_doogienauts_front.webp",
         "backImage": "/tshirts/black/b-moon_doogienauts_back.webp",
         "inStock": true
@@ -1463,14 +1358,12 @@
       "tiktok": "https://vt.tiktok.com/ZSHurYoNt/?page=Mall"
     },
     "material": "Cotton Combed 20s",
-    "basePrice": 0,
     "featured": false,
     "description": "-",
     "variants": [
       {
         "name": "Black",
         "code": "black",
-        "price": null,
         "frontImage": "/tshirts/black/b-moon_scape_front.webp",
         "backImage": "/tshirts/black/b-moon_scape_back.webp",
         "inStock": true
@@ -1478,7 +1371,6 @@
       {
         "name": "White",
         "code": "white",
-        "price": null,
         "frontImage": "/tshirts/white/w-moon_scape_front.webp",
         "backImage": "/tshirts/white/w-moon_scape_back.webp",
         "inStock": true
@@ -1502,14 +1394,12 @@
       "tiktok": "https://vt.tiktok.com/ZSHurYoNt/?page=Mall"
     },
     "material": "Cotton Combed 20s",
-    "basePrice": 0,
     "featured": false,
     "description": "-",
     "variants": [
       {
         "name": "Black",
         "code": "black",
-        "price": null,
         "frontImage": "/tshirts/black/b-moucher_front.webp",
         "backImage": "/tshirts/black/b-moucher_back.webp",
         "inStock": true
@@ -1517,7 +1407,6 @@
       {
         "name": "White",
         "code": "white",
-        "price": null,
         "frontImage": "/tshirts/white/w-moucher_front.webp",
         "backImage": "/tshirts/white/w-moucher_front.webp",
         "inStock": true
@@ -1541,14 +1430,12 @@
       "tiktok": "https://vt.tiktok.com/ZSHurYoNt/?page=Mall"
     },
     "material": "Cotton Combed 20s",
-    "basePrice": 0,
     "featured": false,
     "description": "-",
     "variants": [
       {
         "name": "Black",
         "code": "black",
-        "price": null,
         "frontImage": "/tshirts/black/b-new_era_serpents_front.webp",
         "backImage": "/tshirts/black/b-new_era_serpents_back.webp",
         "inStock": true
@@ -1571,14 +1458,12 @@
       "tiktok": "https://vt.tiktok.com/ZSHurYoNt/?page=Mall"
     },
     "material": "Cotton Combed 20s",
-    "basePrice": 0,
     "featured": false,
     "description": "-",
     "variants": [
       {
         "name": "White",
         "code": "white",
-        "price": null,
         "frontImage": "/tshirts/white/w-o2_and_friends_front.webp",
         "backImage": "/tshirts/white/w-o2_and_friends_back.webp",
         "inStock": true
@@ -1601,14 +1486,12 @@
       "tiktok": "https://vt.tiktok.com/ZSHurYoNt/?page=Mall"
     },
     "material": "Cotton Combed 20s",
-    "basePrice": 0,
     "featured": false,
     "description": "-",
     "variants": [
       {
         "name": "Black",
         "code": "black",
-        "price": null,
         "frontImage": "/tshirts/black/b-oblivion_front.webp",
         "backImage": "/tshirts/black/b-oblivion_back.webp",
         "inStock": true
@@ -1631,14 +1514,12 @@
       "tiktok": "https://vt.tiktok.com/ZSHurYoNt/?page=Mall"
     },
     "material": "Cotton Combed 20s",
-    "basePrice": 0,
     "featured": false,
     "description": "-",
     "variants": [
       {
         "name": "Black",
         "code": "black",
-        "price": null,
         "frontImage": "/tshirts/black/b-outer_space_front.webp",
         "backImage": "/tshirts/black/b-outer_space_back.webp",
         "inStock": true
@@ -1646,7 +1527,6 @@
       {
         "name": "White",
         "code": "white",
-        "price": null,
         "frontImage": "/tshirts/white/w-outer_space_front.webp",
         "backImage": "/tshirts/white/w-outer_space_back.webp",
         "inStock": true
@@ -1670,14 +1550,12 @@
       "tiktok": "https://vt.tiktok.com/ZSHurYoNt/?page=Mall"
     },
     "material": "Cotton Combed 20s",
-    "basePrice": 0,
     "featured": false,
     "description": "-",
     "variants": [
       {
         "name": "Black",
         "code": "black",
-        "price": null,
         "frontImage": "/tshirts/black/b-outer_world_front.webp",
         "backImage": "/tshirts/black/b-outer_world_back.webp",
         "inStock": true
@@ -1699,14 +1577,12 @@
       "tiktok": "https://vt.tiktok.com/ZSHurYoNt/?page=Mall"
     },
     "material": "Cotton Combed 20s",
-    "basePrice": 0,
     "featured": false,
     "description": "-",
     "variants": [
       {
         "name": "White",
         "code": "white",
-        "price": null,
         "frontImage": "/tshirts/white/w-paradise_devine_front.webp",
         "backImage": "/tshirts/white/w-paradise_devine_back.webp",
         "inStock": true
@@ -1729,14 +1605,12 @@
       "tiktok": "https://vt.tiktok.com/ZSHurYoNt/?page=Mall"
     },
     "material": "Cotton Combed 20s",
-    "basePrice": 0,
     "featured": false,
     "description": "-",
     "variants": [
       {
         "name": "Black",
         "code": "black",
-        "price": null,
         "frontImage": "/tshirts/black/b-peace_dove_front.webp",
         "backImage": "/tshirts/black/b-peace_dove_back.webp",
         "inStock": true
@@ -1744,7 +1618,6 @@
       {
         "name": "White",
         "code": "white",
-        "price": null,
         "frontImage": "/tshirts/white/w-peace_dove_front.webp",
         "backImage": "/tshirts/white/w-peace_dove_back.webp",
         "inStock": true
@@ -1768,14 +1641,12 @@
       "tiktok": "https://vt.tiktok.com/ZSHurYoNt/?page=Mall"
     },
     "material": "Cotton Combed 20s",
-    "basePrice": 0,
     "featured": false,
     "description": "-",
     "variants": [
       {
         "name": "Black",
         "code": "black",
-        "price": null,
         "frontImage": "/tshirts/black/b-pop_snake_front.webp",
         "backImage": "/tshirts/black/b-pop_snake_back.webp",
         "inStock": true
@@ -1783,7 +1654,6 @@
       {
         "name": "White",
         "code": "white",
-        "price": null,
         "frontImage": "/tshirts/white/w-pop_snake_front.webp",
         "backImage": "/tshirts/white/w-pop_snake_back.webp",
         "inStock": true
@@ -1807,14 +1677,12 @@
       "tiktok": "https://vt.tiktok.com/ZSHurYoNt/?page=Mall"
     },
     "material": "Cotton Combed 20s",
-    "basePrice": 0,
     "featured": false,
     "description": "-",
     "variants": [
       {
         "name": "Black",
         "code": "black",
-        "price": null,
         "frontImage": "/tshirts/black/b-pug_me_front.webp",
         "backImage": "/tshirts/black/b-pug_me_back.webp",
         "inStock": true
@@ -1822,7 +1690,6 @@
       {
         "name": "White",
         "code": "white",
-        "price": null,
         "frontImage": "/tshirts/white/w-pug_me_front.webp",
         "backImage": "/tshirts/white/w-pug_me_front.webp",
         "inStock": true
@@ -1845,14 +1712,12 @@
       "tiktok": "https://vt.tiktok.com/ZSHurYoNt/?page=Mall"
     },
     "material": "Cotton Combed 20s",
-    "basePrice": 0,
     "featured": false,
     "description": "-",
     "variants": [
       {
         "name": "White",
         "code": "white",
-        "price": null,
         "frontImage": "/tshirts/white/w-puppies_club_front.webp",
         "backImage": "/tshirts/white/w-puppies_club_back.webp",
         "inStock": true
@@ -1876,14 +1741,12 @@
       "tiktok": "https://vt.tiktok.com/ZSHurYoNt/?page=Mall"
     },
     "material": "Cotton Combed 20s",
-    "basePrice": 0,
     "featured": false,
     "description": "-",
     "variants": [
       {
         "name": "Black",
         "code": "black",
-        "price": null,
         "frontImage": "/tshirts/black/b-pumpkins_front.webp",
         "backImage": "/tshirts/black/b-pumpkins_back.webp",
         "inStock": true
@@ -1906,14 +1769,12 @@
       "tiktok": "https://vt.tiktok.com/ZSHurYoNt/?page=Mall"
     },
     "material": "Cotton Combed 20s",
-    "basePrice": 0,
     "featured": false,
     "description": "-",
     "variants": [
       {
         "name": "Black",
         "code": "black",
-        "price": null,
         "frontImage": "/tshirts/black/b-rabbit_moon_front.webp",
         "backImage": "/tshirts/black/b-rabbit_moon_back.webp",
         "inStock": true
@@ -1935,14 +1796,12 @@
       "tiktok": "https://vt.tiktok.com/ZSHurYoNt/?page=Mall"
     },
     "material": "Cotton Combed 20s",
-    "basePrice": 0,
     "featured": false,
     "description": "-",
     "variants": [
       {
         "name": "Maroon",
         "code": "maroon",
-        "price": null,
         "frontImage": "/tshirts/maroon/m-red_royal_CNY_edition_front.webp",
         "backImage": "/tshirts/maroon/m-red_royal_CNY_edition_back.webp",
         "inStock": true
@@ -1965,14 +1824,12 @@
       "tiktok": "https://vt.tiktok.com/ZSHurYoNt/?page=Mall"
     },
     "material": "Cotton Combed 20s",
-    "basePrice": 0,
     "featured": false,
     "description": "-",
     "variants": [
       {
         "name": "Black",
         "code": "black",
-        "price": null,
         "frontImage": "/tshirts/black/b-smile_bluesky_front.webp",
         "backImage": "/tshirts/black/b-smile_bluesky_back.webp",
         "inStock": true
@@ -1995,14 +1852,12 @@
       "tiktok": "https://vt.tiktok.com/ZSHurYoNt/?page=Mall"
     },
     "material": "Cotton Combed 20s",
-    "basePrice": 0,
     "featured": false,
     "description": "-",
     "variants": [
       {
         "name": "Black",
         "code": "black",
-        "price": null,
         "frontImage": "/tshirts/black/b-smile_dream_front.webp",
         "backImage": "/tshirts/black/b-smile_dream_back.webp",
         "inStock": true
@@ -2025,14 +1880,12 @@
       "tiktok": "https://vt.tiktok.com/ZSHurYoNt/?page=Mall"
     },
     "material": "Cotton Combed 20s",
-    "basePrice": 0,
     "featured": false,
     "description": "-",
     "variants": [
       {
         "name": "Black",
         "code": "black",
-        "price": null,
         "frontImage": "/tshirts/black/b-smile_flower_front.webp",
         "backImage": "/tshirts/black/b-smile_flower_back.webp",
         "inStock": true
@@ -2055,14 +1908,12 @@
       "tiktok": "https://vt.tiktok.com/ZSHurYoNt/?page=Mall"
     },
     "material": "Cotton Combed 20s",
-    "basePrice": 0,
     "featured": false,
     "description": "-",
     "variants": [
       {
         "name": "Black",
         "code": "black",
-        "price": null,
         "frontImage": "/tshirts/black/b-smile_graffiti_front.webp",
         "backImage": "/tshirts/black/b-smile_graffiti_back.webp",
         "inStock": true
@@ -2085,14 +1936,12 @@
       "tiktok": "https://vt.tiktok.com/ZSHurYoNt/?page=Mall"
     },
     "material": "Cotton Combed 20s",
-    "basePrice": 0,
     "featured": false,
     "description": "-",
     "variants": [
       {
         "name": "Black",
         "code": "black",
-        "price": null,
         "frontImage": "/tshirts/black/b-smile_planet_front.webp",
         "backImage": "/tshirts/black/b-smile_planet_back.webp",
         "inStock": true
@@ -2113,14 +1962,12 @@
       "tiktok": "https://vt.tiktok.com/ZSHurYoNt/?page=Mall"
     },
     "material": "Cotton Combed 20s",
-    "basePrice": 0,
     "featured": false,
     "description": "-",
     "variants": [
       {
         "name": "Black",
         "code": "black",
-        "price": null,
         "frontImage": "/tshirts/black/b-snake_front.webp",
         "backImage": "/tshirts/black/b-snake_back.webp",
         "inStock": true
@@ -2144,14 +1991,12 @@
       "tiktok": "https://vt.tiktok.com/ZSHurYoNt/?page=Mall"
     },
     "material": "Cotton Combed 20s",
-    "basePrice": 0,
     "featured": false,
     "description": "-",
     "variants": [
       {
         "name": "Black",
         "code": "black",
-        "price": null,
         "frontImage": "/tshirts/black/b-snake_hand_front.webp",
         "backImage": "/tshirts/black/b-snake_hand_back.webp",
         "inStock": true
@@ -2159,7 +2004,6 @@
       {
         "name": "White",
         "code": "white",
-        "price": null,
         "frontImage": "/tshirts/white/w-snake_hand_front.webp",
         "backImage": "/tshirts/white/w-snake_hand_back.webp",
         "inStock": true
@@ -2183,14 +2027,12 @@
       "tiktok": "https://vt.tiktok.com/ZSHurYoNt/?page=Mall"
     },
     "material": "Cotton Combed 20s",
-    "basePrice": 0,
     "featured": false,
     "description": "-",
     "variants": [
       {
         "name": "Black",
         "code": "black",
-        "price": null,
         "frontImage": "/tshirts/black/b-spacedog_front.webp",
         "backImage": "/tshirts/black/b-spacedog_back.webp",
         "inStock": true
@@ -2213,14 +2055,12 @@
       "tiktok": "https://vt.tiktok.com/ZSHurYoNt/?page=Mall"
     },
     "material": "Cotton Combed 20s",
-    "basePrice": 0,
     "featured": false,
     "description": "-",
     "variants": [
       {
         "name": "Black",
         "code": "black",
-        "price": null,
         "frontImage": "/tshirts/black/b-spaceman_front.webp",
         "backImage": "/tshirts/black/b-spaceman_back.webp",
         "inStock": true
@@ -2243,14 +2083,12 @@
       "tiktok": "https://vt.tiktok.com/ZSHurYoNt/?page=Mall"
     },
     "material": "Cotton Combed 20s",
-    "basePrice": 0,
     "featured": false,
     "description": "-",
     "variants": [
       {
         "name": "Black",
         "code": "black",
-        "price": null,
         "frontImage": "/tshirts/black/b-space_bear_front.webp",
         "backImage": "/tshirts/black/b-space_bear_back.webp",
         "inStock": true
@@ -2273,14 +2111,12 @@
       "tiktok": "https://vt.tiktok.com/ZSHurYoNt/?page=Mall"
     },
     "material": "Cotton Combed 20s",
-    "basePrice": 0,
     "featured": false,
     "description": "-",
     "variants": [
       {
         "name": "Black",
         "code": "black",
-        "price": null,
         "frontImage": "/tshirts/black/b-spectrum_001_special_edition_front.webp",
         "backImage": "/tshirts/black/b-spectrum_001_special_edition_back.webp",
         "inStock": true
@@ -2288,7 +2124,6 @@
       {
         "name": "White",
         "code": "white",
-        "price": null,
         "frontImage": "/tshirts/white/w-spectrum_001_front.webp",
         "backImage": "/tshirts/white/w-spectrum_001_back.webp",
         "inStock": true
@@ -2296,7 +2131,6 @@
       {
         "name": "Maroon",
         "code": "maroon",
-        "price": null,
         "frontImage": "/tshirts/maroon/m-spectrum_001_front.webp",
         "backImage": "/tshirts/maroon/m-spectrum_001_back.webp",
         "inStock": true
@@ -2304,7 +2138,6 @@
       {
         "name": "Mustard",
         "code": "mustard",
-        "price": null,
         "frontImage": "/tshirts/yellow/y-spectrum_001_front.webp",
         "backImage": "/tshirts/yellow/y-spectrum_001_back.webp",
         "inStock": true
@@ -2328,14 +2161,12 @@
       "tiktok": "https://vt.tiktok.com/ZSHurYoNt/?page=Mall"
     },
     "material": "Cotton Combed 20s",
-    "basePrice": 0,
     "featured": false,
     "description": "-",
     "variants": [
       {
         "name": "Black",
         "code": "black",
-        "price": null,
         "frontImage": "/tshirts/black/b-spectrum_002_special_edition_front.webp",
         "backImage": "/tshirts/black/b-spectrum_002_special_edition_back.webp",
         "inStock": true
@@ -2343,7 +2174,6 @@
       {
         "name": "White",
         "code": "white",
-        "price": null,
         "frontImage": "/tshirts/white/w-spectrum_002_front.webp",
         "backImage": "/tshirts/white/w-spectrum_002_back.webp",
         "inStock": true
@@ -2351,7 +2181,6 @@
       {
         "name": "Maroon",
         "code": "maroon",
-        "price": null,
         "frontImage": "/tshirts/maroon/m-spectrum_002_front.webp",
         "backImage": "/tshirts/maroon/m-spectrum_002_back.webp",
         "inStock": true
@@ -2359,7 +2188,6 @@
       {
         "name": "Yellow",
         "code": "yellow",
-        "price": null,
         "frontImage": "/tshirts/yellow/y-spectrum_002_front.webp",
         "backImage": "/tshirts/yellow/y-spectrum_002_back.webp",
         "inStock": true
@@ -2383,14 +2211,12 @@
       "tiktok": "https://vt.tiktok.com/ZSHurYoNt/?page=Mall"
     },
     "material": "Cotton Combed 20s",
-    "basePrice": 0,
     "featured": false,
     "description": "-",
     "variants": [
       {
         "name": "Black",
         "code": "black",
-        "price": null,
         "frontImage": "/tshirts/black/b-spectrum_003_special_edition_front.webp",
         "backImage": "/tshirts/black/b-spectrum_003_special_edition_back.webp",
         "inStock": true
@@ -2398,7 +2224,6 @@
       {
         "name": "White",
         "code": "white",
-        "price": null,
         "frontImage": "/tshirts/white/w-spectrum_003_front.webp",
         "backImage": "/tshirts/white/w-spectrum_003_back.webp",
         "inStock": true
@@ -2406,7 +2231,6 @@
       {
         "name": "Maroon",
         "code": "maroon",
-        "price": null,
         "frontImage": "/tshirts/maroon/m-spectrum_003_back.webp",
         "backImage": "/tshirts/maroon/m-spectrum_003_back.webp",
         "inStock": true
@@ -2414,7 +2238,6 @@
       {
         "name": "Yellow",
         "code": "yellow",
-        "price": null,
         "frontImage": "/tshirts/yellow/y-spectrum_003_front.webp",
         "backImage": "/tshirts/yellow/y-spectrum_003_back.webp",
         "inStock": true
@@ -2438,14 +2261,12 @@
       "tiktok": "https://vt.tiktok.com/ZSHurYoNt/?page=Mall"
     },
     "material": "Cotton Combed 20s",
-    "basePrice": 0,
     "featured": true,
     "description": "-",
     "variants": [
       {
         "name": "Black",
         "code": "black",
-        "price": null,
         "frontImage": "/tshirts/black/b-st_michael_front.webp",
         "backImage": "/tshirts/black/b-st_michael_back.webp",
         "inStock": true
@@ -2468,14 +2289,12 @@
       "tiktok": "https://vt.tiktok.com/ZSHurYoNt/?page=Mall"
     },
     "material": "Cotton Combed 20s",
-    "basePrice": 0,
     "featured": false,
     "description": "-",
     "variants": [
       {
         "name": "Black",
         "code": "black",
-        "price": null,
         "frontImage": "/tshirts/black/b-take_me_home_front.webp",
         "backImage": "/tshirts/black/b-take_me_home_back.webp",
         "inStock": true
@@ -2498,14 +2317,12 @@
       "tiktok": "https://vt.tiktok.com/ZSHurYoNt/?page=Mall"
     },
     "material": "Cotton Combed 20s",
-    "basePrice": 0,
     "featured": false,
     "description": "-",
     "variants": [
       {
         "name": "Black",
         "code": "black",
-        "price": null,
         "frontImage": "/tshirts/black/b-tired_rabbit_front.webp",
         "backImage": "/tshirts/black/b-tired_rabbit_back.webp",
         "inStock": true
@@ -2528,14 +2345,12 @@
       "tiktok": "https://vt.tiktok.com/ZSHurYoNt/?page=Mall"
     },
     "material": "Cotton Combed 20s",
-    "basePrice": 0,
     "featured": false,
     "description": "-",
     "variants": [
       {
         "name": "Black",
         "code": "black",
-        "price": null,
         "frontImage": "/tshirts/black/b-unstopoodle_front.webp",
         "backImage": "/tshirts/black/b-unstopoodle_back.webp",
         "inStock": true
@@ -2543,7 +2358,6 @@
       {
         "name": "White",
         "code": "white",
-        "price": null,
         "frontImage": "/tshirts/white/w-unstopoodle_front.webp",
         "backImage": "/tshirts/white/w-unstopoodle_front.webp",
         "inStock": true
@@ -2566,14 +2380,12 @@
       "tiktok": "https://vt.tiktok.com/ZSHurYoNt/?page=Mall"
     },
     "material": "Cotton Combed 20s",
-    "basePrice": 0,
     "featured": true,
     "description": "-",
     "variants": [
       {
         "name": "Black",
         "code": "black",
-        "price": null,
         "frontImage": "/tshirts/black/b-undefeated_front.webp",
         "backImage": "/tshirts/black/b-undefeated_back.webp",
         "inStock": true
@@ -2596,14 +2408,12 @@
       "tiktok": "https://vt.tiktok.com/ZSHurYoNt/?page=Mall"
     },
     "material": "Cotton Combed 20s",
-    "basePrice": 0,
     "featured": true,
     "description": "-",
     "variants": [
       {
         "name": "Black",
         "code": "black",
-        "price": null,
         "frontImage": "/tshirts/black/b-unknown_front.webp",
         "backImage": "/tshirts/black/b-unknown_back.webp",
         "inStock": true
@@ -2611,7 +2421,6 @@
       {
         "name": "White",
         "code": "white",
-        "price": null,
         "frontImage": "/tshirts/white/w-unknown_front.webp",
         "backImage": "/tshirts/white/w-unknown_back.webp",
         "inStock": true
@@ -2635,14 +2444,12 @@
       "tiktok": "https://vt.tiktok.com/ZSHurYoNt/?page=Mall"
     },
     "material": "Cotton Combed 20s",
-    "basePrice": 0,
     "featured": false,
     "description": "-",
     "variants": [
       {
         "name": "Cream",
         "code": "cream",
-        "price": null,
         "frontImage": "/tshirts/cream/c-venice_front.webp",
         "backImage": "/tshirts/cream/c-venice_back.webp",
         "inStock": true
@@ -2650,7 +2457,6 @@
       {
         "name": "White",
         "code": "white",
-        "price": null,
         "frontImage": "/tshirts/white/w-venice_front.webp",
         "backImage": "/tshirts/white/w-venice_back.webp",
         "inStock": true
@@ -2674,14 +2480,12 @@
       "tiktok": "https://vt.tiktok.com/ZSHurYoNt/?page=Mall"
     },
     "material": "Cotton Combed 20s",
-    "basePrice": 0,
     "featured": false,
     "description": "-",
     "variants": [
       {
         "name": "Black",
         "code": "black",
-        "price": null,
         "frontImage": "/tshirts/black/b-venomous_front.webp",
         "backImage": "/tshirts/black/b-venomous_back.webp",
         "inStock": true
@@ -2704,14 +2508,12 @@
       "tiktok": "https://vt.tiktok.com/ZSHurYoNt/?page=Mall"
     },
     "material": "Cotton Combed 20s",
-    "basePrice": 0,
     "featured": false,
     "description": "-",
     "variants": [
       {
         "name": "Black",
         "code": "black",
-        "price": null,
         "frontImage": "/tshirts/black/b-wicked_ghost_front.webp",
         "backImage": "/tshirts/black/b-wicked_ghost_back.webp",
         "inStock": true
@@ -2735,14 +2537,12 @@
       "tiktok": "https://vt.tiktok.com/ZSHurYoNt/?page=Mall"
     },
     "material": "Cotton Combed 20s",
-    "basePrice": 0,
     "featured": false,
     "description": "-",
     "variants": [
       {
         "name": "Black",
         "code": "black",
-        "price": null,
         "frontImage": "/tshirts/black/b-zombie_bear_front.webp",
         "backImage": "/tshirts/black/b-zombie_bear_back.webp",
         "inStock": true
@@ -2764,14 +2564,12 @@
       "tiktok": "https://vt.tiktok.com/ZSHurYoNt/?page=Mall"
     },
     "material": "Baby Terry",
-    "basePrice": 0,
     "featured": true,
     "description": "-",
     "variants": [
       {
         "name": "Grey",
         "code": "grey",
-        "price": null,
         "frontImage": "/tshirts/cream/grey_flow_shorts.webp",
         "backImage": "/tshirts/cream/grey_flow_shorts2.webp",
         "inStock": true
@@ -2779,7 +2577,6 @@
       {
         "name": "Black",
         "code": "black",
-        "price": null,
         "frontImage": "/tshirts/black/black_flow_shorts.webp",
         "backImage": "/tshirts/black/black_flow_shorts2.webp",
         "inStock": true
@@ -2787,7 +2584,6 @@
       {
         "name": "Cream",
         "code": "cream",
-        "price": null,
         "frontImage": "/tshirts/cream/cream_flow_shorts.webp",
         "backImage": "/tshirts/cream/cream_flow_shorts2.webp",
         "inStock": true
@@ -2809,14 +2605,12 @@
       "tiktok": "https://vt.tiktok.com/ZSHurYoNt/?page=Mall"
     },
     "material": "Premium Twill",
-    "basePrice": 0,
     "featured": false,
     "description": "-",
     "variants": [
       {
         "name": "Brown",
         "code": "Brown",
-        "price": null,
         "frontImage": "/tshirts/cream/brown_block_shorts.webp",
         "backImage": "/tshirts/cream/brown_block_shorts2.webp",
         "inStock": true
@@ -2824,7 +2618,6 @@
       {
         "name": "Black",
         "code": "black",
-        "price": null,
         "frontImage": "/tshirts/black/black_block_shorts.webp",
         "backImage": "",
         "inStock": true
@@ -2832,7 +2625,6 @@
       {
         "name": "Dark Olive",
         "code": "DarkOlive",
-        "price": null,
         "frontImage": "/tshirts/green/green_block_shorts.webp",
         "backImage": "/tshirts/green/green_block_shorts2.webp",
         "inStock": true
@@ -2854,14 +2646,12 @@
       "tiktok": "https://vt.tiktok.com/ZSHurYoNt/?page=Mall"
     },
     "material": "Cotton Combed",
-    "basePrice": 0,
     "featured": false,
     "description": "-",
     "variants": [
       {
         "name": "Beigie",
         "code": "beigie",
-        "price": null,
         "frontImage": "/tshirts/cream/cream_singlet.webp",
         "backImage": "/tshirts/black/black_singlet2.webp",
         "inStock": true
@@ -2869,7 +2659,6 @@
       {
         "name": "Black",
         "code": "black",
-        "price": null,
         "frontImage": "/tshirts/black/black_singlet.webp",
         "backImage": "/tshirts/black/black_singlet_back.webp",
         "inStock": true
@@ -2891,14 +2680,12 @@
       "tiktok": "https://vt.tiktok.com/ZSHurYoNt/?page=Mall"
     },
     "material": "Baby Terry",
-    "basePrice": 0,
     "featured": false,
     "description": "-",
     "variants": [
       {
         "name": "Maroon",
         "code": "maroon",
-        "price": null,
         "frontImage": "/tshirts/maroon/red_godbless_front.webp",
         "backImage": "/tshirts/maroon/red_godbless_back.webp",
         "inStock": true
@@ -2920,14 +2707,12 @@
       "tiktok": "https://vt.tiktok.com/ZSHurYoNt/?page=Mall"
     },
     "material": "Chief Value Cotton",
-    "basePrice": 0,
     "featured": false,
     "description": "-",
     "variants": [
       {
         "name": "Black",
         "code": "black",
-        "price": null,
         "frontImage": "/tshirts/black/black_sweater_front.webp",
         "backImage": "/tshirts/black/black_sweater2.webp",
         "inStock": true
@@ -2935,7 +2720,6 @@
       {
         "name": "Sage",
         "code": "sage",
-        "price": null,
         "frontImage": "/tshirts/black/sage_sweater_front.webp",
         "backImage": "/tshirts/black/sage_sweater2.webp",
         "inStock": true
@@ -2943,7 +2727,6 @@
       {
         "name": "Blue",
         "code": "blue",
-        "price": null,
         "frontImage": "/tshirts/black/blue_sweater_front.webp",
         "backImage": "/tshirts/black/blue_sweater2.webp",
         "inStock": true
@@ -2966,14 +2749,12 @@
       "tiktok": "https://vt.tiktok.com/ZSHurYoNt/?page=Mall"
     },
     "material": "Chief Value Cotton",
-    "basePrice": 0,
     "featured": false,
     "description": "-",
     "variants": [
       {
         "name": "White",
         "code": "white",
-        "price": null,
         "frontImage": "/tshirts/white/white-blitz_sweater_front.webp",
         "backImage": "/tshirts/white/white-blitz_sweater2.webp",
         "inStock": true
@@ -2997,14 +2778,12 @@
       "tiktok": "https://vt.tiktok.com/ZSHurYoNt/?page=Mall"
     },
     "material": "Cotton Combed 20s",
-    "basePrice": 0,
     "featured": false,
     "description": "-",
     "variants": [
       {
         "name": "White",
         "code": "white",
-        "price": null,
         "frontImage": "/tshirts/white/w-kingdom_front.webp",
         "backImage": "/tshirts/white/w-kingdom_back.webp",
         "inStock": true
@@ -3012,7 +2791,6 @@
       {
         "name": "Cream",
         "code": "cream",
-        "price": null,
         "frontImage": "/tshirts/cream/c-kingdom_back.webp",
         "backImage": "",
         "inStock": true
@@ -3020,7 +2798,6 @@
       {
         "name": "Maroon",
         "code": "maroon",
-        "price": null,
         "frontImage": "/tshirts/maroon/m-kingdom_back.webp",
         "backImage": "",
         "inStock": true
@@ -3043,14 +2820,12 @@
       "tiktok": "https://vt.tiktok.com/ZSHurYoNt/?page=Mall"
     },
     "material": "Cotton Combed 20s",
-    "basePrice": 0,
     "featured": false,
     "description": "-",
     "variants": [
       {
         "name": "Cream",
         "code": "soft_ivory",
-        "price": null,
         "frontImage": "/tshirts/cream/cream-coolbreeze_front.webp",
         "backImage": "/tshirts/cream/cream-coolbreeze2.webp",
         "inStock": true
@@ -3058,7 +2833,6 @@
       {
         "name": "Grey",
         "code": "concrete_grey",
-        "price": null,
         "frontImage": "/tshirts/cream/grey_coolbreeze_front.webp",
         "backImage": "",
         "inStock": true
@@ -3066,7 +2840,6 @@
       {
         "name": "Black",
         "code": "carbon_black",
-        "price": null,
         "frontImage": "/tshirts/black/black_coolbreeze_front.webp",
         "backImage": "/tshirts/black/black_coolbreeze2.webp",
         "inStock": true
@@ -3090,14 +2863,12 @@
       "tiktok": "https://vt.tiktok.com/ZSHurYoNt/?page=Mall"
     },
     "material": "Cotton Combed 20s",
-    "basePrice": 0,
     "featured": false,
     "description": "-",
     "variants": [
       {
         "name": "Black",
         "code": "black",
-        "price": null,
         "frontImage": "/tshirts/black/b-dragon2_front.webp",
         "backImage": "/tshirts/black/b-dragon2_back.webp",
         "inStock": true
@@ -3120,14 +2891,12 @@
       "tiktok": "https://vt.tiktok.com/ZSHurYoNt/?page=Mall"
     },
     "material": "Cotton Combed 20s",
-    "basePrice": 0,
     "featured": false,
     "description": "-",
     "variants": [
       {
         "name": "White",
         "code": "white",
-        "price": null,
         "frontImage": "/tshirts/white/w-kitsune_front.webp",
         "backImage": "/tshirts/white/w-kitsune_back.webp",
         "inStock": true
@@ -3152,19 +2921,208 @@
       "tiktok": "https://vt.tiktok.com/ZSHurYoNt/?page=Mall"
     },
     "material": "Cotton Combed 20s",
-    "basePrice": 0,
     "featured": false,
     "description": "-",
     "variants": [
       {
         "name": "White",
         "code": "white",
-        "price": null,
         "frontImage": "/tshirts/white/w-oyu_front.webp",
         "backImage": "/tshirts/white/w-oyu_back.webp",
         "inStock": true
       }
     ],
     "swapImage": true
+  },
+  {
+    "id": "91",
+    "slug": "lunox-oversized-tee",
+    "category": "Top",
+    "type": "T-Shirt",
+    "name": "Oversized T-Shirt – LUNOX",
+    "designTheme": [
+      "Character"
+    ],
+    "links": {
+      "shopee": "https://shopee.co.id/o2essentialsofficialstore",
+      "tokopedia": "https://www.tokopedia.com/o2essentialsid",
+      "tiktok": "https://vt.tiktok.com/ZSHurYoNt/?page=Mall"
+    },
+    "material": "Cotton Combed 20s",
+    "featured": false,
+    "description": "-",
+    "variants": [
+      {
+        "name": "Black",
+        "code": "black",
+        "frontImage": "/tshirts/black/b-lunox_front.webp",
+        "backImage": "/tshirts/black/b-lunox_back.webp",
+        "inStock": true
+      }
+    ],
+    "swapImage": false
+  },
+  {
+    "id": "92",
+    "slug": "long-bite-oversized-tee",
+    "category": "Top",
+    "type": "T-Shirt",
+    "name": "Oversized T-Shirt – Long Bite",
+    "designTheme": [
+      "Character"
+    ],
+    "links": {
+      "shopee": "https://shopee.co.id/o2essentialsofficialstore",
+      "tokopedia": "https://www.tokopedia.com/o2essentialsid",
+      "tiktok": "https://vt.tiktok.com/ZSHurYoNt/?page=Mall"
+    },
+    "material": "Cotton Combed 20s",
+    "featured": false,
+    "description": "-",
+    "variants": [
+      {
+        "name": "Black",
+        "code": "black",
+        "frontImage": "/tshirts/black/b-long_bite_front.webp",
+        "backImage": "/tshirts/black/b-long_bite_back.webp",
+        "inStock": true
+      }
+    ],
+    "swapImage": true
+  },
+  {
+    "id": "93",
+    "slug": "dii-consentes-rome-oversized-tee",
+    "category": "Top",
+    "type": "T-Shirt",
+    "name": "Oversized T-Shirt – DII Consentes : ROME",
+    "designTheme": [
+      "City"
+    ],
+    "links": {
+      "shopee": "https://shopee.co.id/o2essentialsofficialstore",
+      "tokopedia": "https://www.tokopedia.com/o2essentialsid",
+      "tiktok": "https://vt.tiktok.com/ZSHurYoNt/?page=Mall"
+    },
+    "material": "Cotton Combed 20s",
+    "featured": false,
+    "description": "-",
+    "variants": [
+      {
+        "name": "Cream",
+        "code": "cream",
+        "frontImage": "/tshirts/cream/c-dii_consentes_rome_front.webp",
+        "backImage": "/tshirts/cream/c-dii_consentes_rome_back.webp",
+        "inStock": true
+      }
+    ],
+    "swapImage": true
+  },
+  {
+    "id": "94",
+    "slug": "hustle-oversized-tee",
+    "category": "Top",
+    "type": "T-Shirt",
+    "name": "Oversized T-Shirt – Hustle",
+    "designTheme": [
+      "Character"
+    ],
+    "links": {
+      "shopee": "https://shopee.co.id/o2essentialsofficialstore",
+      "tokopedia": "https://www.tokopedia.com/o2essentialsid",
+      "tiktok": "https://vt.tiktok.com/ZSHurYoNt/?page=Mall"
+    },
+    "material": "Cotton Combed 20s",
+    "featured": false,
+    "description": "-",
+    "variants": [
+      {
+        "name": "Black",
+        "code": "black",
+        "frontImage": "",
+        "backImage": "/tshirts/black/b-hustle_back.webp",
+        "inStock": true
+      },
+      {
+        "name": "White",
+        "code": "white",
+        "frontImage": "/tshirts/white/w-hustle_front.webp",
+        "backImage": "/tshirts/white/w-hustle_back.webp",
+        "inStock": true
+      }
+    ],
+    "swapImage": true
+  },
+  {
+    "id": "95",
+    "slug": "broken-rabbit-oversized-tee",
+    "category": "Top",
+    "type": "T-Shirt",
+    "name": "Oversized T-Shirt – Broken Rabbit",
+    "designTheme": [
+      "Character",
+      "Animal"
+    ],
+    "links": {
+      "shopee": "https://shopee.co.id/o2essentialsofficialstore",
+      "tokopedia": "https://www.tokopedia.com/o2essentialsid",
+      "tiktok": "https://vt.tiktok.com/ZSHurYoNt/?page=Mall"
+    },
+    "material": "Cotton Combed 20s",
+    "featured": false,
+    "description": "-",
+    "variants": [
+      {
+        "name": "Black",
+        "code": "black",
+        "frontImage": "/tshirts/black/b-broken_rabbit_front.webp",
+        "backImage": "/tshirts/black/b-broken_rabbit_back.webp",
+        "inStock": true
+      }
+    ],
+    "swapImage": false
+  },
+  {
+    "id": "96",
+    "slug": "blitz-oversized-tee",
+    "category": "Top",
+    "type": "T-Shirt",
+    "name": "Oversized T-Shirt – DII Consentes : ROME",
+    "designTheme": [
+      "Character",
+      "Animal"
+    ],
+    "links": {
+      "shopee": "https://shopee.co.id/o2essentialsofficialstore",
+      "tokopedia": "https://www.tokopedia.com/o2essentialsid",
+      "tiktok": "https://vt.tiktok.com/ZSHurYoNt/?page=Mall"
+    },
+    "material": "Cotton Combed 20s",
+    "featured": false,
+    "description": "-",
+    "variants": [
+      {
+        "name": "Black",
+        "code": "black",
+        "frontImage": "/tshirts/black/b-blitz_front.webp",
+        "backImage": "",
+        "inStock": true
+      },
+      {
+        "name": "White",
+        "code": "white",
+        "frontImage": "/tshirts/white/w-blitz_front.webp",
+        "backImage": "",
+        "inStock": true
+      },
+      {
+        "name": "Cream",
+        "code": "cream",
+        "frontImage": "/tshirts/cream/c-blitz_front.webp",
+        "backImage": "",
+        "inStock": true
+      }
+    ],
+    "swapImage": false
   }
 ]

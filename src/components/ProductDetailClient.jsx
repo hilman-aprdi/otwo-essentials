@@ -3,6 +3,7 @@
 import { useEffect, useRef, useState } from 'react'
 import Image from 'next/image'
 import Link from 'next/link'
+import FavoriteButton from './FavoriteButton.jsx'
 import { ROUTES } from '../lib/routes.js'
 import { ASSETS, SITE_NAME } from '../lib/site.js'
 
@@ -74,6 +75,18 @@ const getSizeTable = (product) => {
   return defaultSizeTable
 }
 
+const getSizeReferenceImage = (product) => {
+  const normalizedType = product.type?.toLowerCase()
+
+  if (normalizedType === 't-shirt') return ASSETS.sizeReferences.tShirt
+  if (normalizedType === 'flow shirt') return ASSETS.sizeReferences.flowShirt
+  if (normalizedType === 'singlet') return ASSETS.sizeReferences.singlet
+  if (normalizedType === 'crewneck') return ASSETS.sizeReferences.crewneck
+  if (normalizedType === 'short pants') return ASSETS.sizeReferences.shortPants
+
+  return ASSETS.sizeReferences.general
+}
+
 const marketplaceIcons = {
   shopee: (
     <svg className="relative z-10 h-5 w-5 shrink-0 text-white" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="1.8" strokeLinecap="round" strokeLinejoin="round" aria-hidden="true">
@@ -114,6 +127,7 @@ const ProductDetailClient = ({ product, category, images, productPath }) => {
 
   const variants = productUtils.getVariants(product)
   const sizeTable = getSizeTable(product)
+  const sizeReferenceImage = getSizeReferenceImage(product)
   const detailsList = [
     { label: 'Material', value: product.material || '-' },
     { label: 'Description', value: product.description || '-' },
@@ -159,7 +173,7 @@ const ProductDetailClient = ({ product, category, images, productPath }) => {
                     sizes="(min-width: 768px) 50vw, 100vw"
                     className="absolute inset-0 h-full w-full cursor-zoom-in object-contain"
                     onClick={() => setShowLightbox(true)}
-                    priority
+                    loading="lazy"
                   />
                 )}
                 {images.length > 1 && (
@@ -200,7 +214,10 @@ const ProductDetailClient = ({ product, category, images, productPath }) => {
             </div>
 
             <div className="flex w-full flex-shrink-0 flex-col justify-center md:w-[340px]">
-              <h1 className="mb-2 text-2xl font-bold">{`${SITE_NAME} ${product.name}`}</h1>
+              <div className="mb-2 flex items-start justify-between gap-3">
+                <h1 className="text-2xl font-bold">{`${SITE_NAME} ${product.name}`}</h1>
+                <FavoriteButton productSlug={product.slug} className="shrink-0" />
+              </div>
               <p className="mb-2 text-gray-600">{product.description}</p>
               <div className="mt-4">
                 <div className="mb-4 flex border-b">
@@ -251,7 +268,7 @@ const ProductDetailClient = ({ product, category, images, productPath }) => {
                 )}
                 {tab === 'SIZE GUIDE' && (
                   <div className="flex flex-col items-center">
-                    <Image src={ASSETS.sizeReference} alt="Size Reference" width="800" height="1000" className="w-full max-w-xs rounded shadow md:max-w-sm" loading="lazy" sizes="(min-width: 768px) 384px, 320px" />
+                    <Image src={sizeReferenceImage} alt={`${product.type || 'Product'} size reference`} width="800" height="1000" className="w-full max-w-xs rounded shadow md:max-w-sm" loading="lazy" sizes="(min-width: 768px) 384px, 320px" />
                   </div>
                 )}
               </div>

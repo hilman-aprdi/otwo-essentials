@@ -8,6 +8,7 @@ const withTrailingSlash = (path) => (path === '/' ? '/' : `${path.replace(/\/+$/
 export const ROUTES = {
   home: '/',
   collections: COLLECTIONS_BASE,
+  favorites: `${COLLECTIONS_BASE}/favorites`,
   collectionCategory: (category) => `${COLLECTIONS_BASE}/${normalizeCategory(category)}`,
   collectionProduct: (category, slug) => `${COLLECTIONS_BASE}/${normalizeCategory(category)}/${slug}`,
   search: '/search',

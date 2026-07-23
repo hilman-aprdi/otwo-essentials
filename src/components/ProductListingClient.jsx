@@ -90,9 +90,9 @@ const ProductListingClient = ({
           </Link>
         )}
 
-        <h2 className="mb-4 mt-16 text-center text-3xl font-bold text-gray-900">
+        <h1 className="mb-4 mt-16 text-center text-3xl font-bold text-gray-900">
           {title}
-        </h2>
+        </h1>
         {subtitle && <p className="mb-8 text-center text-gray-600">{subtitle}</p>}
 
         <form className="mb-8 flex justify-center" onSubmit={(e) => e.preventDefault()}>
@@ -173,13 +173,11 @@ const ProductListingClient = ({
             <div className="flex flex-wrap justify-center gap-2">
               <button
                 type="button"
-                onClick={() =>
-                  setCurrentPage((page) => {
-                    const nextPage = Math.max(1, page - 1)
-                    updateUrl(search, nextPage)
-                    return nextPage
-                  })
-                }
+                onClick={() => {
+                  const nextPage = Math.max(1, safeCurrentPage - 1)
+                  setCurrentPage(nextPage)
+                  updateUrl(search, nextPage)
+                }}
                 className={`rounded px-3 py-1 ${
                   safeCurrentPage > 1 ? 'bg-black text-white hover:bg-gray-800' : 'cursor-not-allowed bg-gray-200 text-gray-400'
                 }`}
@@ -189,13 +187,11 @@ const ProductListingClient = ({
               </button>
               <button
                 type="button"
-                onClick={() =>
-                  setCurrentPage((page) => {
-                    const nextPage = Math.min(totalPages, page + 1)
-                    updateUrl(search, nextPage)
-                    return nextPage
-                  })
-                }
+                onClick={() => {
+                  const nextPage = Math.min(totalPages, safeCurrentPage + 1)
+                  setCurrentPage(nextPage)
+                  updateUrl(search, nextPage)
+                }}
                 className={`rounded px-3 py-1 ${
                   safeCurrentPage < totalPages ? 'bg-black text-white hover:bg-gray-800' : 'cursor-not-allowed bg-gray-200 text-gray-400'
                 }`}

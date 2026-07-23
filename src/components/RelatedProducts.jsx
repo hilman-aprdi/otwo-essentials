@@ -1,10 +1,29 @@
+'use client'
+
+import { useEffect, useState } from 'react'
 import ProductCard from './ProductCard.jsx'
-import { getProductsByCategory } from '../lib/data.js'
 
-const RelatedProducts = ({ category, excludeId }) => {
-  const relatedProducts = getProductsByCategory(category).filter((product) => product.id !== excludeId).slice(0, 4)
+const MAX_RELATED_PRODUCTS = 8
 
-  if (relatedProducts.length === 0) return null
+const shuffleProducts = (products) => {
+  const shuffledProducts = [...products]
+
+  for (let index = shuffledProducts.length - 1; index > 0; index -= 1) {
+    const randomIndex = Math.floor(Math.random() * (index + 1))
+    ;[shuffledProducts[index], shuffledProducts[randomIndex]] = [shuffledProducts[randomIndex], shuffledProducts[index]]
+  }
+
+  return shuffledProducts
+}
+
+const RelatedProducts = ({ products }) => {
+  const [relatedProducts, setRelatedProducts] = useState([])
+
+  useEffect(() => {
+    setRelatedProducts(shuffleProducts(products).slice(0, MAX_RELATED_PRODUCTS))
+  }, [products])
+
+  if (products.length === 0) return null
 
   return (
     <section className="bg-gray-50 py-12">

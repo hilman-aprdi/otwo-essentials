@@ -1,5 +1,6 @@
 import { BRAND_OG_IMAGE, SITE_NAME, SITE_URL } from './site.js'
 import { getPublicAssetUrl } from './public-assets.js'
+import { getProductSeoDescription } from './product-seo.js'
 
 const cleanText = (value, fallback = '') => {
   if (!value || value === '-') return fallback
@@ -71,32 +72,33 @@ export const getBreadcrumbSchema = (items) => ({
 
 export const getProductSchema = ({ product, productPath, images }) => {
   const price = getProductPrice(product)
-  const offer = {
-    '@type': 'Offer',
-    priceCurrency: 'IDR',
-    availability: getProductAvailability(product),
-    itemCondition: 'https://schema.org/NewCondition',
-    url: absoluteUrl(productPath),
+  const productSchema = {
+    '@context': 'https://schema.org',
+    '@type': 'Product',
+    name: product.name,
+    description: cleanText(getProductSeoDescription(product), `${product.name} from ${SITE_NAME}.`),
+    image: getProductImages(product, images),
+    sku: product.id,
+    category: [product.category, product.type].filter(Boolean).join(' '),
+    brand: {
+      '@type': 'Brand',
+      name: SITE_NAME,
+    },
   }
 
   if (price) {
-    offer.price = price
+    productSchema.offers = {
+      '@type': 'Offer',
+      priceCurrency: 'IDR',
+      price,
+      availability: getProductAvailability(product),
+      itemCondition: 'https://schema.org/NewCondition',
+      url: absoluteUrl(productPath),
+    }
   }
 
   return [
-    {
-      '@context': 'https://schema.org',
-      '@type': 'Product',
-      name: product.name,
-      description: cleanText(product.description, `${product.name} from ${SITE_NAME}.`),
-      image: getProductImages(product, images),
-      sku: product.id,
-      brand: {
-        '@type': 'Brand',
-        name: SITE_NAME,
-      },
-      offers: offer,
-    },
+    productSchema,
     getBreadcrumbSchema([
       { name: 'Home', path: '/' },
       { name: 'Collections', path: '/collections' },

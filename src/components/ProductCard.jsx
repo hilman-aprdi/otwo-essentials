@@ -1,5 +1,6 @@
 import Image from 'next/image'
 import Link from 'next/link'
+import FavoriteButton from './FavoriteButton.jsx'
 import { ROUTES } from '../lib/routes.js'
 
 const productUtils = {
@@ -22,14 +23,16 @@ const ProductCard = ({ product, colorFilter, showCategory = true }) => {
   const frontImage = shouldSwap ? selectedColor?.backImage : selectedColor?.frontImage
   const backImage = shouldSwap ? selectedColor?.frontImage : selectedColor?.backImage
   const hasBackImage = Boolean(backImage)
+  const selectedColorName = selectedColor?.name ? `${selectedColor.name} ` : ''
 
   return (
-    <div className="group cursor-pointer overflow-hidden rounded-2xl bg-white transition-all duration-300 hover:-translate-y-0.5">
+    <div className="group relative cursor-pointer overflow-hidden rounded-2xl bg-white transition-all duration-300 hover:-translate-y-0.5">
+      <FavoriteButton productSlug={product.slug} className="pointer-events-none absolute right-3 top-3 z-10 opacity-0 group-hover:pointer-events-auto group-hover:opacity-100 group-focus-within:pointer-events-auto group-focus-within:opacity-100" />
       <Link href={ROUTES.collectionProduct(category, product.slug)} className="block">
         <div className="relative aspect-square overflow-hidden bg-neutral-100">
           <Image
             src={frontImage}
-            alt={product.name}
+            alt={`${product.name} ${selectedColorName}front view`}
             width="800"
             height="800"
             className={`h-full w-full object-contain p-3 transition-all duration-500 group-hover:scale-[1.025] ${hasBackImage ? 'group-hover:opacity-0' : ''}`}
@@ -40,7 +43,7 @@ const ProductCard = ({ product, colorFilter, showCategory = true }) => {
           {hasBackImage && (
             <Image
               src={backImage}
-              alt={`${product.name} alternate view`}
+              alt={`${product.name} ${selectedColorName}back view`}
               width="800"
               height="800"
               className="absolute inset-0 h-full w-full object-contain p-3 opacity-0 transition-all duration-500 group-hover:scale-[1.025] group-hover:opacity-100"

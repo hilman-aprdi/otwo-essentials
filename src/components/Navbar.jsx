@@ -82,7 +82,7 @@ const Navbar = () => {
           </ul>
         </div>
 
-        <div className="hidden min-w-0 md:flex">
+        <div className="hidden min-w-0 items-center gap-3 md:flex">
           <form className="flex items-center" onSubmit={handleSearch}>
             <input
               type="text"
@@ -98,6 +98,16 @@ const Navbar = () => {
               </svg>
             </button>
           </form>
+          <Link
+            href={ROUTES.favorites}
+            className="flex h-10 w-10 items-center justify-center rounded-full border border-white bg-black text-white transition-all hover:bg-neutral-900"
+            aria-label="Favorite products"
+          >
+            <svg className="h-5 w-5" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" aria-hidden="true">
+              <path strokeLinecap="round" strokeLinejoin="round" d="M20 7h-3.2L15 4H9L7.2 7H4l1.5 13h13L20 7Z" />
+              <path strokeLinecap="round" strokeLinejoin="round" d="M9 11h6" />
+            </svg>
+          </Link>
         </div>
 
         <button className="ml-2 md:hidden" onClick={() => setMenuOpen(!menuOpen)} aria-label="Toggle Menu">
@@ -122,6 +132,11 @@ const Navbar = () => {
             <li>
               <Link href={ROUTES.collections} className="hover:text-white" onClick={() => setMenuOpen(false)}>
                 Collections
+              </Link>
+            </li>
+            <li>
+              <Link href={ROUTES.favorites} className="hover:text-white" onClick={() => setMenuOpen(false)}>
+                Favorites
               </Link>
             </li>
             <li>
