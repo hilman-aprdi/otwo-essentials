@@ -5,7 +5,7 @@ import { ASSETS, SITE_NAME, SITE_TAGLINE } from '../lib/site.js'
 
 const Hero = () => {
   return (
-    <section className="relative -mt-16 flex min-h-[100svh] w-full items-center justify-center overflow-hidden">
+    <section className="relative -mt-16 flex h-[100svh] min-h-screen w-full items-center justify-center overflow-hidden">
       <Image
         src={ASSETS.heroBgWebp}
         alt=""
