@@ -17,21 +17,6 @@ const getProductImages = (product, images = []) => {
   return visibleImages.length ? visibleImages.map((image) => getPublicAssetUrl(image.src)) : [getPublicAssetUrl(BRAND_OG_IMAGE)]
 }
 
-const getProductPrice = (product) => {
-  const prices = [product.basePrice, ...(product.variants || product.colors || []).map((variant) => variant.price)]
-    .map((price) => Number(price))
-    .filter((price) => Number.isFinite(price) && price > 0)
-
-  return prices.length ? Math.min(...prices) : null
-}
-
-const getProductAvailability = (product) => {
-  const variants = product.variants || product.colors || []
-  const hasStock = variants.length === 0 || variants.some((variant) => variant.inStock !== false)
-
-  return hasStock ? 'https://schema.org/InStock' : 'https://schema.org/OutOfStock'
-}
-
 export const getOrganizationSchema = () => ({
   '@context': 'https://schema.org',
   '@type': 'Organization',
@@ -71,34 +56,20 @@ export const getBreadcrumbSchema = (items) => ({
 })
 
 export const getProductSchema = ({ product, productPath, images }) => {
-  const price = getProductPrice(product)
-  const productSchema = {
-    '@context': 'https://schema.org',
-    '@type': 'Product',
-    name: product.name,
-    description: cleanText(getProductSeoDescription(product), `${product.name} from ${SITE_NAME}.`),
-    image: getProductImages(product, images),
-    sku: product.id,
-    category: [product.category, product.type].filter(Boolean).join(' '),
-    brand: {
-      '@type': 'Brand',
-      name: SITE_NAME,
-    },
-  }
-
-  if (price) {
-    productSchema.offers = {
-      '@type': 'Offer',
-      priceCurrency: 'IDR',
-      price,
-      availability: getProductAvailability(product),
-      itemCondition: 'https://schema.org/NewCondition',
-      url: absoluteUrl(productPath),
-    }
-  }
-
   return [
-    productSchema,
+    {
+      '@context': 'https://schema.org',
+      '@type': 'Product',
+      name: product.name,
+      description: cleanText(getProductSeoDescription(product), `${product.name} from ${SITE_NAME}.`),
+      image: getProductImages(product, images),
+      sku: product.id,
+      category: [product.category, product.type].filter(Boolean).join(' '),
+      brand: {
+        '@type': 'Brand',
+        name: SITE_NAME,
+      },
+    },
     getBreadcrumbSchema([
       { name: 'Home', path: '/' },
       { name: 'Collections', path: '/collections' },

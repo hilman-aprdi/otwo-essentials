@@ -7,7 +7,7 @@ const Hero = () => {
   return (
     <section className="relative -mt-16 flex min-h-[100svh] w-full items-center justify-center overflow-hidden">
       <Image
-        src={ASSETS.heroBgPng}
+        src={ASSETS.heroBgWebp}
         alt=""
         fill
         priority
