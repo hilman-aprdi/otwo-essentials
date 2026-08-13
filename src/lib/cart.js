@@ -1,8 +1,16 @@
+import { getAbsoluteUrl } from './site.js'
+
 export const CART_STORAGE_KEY = 'o2essentials_cart'
 export const ORDER_DRAFT_STORAGE_KEY = 'o2essentials_order_draft'
 export const CART_CHANGED_EVENT = 'o2essentials:cart-changed'
 export const ORDER_DRAFT_CHANGED_EVENT = 'o2essentials:order-draft-changed'
 export const WHATSAPP_ORDER_NUMBER = '6285117107851'
+
+const getOrderProductUrl = (productUrl) => {
+  if (!productUrl) return ''
+
+  return getAbsoluteUrl(productUrl)
+}
 
 export const getCartItemKey = ({ productSlug, variantCode, size }) =>
   [productSlug, variantCode || 'default', size || 'unspecified'].join(':')
@@ -140,7 +148,7 @@ export const createWhatsAppOrderUrl = ({ items, customer }) => {
         `Color: ${item.variantName || '-'}`,
         `Size: ${item.size || '-'}`,
         `Quantity: ${item.quantity}`,
-        item.productUrl ? `Link: ${item.productUrl}` : '',
+        item.productUrl ? `Link: ${getOrderProductUrl(item.productUrl)}` : '',
       ]
         .filter(Boolean)
         .join('\n'),
