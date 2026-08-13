@@ -215,6 +215,9 @@ const ProductListingClient = ({
                       setCurrentPage(page)
                       updateUrl(search, page, sortBy)
                     }}
+                    aria-label={`Go to page ${page}`}
+                    aria-current={safeCurrentPage === page ? 'page' : undefined}
+                    title={`Go to page ${page}`}
                     className={`rounded px-3 py-1 ${
                       safeCurrentPage === page ? 'cursor-default bg-blue-600 text-white' : 'cursor-pointer bg-gray-200 text-gray-700 hover:bg-gray-300'
                     }`}
@@ -236,6 +239,8 @@ const ProductListingClient = ({
                   safeCurrentPage > 1 ? 'bg-black text-white hover:bg-gray-800' : 'cursor-not-allowed bg-gray-200 text-gray-400'
                 }`}
                 disabled={safeCurrentPage <= 1}
+                aria-label="Go to previous page"
+                title="Go to previous page"
               >
                 Previous
               </button>
@@ -250,6 +255,8 @@ const ProductListingClient = ({
                   safeCurrentPage < totalPages ? 'bg-black text-white hover:bg-gray-800' : 'cursor-not-allowed bg-gray-200 text-gray-400'
                 }`}
                 disabled={safeCurrentPage >= totalPages}
+                aria-label="Go to next page"
+                title="Go to next page"
               >
                 Next
               </button>

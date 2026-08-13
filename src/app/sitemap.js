@@ -1,7 +1,17 @@
 import { getAllProducts } from '../lib/data.js'
 import { ROUTES, getCanonicalUrl } from '../lib/routes.js'
+import { getPublicAssetUrl, isPublicAssetPath } from '../lib/public-assets.js'
 
 export const dynamic = 'force-static'
+
+const getProductSitemapImages = (product) => {
+  const images = (product.variants || product.colors || [])
+    .flatMap((variant) => [variant.frontImage, variant.backImage])
+    .filter(isPublicAssetPath)
+    .map((src) => getPublicAssetUrl(src))
+
+  return [...new Set(images)]
+}
 
 export default function sitemap() {
   const now = new Date()
@@ -19,6 +29,7 @@ export default function sitemap() {
       lastModified: now,
       changeFrequency: 'weekly',
       priority: 0.7,
+      images: getProductSitemapImages(product),
     })),
   ]
 }

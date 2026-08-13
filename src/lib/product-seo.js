@@ -11,3 +11,9 @@ export const getProductSeoDescription = (product) => {
 
   return details.join(' ')
 }
+
+export const getProductImageAlt = ({ productName, variantName, angle, context }) => {
+  const normalizedAngle = angle ? `${String(angle).toLowerCase()} view` : ''
+
+  return ['O2 Essentials', productName, variantName, normalizedAngle, context].filter(Boolean).join(' ')
+}

@@ -57,6 +57,11 @@ export const metadata = {
   },
 }
 
+export const viewport = {
+  themeColor: '#050505',
+  colorScheme: 'dark',
+}
+
 export default function RootLayout({ children }) {
   return (
     <html lang="id" data-scroll-behavior="smooth">

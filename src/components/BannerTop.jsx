@@ -52,6 +52,7 @@ const BannerTop = () => {
                   onClick={() => setTopSlide(idx)}
                   className={`h-2 w-2 rounded-full ${topSlide === idx ? 'bg-white' : 'bg-white/40'}`}
                   aria-label={`Go to slide ${idx + 1}`}
+                  title={`Go to slide ${idx + 1}`}
                 />
               ))}
             </div>
@@ -59,6 +60,7 @@ const BannerTop = () => {
               onClick={() => setTopSlide((prev) => (prev - 1 + topBanners.length) % topBanners.length)}
               className="absolute left-3 top-1/2 -translate-y-1/2 rounded-full bg-black/45 p-2 text-white backdrop-blur-sm transition-colors hover:bg-black/70"
               aria-label="Previous banner"
+              title="Previous banner"
             >
               <svg className="h-4 w-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                 <path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M15 19l-7-7 7-7" />
@@ -68,6 +70,7 @@ const BannerTop = () => {
               onClick={() => setTopSlide((prev) => (prev + 1) % topBanners.length)}
               className="absolute right-3 top-1/2 -translate-y-1/2 rounded-full bg-black/45 p-2 text-white backdrop-blur-sm transition-colors hover:bg-black/70"
               aria-label="Next banner"
+              title="Next banner"
             >
               <svg className="h-4 w-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                 <path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M9 5l7 7-7 7" />
@@ -78,7 +81,7 @@ const BannerTop = () => {
       </section>
       <section className="bg-[#050505] px-4 pb-20 sm:px-6 lg:px-8">
         <div className="mx-auto max-w-7xl overflow-hidden rounded-3xl border border-white/10 bg-black">
-          <a href="https://shopee.co.id/o2essentialsofficialstore" target="_blank" rel="noopener noreferrer" aria-label="Shop O2 Essentials on Shopee" className="block">
+          <a href="https://shopee.co.id/o2essentialsofficialstore" target="_blank" rel="noopener noreferrer" aria-label="Shop O2 Essentials on Shopee" title="Shop O2 Essentials on Shopee" className="block">
             <Image
               src={ASSETS.bannerPayday}
               alt="O2 Essentials payday campaign"

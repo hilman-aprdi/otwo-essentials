@@ -13,8 +13,9 @@ const getProductImages = (product, images = []) => {
   const visibleImages = images.length
     ? images
     : (product.variants || product.colors || []).flatMap((variant) => [variant.frontImage, variant.backImage].filter(Boolean).map((src) => ({ src })))
+  const productImages = visibleImages.length ? visibleImages.map((image) => getPublicAssetUrl(image.src)) : [getPublicAssetUrl(BRAND_OG_IMAGE)]
 
-  return visibleImages.length ? visibleImages.map((image) => getPublicAssetUrl(image.src)) : [getPublicAssetUrl(BRAND_OG_IMAGE)]
+  return [...new Set(productImages)]
 }
 
 export const getOrganizationSchema = () => ({

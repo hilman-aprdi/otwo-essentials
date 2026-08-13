@@ -1,7 +1,7 @@
 import Image from 'next/image'
 import Link from 'next/link'
-import FavoriteButton from './FavoriteButton.jsx'
 import { ROUTES } from '../lib/routes.js'
+import { getProductImageAlt } from '../lib/product-seo.js'
 
 const productUtils = {
   getVariants: (product) => product.variants || product.colors || [],
@@ -27,12 +27,11 @@ const ProductCard = ({ product, colorFilter, showCategory = true }) => {
 
   return (
     <div className="group relative cursor-pointer overflow-hidden rounded-2xl bg-white transition-all duration-300 hover:-translate-y-0.5">
-      <FavoriteButton productSlug={product.slug} className="pointer-events-none absolute right-3 top-3 z-10 opacity-0 group-hover:pointer-events-auto group-hover:opacity-100 group-focus-within:pointer-events-auto group-focus-within:opacity-100" />
       <Link href={ROUTES.collectionProduct(category, product.slug)} className="block">
         <div className="relative aspect-square overflow-hidden bg-neutral-100">
           <Image
             src={frontImage}
-            alt={`${product.name} ${selectedColorName}front view`}
+            alt={getProductImageAlt({ productName: product.name, variantName: selectedColorName.trim(), angle: 'front' })}
             width="800"
             height="800"
             className={`h-full w-full object-contain p-3 transition-all duration-500 group-hover:scale-[1.025] ${hasBackImage ? 'group-hover:opacity-0' : ''}`}
@@ -43,7 +42,7 @@ const ProductCard = ({ product, colorFilter, showCategory = true }) => {
           {hasBackImage && (
             <Image
               src={backImage}
-              alt={`${product.name} ${selectedColorName}back view`}
+              alt={getProductImageAlt({ productName: product.name, variantName: selectedColorName.trim(), angle: 'back' })}
               width="800"
               height="800"
               className="absolute inset-0 h-full w-full object-contain p-3 opacity-0 transition-all duration-500 group-hover:scale-[1.025] group-hover:opacity-100"
