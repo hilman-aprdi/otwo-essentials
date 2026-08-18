@@ -6,9 +6,12 @@
   "scripts": {
     "dev": "next dev",
     "build": "next build",
-    "start": "next start"
+    "start": "next start",
+    "sanity:test-products": "node scripts/test-sanity-products.mjs",
+    "sanity:import-products": "node scripts/import-products-to-sanity.mjs"
   },
   "dependencies": {
+    "@sanity/client": "^8.1.0",
     "@tailwindcss/postcss": "latest",
     "next": "latest",
     "postcss": "^8.5.6",

@@ -1,8 +1,8 @@
 import ProductCard from './ProductCard.jsx'
-import { getFeaturedProducts } from '../lib/data.js'
+import { getHybridFeaturedProducts } from '../lib/sanity/products.js'
 
-const Featured = () => {
-  const featuredProducts = getFeaturedProducts(8)
+const Featured = async () => {
+  const featuredProducts = await getHybridFeaturedProducts(8)
 
   return (
     <section className="bg-[#050505] py-20">

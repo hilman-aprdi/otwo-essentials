@@ -1,5 +1,5 @@
 import CartPageClient from '../../components/CartPageClient.jsx'
-import { getAllProducts } from '../../lib/data.js'
+import { getAllHybridProducts } from '../../lib/sanity/products.js'
 import { ROUTES, getCanonicalUrl } from '../../lib/routes.js'
 
 export const metadata = {
@@ -14,6 +14,6 @@ export const metadata = {
   },
 }
 
-export default function CartPage() {
-  return <CartPageClient products={getAllProducts()} />
+export default async function CartPage() {
+  return <CartPageClient products={await getAllHybridProducts()} />
 }

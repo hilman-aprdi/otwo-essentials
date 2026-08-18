@@ -1,10 +1,10 @@
 import Link from 'next/link'
 import ProductCard from './ProductCard.jsx'
 import { ROUTES } from '../lib/routes.js'
-import { products } from '../lib/data.js'
+import { getAllHybridProducts } from '../lib/sanity/products.js'
 
-const ProductGrid = () => {
-  const displayProducts = products.slice(0, 16)
+const ProductGrid = async () => {
+  const displayProducts = (await getAllHybridProducts()).slice(0, 16)
 
   return (
     <section className="bg-[#f5f2ed] py-24">

@@ -1,5 +1,5 @@
 import OrderConfirmationClient from '../../components/OrderConfirmationClient.jsx'
-import { getAllProducts } from '../../lib/data.js'
+import { getAllHybridProducts } from '../../lib/sanity/products.js'
 import { ROUTES, getCanonicalUrl } from '../../lib/routes.js'
 
 export const metadata = {
@@ -14,6 +14,6 @@ export const metadata = {
   },
 }
 
-export default function OrderConfirmationPage() {
-  return <OrderConfirmationClient products={getAllProducts()} />
+export default async function OrderConfirmationPage() {
+  return <OrderConfirmationClient products={await getAllHybridProducts()} />
 }

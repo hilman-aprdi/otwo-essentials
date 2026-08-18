@@ -1,7 +1,7 @@
 import { Suspense } from 'react'
 import ProductListingClient from '../../components/ProductListingClient.jsx'
 import StructuredData from '../../components/StructuredData.jsx'
-import { getAllProducts } from '../../lib/data.js'
+import { getAllHybridProducts } from '../../lib/sanity/products.js'
 import { ROUTES, getCanonicalUrl } from '../../lib/routes.js'
 import { ASSETS, SITE_NAME, getAbsoluteUrl } from '../../lib/site.js'
 import { getCollectionSchema } from '../../lib/schema.js'
@@ -27,8 +27,8 @@ export const metadata = {
   },
 }
 
-export default function CollectionsPage() {
-  const products = getAllProducts()
+export default async function CollectionsPage() {
+  const products = await getAllHybridProducts()
 
   return (
     <>

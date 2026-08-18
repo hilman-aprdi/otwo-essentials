@@ -1,5 +1,6 @@
 import { Suspense } from 'react'
 import SearchPageClient from '../../components/SearchPageClient.jsx'
+import { getAllHybridProducts } from '../../lib/sanity/products.js'
 
 export const metadata = {
   title: 'Search Products',
@@ -9,10 +10,12 @@ export const metadata = {
   },
 }
 
-export default function SearchPage() {
+export default async function SearchPage() {
+  const products = await getAllHybridProducts()
+
   return (
     <Suspense fallback={<div className="min-h-screen" />}>
-      <SearchPageClient />
+      <SearchPageClient products={products} />
     </Suspense>
   )
 }

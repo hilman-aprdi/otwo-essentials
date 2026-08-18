@@ -1,12 +1,11 @@
 import ProductListingClient from './ProductListingClient.jsx'
-import { getAllProducts } from '../lib/data.js'
 
-const SearchPageClient = () => {
+const SearchPageClient = ({ products }) => {
   return (
     <ProductListingClient
       title="Search Results"
       subtitle="Search products in the collection."
-      products={getAllProducts()}
+      products={products}
       activeTab="all"
       showTabs={false}
       backHref="/collections"
